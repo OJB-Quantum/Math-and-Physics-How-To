@@ -3,7 +3,7 @@ A repository of publically-accessible resourses for learning mathematics and phy
 
 _______________________________________________________________________________________________________________
 
-# All The Physics You Need, Curated by Onri Jay Benally
+## All The Physics You Need, Curated by Onri Jay Benally
 
 | Topic | Source |
 |---|---|
@@ -42,5 +42,23 @@ ________________________________________________________________________________
 | Quantum Field Theory Playlist | [Nick Heumann](https://www.youtube.com/playlist?list=PLXS_wzQAoIt7GxSRwCaicaSdeKqzYSUq4) |
 | Relativistic Quantum Field Theory Playlist | [MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP61AV6bhf4mB3tCyWQrI_uU5) |
 | Important Notes & Physics Etiquettes | [Physics with Elliot](https://www.physicswithelliot.com/all-notes) |
+| Math Notes for Quantum Information Science| [Introduction to Quantum Information Science](https://qubit.guide/some-mathematical-preliminaries) |
 | Time-Dependent Quantum Mechanics & Spectroscopy Notes | [UChicago](https://tdqms.uchicago.edu) |
 | Transport in Semiconductor Mesoscopic Devices | [David K. Ferry (Book 1)](https://iopscience.iop.org/book/mono/978-0-7503-3139-5) / [David K. Ferry (Book 2)](https://iopscience.iop.org/book/mono/978-0-7503-1103-8) |
+
+
+## Additional Physics and Mathematics Resources
+
+| Topic | Source |
+|---|---|
+| Introduction to Mathematical Reasoning Playlist | [YouTube](https://youtube.com/playlist?list=PLxYr6TaF_SDU9ovvxPGAxI0dXfPgwhfBl&si=aTWKeeDbTgRDBDsn) |
+| Geometric Algebra - Why | [YouTube](https://youtu.be/PGZNYGwsXTw?si=Jm1y1pB8WRbmG21G) |
+| Geometric Algebra - Why 2 | [YouTube](https://youtu.be/m7v2IUJtC3g?si=SDmPDs2yDzDBktnZ) |
+| Zero to Geometric Algebra | [YouTube](https://youtube.com/playlist?list=PLVuwZXwFua-0Ks3rRS4tIkswgUmDLqqRy&si=TCmjMbomOjzW0GyW) |
+| Spinors Playlist | [YouTube](https://youtube.com/playlist?list=PLJHszsWbB6hoOo_wMb0b6T44KM_ABZtBs&si=RvKpojxj7defv5SQ) |
+| Weinberg's Lectures on Quantum Mechanics Playlist | [YouTube](https://youtube.com/playlist?list=PLy8F8dLvbGgAzZOng2Gc5OLpU1VRLh9jL&si=FEdUbLUEUK-UKnHi) |
+| Thermodynamics & Statistical Physics Playlist | [YouTube](https://youtube.com/playlist?list=PLVjZPwRzdu40ZWkRxvwjan9ZyIbVexzOK&si=EtjiJQyTwqjiolas) |
+| Solid State Devices Playlist | [YouTube](https://youtube.com/playlist?list=PLtkeUZItwHK4Y5WBNdkc5zKUi3m3WbGHo&si=Y4rKg68Gjijpw1WG) |
+| QuTech360 Seminars | [YouTube](https://youtube.com/playlist?list=PL5jmbd6SJYnOyp8OP-ZME8GgTlLFXbrqO&si=Dsfc8N0bf5hbIQbx) |
+| Quantum Playlists (Nick Heumann University) | [YouTube](https://www.youtube.com/@NickHeumannUniversity/playlists) |
+
