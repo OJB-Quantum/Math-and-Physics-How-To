@@ -48,14 +48,15 @@ ________________________________________________________________________________
 | Transport in Semiconductor Mesoscopic Devices | [David K. Ferry (Book 1)](https://iopscience.iop.org/book/mono/978-0-7503-3139-5) / [David K. Ferry (Book 2)](https://iopscience.iop.org/book/mono/978-0-7503-1103-8) |
 
 
-## Additional Physics and Mathematics Resources
+## Additional Physics & Mathematics Resources
 
 | Topic | Source |
 |---|---|
 | Introduction to Mathematical Reasoning Playlist | [YouTube](https://youtube.com/playlist?list=PLxYr6TaF_SDU9ovvxPGAxI0dXfPgwhfBl&si=aTWKeeDbTgRDBDsn) |
 | Geometric Algebra - Why | [YouTube](https://youtu.be/PGZNYGwsXTw?si=Jm1y1pB8WRbmG21G) |
 | Geometric Algebra - Why 2 | [YouTube](https://youtu.be/m7v2IUJtC3g?si=SDmPDs2yDzDBktnZ) |
-| Zero to Geometric Algebra | [YouTube](https://youtube.com/playlist?list=PLVuwZXwFua-0Ks3rRS4tIkswgUmDLqqRy&si=TCmjMbomOjzW0GyW) |
+| Zero to Geo[metric Algebra] | [YouTube](https://youtube.com/playlist?list=PLVuwZXwFua-0Ks3rRS4tIkswgUmDLqqRy&si=TCmjMbomOjzW0GyW) |
+| The Bright Side of Mathematics - Advanced Mathematics | [YouTube](https://www.youtube.com/@brightsideofmaths/playlists) |
 | Spinors Playlist | [YouTube](https://youtube.com/playlist?list=PLJHszsWbB6hoOo_wMb0b6T44KM_ABZtBs&si=RvKpojxj7defv5SQ) |
 | Weinberg's Lectures on Quantum Mechanics Playlist | [YouTube](https://youtube.com/playlist?list=PLy8F8dLvbGgAzZOng2Gc5OLpU1VRLh9jL&si=FEdUbLUEUK-UKnHi) |
 | Thermodynamics & Statistical Physics Playlist | [YouTube](https://youtube.com/playlist?list=PLVjZPwRzdu40ZWkRxvwjan9ZyIbVexzOK&si=EtjiJQyTwqjiolas) |
