@@ -34,7 +34,7 @@ ________________________________________________________________________________
 | Use software tools for conversion <br> to markdown or LaTeX | Convert equations for better inspection & rendering, ensuring <br> accuracy. |
 | Leverage Python & libraries <br> like SymPy | Write equations in Python for execution & manipulation, <br> aiding clarity & verification. |
 | Remember solutions on graphs <br> are line intersections | Graphical solutions typically correspond to intersection points <br> of lines or curves. |
-| Assume invisible exponents of $\mathbf{1}$ | This assumption helps maintain organization & supports <br> & grouping symbols |
+| Assume invisible exponents of 1 | This assumption helps maintain organization & supports <br> & grouping symbols |
 | Use preferred mathematical <br> notations | Include curly brackets, e-notation, prime/dot notation, & <br> highlight invisible symbols for clarity & precision. |
 | Stay aware of term replacements | Recognize when terms are replaced or approximated in <br> mathematical contexts. |
 | Consider various methods <br> (axiomatic, first principles, <br> empirical) | Use diverse approaches, including logical derivations, empirical <br> evidence, & hybrid methodologies for problem-solving. |
