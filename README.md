@@ -1,9 +1,15 @@
 # Math-and-Physics-How-To
 A repository of publically-accessible resources for learning and self-teaching mathematics & physics up to the graduate level.
 
+*Scroll to the bottom of the page to see the table of critical equations*
+
 _______________________________________________________________________________________________________________
 
-
+### Great Resources for Practicing Computational Methods:
+- [J Robert Johansson's Website on Quantum Computational Physics](https://jrjohansson.github.io/computing.html)
+- [QuTiP Tutorials](https://qutip.org/qutip-tutorials)
+- [Open a New Google Colab Notebook](https://colab.research.google.com)
+- [Browse Some Fun Data Science Notebooks in Google Colab](https://colab.google/notebooks/#data)
 
 _______________________________________________________________________________________________________________
 
@@ -60,6 +66,7 @@ ________________________________________________________________________________
 | Geometric Algebra - Why | [Parker Glynn-Adey](https://youtu.be/PGZNYGwsXTw?si=Jm1y1pB8WRbmG21G) |
 | Geometric Algebra - Why 2 | [Bivector](https://youtu.be/m7v2IUJtC3g?si=SDmPDs2yDzDBktnZ) |
 | Zero to Geo[metric Algebra] | [sudgylacmoe](https://youtube.com/playlist?list=PLVuwZXwFua-0Ks3rRS4tIkswgUmDLqqRy&si=TCmjMbomOjzW0GyW) |
+| Differential Geometric Algebra | [Crucial Flow Research](https://youtu.be/7hlDRLEhc8o?si=fShumaSE7mZhBJTU) |
 | Advanced Mathematics | [The Bright Side of Mathematics](https://www.youtube.com/@brightsideofmaths/playlists) |
 | Spinors Playlist | [eigenchris](https://youtube.com/playlist?list=PLJHszsWbB6hoOo_wMb0b6T44KM_ABZtBs&si=RvKpojxj7defv5SQ) |
 | Weinberg's Lectures on Quantum Mechanics Playlist | [Physics Daemon](https://youtube.com/playlist?list=PLy8F8dLvbGgAzZOng2Gc5OLpU1VRLh9jL&si=FEdUbLUEUK-UKnHi) |
@@ -69,3 +76,12 @@ ________________________________________________________________________________
 | QuTech360 Seminars | [QuTech Academy](https://youtube.com/playlist?list=PL5jmbd6SJYnOyp8OP-ZME8GgTlLFXbrqO&si=Dsfc8N0bf5hbIQbx) |
 | Quantum Playlists  | [Nick Heumann University](https://www.youtube.com/@NickHeumannUniversity/playlists) |
 
+___________________
+
+### Table of Critical Equations to Know
+
+![mathpix 2025-01-31 05-40-02_](https://github.com/user-attachments/assets/5a53bef2-e6bc-48a2-86d7-747c1724298c)
+
+![mathpix 2025-01-31 05-45-52](https://github.com/user-attachments/assets/e3cf1e64-96b4-4b0b-8390-d144968b4cd6)
+
+Markdown script of the rendered table above is available: [click here](https://github.com/OJB-Quantum/Math-and-Physics-How-To/blob/main/Critical%20Equations%20Table.md)
