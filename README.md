@@ -24,6 +24,8 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 
 _______________________________________________________________________________________________________________
 
+### Pro Tips for Solving Mathematical Problems by O.J.B.:
+
 | Tip | Explanation/ Details |
 | :--- | :--- |
 | Substitute variables with custom <br> variables (e.g., AbcdEfG) | Solve the equation using your own variables, then mirror the <br> steps onto the original problem for proportional reasoning. |
@@ -39,9 +41,31 @@ ________________________________________________________________________________
 | Explore graphical, tabulated, or <br> geometric representations | Visual or tabular methods can simplify complex mathematical <br> concepts. |
 | Practice final exam reviews | Mastery in mathematics comes with regular & extensive <br> practice, particularly of exam-style problems. |
 
+
+Basic Math Symbols
+≠ ± ∓ ÷ × ∙ – √ ‰ ⊗ ⊕ ⊖ ⊘ ⊙ ≤ ≥ ≦ ≧ ≨ ≩ ≺ ≻ ≼ ≽ ⊏ ⊐ ⊑ ⊒ ² ³ °
+
+Geometry Symbols
+∠ ∟ ° ≅ ~ ‖ ⟂ ⫛
+
+Algebra Symbols
+≡ ≜ ≈ ∝ ∞ ≪ ≫ ⌊⌋ ⌈⌉ ∘∏ ∐ ∑ ⋀ ⋁ ⋂ ⋃ ⨀ ⨁ ⨂ 𝖕 𝖖 𝖗 | 〉
+
+Set Theory Symbols
+∅ ∖ ∁ ↦ ↣ ∩ ∪ ⊆ ⊂ ⊄ ⊊ ⊇ ⊃ ⊅ ⊋ ⊖ ∈ ∉ ∋ ∌ ℕ ℤ ℚ ℝ ℂ ℵ ℶ ℷ ℸ 𝓟
+
+Logic Symbols
+¬ ∨ ∧ ⊕ → ← ⇒ ⇐ ↔ ⇔ ∀ ∃ ∄ ∴ ∵ ⊤ ⊥ ⊢ ⊨ ⫤ ⊣
+
+Calculus and Analysis Symbols
+∫ ∬ ∭ ∮ ∯ ∰ ∇ ∆ δ ∂ ℱ ℒ ℓ
+
+Greek Letters
+𝛢𝛼 𝛣𝛽 𝛤𝛾 𝛥𝛿 𝛦𝜀𝜖 𝛧𝜁 𝛨𝜂 𝛩𝜃𝜗 𝛪𝜄 𝛫𝜅 𝛬𝜆 𝛭𝜇 𝛮𝜈 𝛯𝜉 𝛰𝜊 𝛱𝜋 𝛲𝜌 𝛴𝜎 𝛵𝜏 𝛶𝜐 𝛷𝜙𝜑 𝛸𝜒 𝛹𝜓 𝛺𝜔
+
 _______________________________________________________________________________________________________________
 
-## All The Physics You Need, Curated by Onri Jay Benally:
+## All The Physics You Need, Curated by O.J.B.:
 
 | Topic | Source |
 |---|---|
@@ -103,6 +127,17 @@ ________________________________________________________________________________
 | Solid State Devices Playlist | [nanohubtechtalks](https://youtube.com/playlist?list=PLtkeUZItwHK4Y5WBNdkc5zKUi3m3WbGHo&si=Y4rKg68Gjijpw1WG) |
 | QuTech360 Seminars | [QuTech Academy](https://youtube.com/playlist?list=PL5jmbd6SJYnOyp8OP-ZME8GgTlLFXbrqO&si=Dsfc8N0bf5hbIQbx) |
 | Quantum Playlists  | [Nick Heumann University](https://www.youtube.com/@NickHeumannUniversity/playlists) |
+
+|  |
+|-------------|
+| [Amazing Things You Can Do in Geometric Algebra](https://youtu.be/xGuN6KM_D18) |
+| [Related Rates - Conical Tank, Ladder Angle & Shadow Problem, Circle & Sphere - Calculus](https://youtu.be/ps-r4nti5Go) |
+| [Understand Calculus in 35 Minutes](https://youtu.be/WsQQvHm4lSw) |
+| [Chain Rule With Partial Derivatives - Multivariable Calculus](https://youtu.be/XipB_uEexF0) |
+| [Integration Using The Substitution Rule](https://youtu.be/sci1pls4Lc8) |
+| [Partial Derivatives - Multivariable Calculus](https://youtu.be/JAf_aSIJryg) |
+| [Vector Fields, Divergence, and Curl](https://youtu.be/2qxxd68fZng) |
+
 
 ___________________
 
