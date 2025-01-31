@@ -7,6 +7,11 @@ A repository of publically-accessible resources for learning & self-teaching mat
 
 _______________________________________________________________________________________________________________
 
+### In Case You Want Some Fun Open Access Interactive Tools to Try:
+- [Free Education](https://ojb-quantum.github.io/Free-Education)
+
+_______________________________________________________________________________________________________________
+
 ### Great Resources for Practicing Computational Methods:
 - [J Robert Johansson's Website on Scientific Computing & QuTiP](https://jrjohansson.github.io/computing.html)
 - [QuTiP Tutorials](https://qutip.org/qutip-tutorials)
