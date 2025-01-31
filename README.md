@@ -45,7 +45,7 @@ ________________________________________________________________________________
 | Math Notes for Quantum Information Science| [Introduction to Quantum Information Science](https://qubit.guide/some-mathematical-preliminaries) |
 | Time-Dependent Quantum Mechanics & Spectroscopy Notes | [UChicago](https://tdqms.uchicago.edu) |
 | Solid-State Physics | [Prof. M. S. Dresselhaus](https://web.mit.edu/6.732/www/texts.html)|
-| Transport in Semiconductor Mesoscopic Devices | [David K. Ferry (Book 1)](https://iopscience.iop.org/book/mono/978-0-7503-3139-5) / [David K. Ferry (Book 2)](https://iopscience.iop.org/book/mono/978-0-7503-1103-8) |
+| Transport in Semiconductor Mesoscopic Devices | [David K. Ferry (Book 1)](https://iopscience.iop.org/book/mono/978-0-7503-3139-5) / <br> [David K. Ferry (Book 2)](https://iopscience.iop.org/book/mono/978-0-7503-1103-8) |
 
 
 ## Additional Physics & Mathematics Resources
