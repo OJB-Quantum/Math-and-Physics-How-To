@@ -6,7 +6,7 @@ A repository of publically-accessible resources for learning and self-teaching m
 _______________________________________________________________________________________________________________
 
 ### Great Resources for Practicing Computational Methods:
-- [J Robert Johansson's Website on Quantum Computational Physics](https://jrjohansson.github.io/computing.html)
+- [J Robert Johansson's Website on Scientific Computing & QuTiP](https://jrjohansson.github.io/computing.html)
 - [QuTiP Tutorials](https://qutip.org/qutip-tutorials)
 - [Open a New Google Colab Notebook](https://colab.research.google.com)
 - [Browse Some Fun Data Science Notebooks in Google Colab](https://colab.google/notebooks/#data)
