@@ -3,6 +3,10 @@ A repository of publically-accessible resources for learning and self-teaching m
 
 _______________________________________________________________________________________________________________
 
+
+
+_______________________________________________________________________________________________________________
+
 ## All The Physics You Need, Curated by Onri Jay Benally
 
 | Topic | Source |
