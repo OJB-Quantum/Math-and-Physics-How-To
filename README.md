@@ -72,5 +72,6 @@ ___________________
 
 ![mathpix 2025-01-31 05-40-02_](https://github.com/user-attachments/assets/5a53bef2-e6bc-48a2-86d7-747c1724298c)
 
+![mathpix 2025-01-31 05-45-52](https://github.com/user-attachments/assets/e3cf1e64-96b4-4b0b-8390-d144968b4cd6)
 
 
