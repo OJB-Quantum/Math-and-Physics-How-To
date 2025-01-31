@@ -3,6 +3,8 @@ A repository of publically-accessible resources for learning & self-teaching mat
 
 *Scroll to the bottom of the page to see the table of critical equations*
 
+"You can master mathematics if you practice enough final exam reviews of desired mathematical subjects. Being good at mathematics is a matter of practice". - Onri Jay Benally
+
 _______________________________________________________________________________________________________________
 
 ### Great Resources for Practicing Computational Methods:
@@ -22,7 +24,48 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 
 _______________________________________________________________________________________________________________
 
-## All The Physics You Need, Curated by Onri Jay Benally:
+### Pro Tips for Solving Mathematical Problems by O.J.B.:
+
+| Tip | Explanation/ Details |
+| :--- | :--- |
+| Substitute variables with custom <br> variables (e.g., AbcdEfG) | Solve the equation using your own variables, then mirror the <br> steps onto the original problem for proportional reasoning. |
+| Interpret the equal sign as <br> "converts to" | Thinking of "=" as "converts to" can facilitate substitutions & <br> manipulations in other mathematical expressions. |
+| Think in terms of ratios by <br> default | Viewing values as ratios can simplify problem-solving & <br> conceptual understanding. |
+| Use software tools for conversion <br> to markdown or LaTeX | Convert equations for better inspection & rendering, ensuring <br> accuracy. |
+| Leverage Python & libraries <br> like SymPy | Write equations in Python for execution & manipulation, <br> aiding clarity & verification. |
+| Remember solutions on graphs <br> are line intersections | Graphical solutions typically correspond to intersection points <br> of lines or curves. |
+| Assume invisible exponents of $\mathbf{1}$ | This assumption helps maintain organization & supports <br> & grouping symbols |
+| Use preferred mathematical <br> notations | Include curly brackets, e-notation, prime/dot notation, & <br> highlight invisible symbols for clarity & precision. |
+| Stay aware of term replacements | Recognize when terms are replaced or approximated in <br> mathematical contexts. |
+| Consider various methods <br> (axiomatic, first principles, <br> empirical) | Use diverse approaches, including logical derivations, empirical <br> evidence, & hybrid methodologies for problem-solving. |
+| Explore graphical, tabulated, or <br> geometric representations | Visual or tabular methods can simplify complex mathematical <br> concepts. |
+| Practice final exam reviews | Mastery in mathematics comes with regular & extensive <br> practice, particularly of exam-style problems. |
+
+
+Basic Math Symbols
+≠ ± ∓ ÷ × ∙ – √ ‰ ⊗ ⊕ ⊖ ⊘ ⊙ ≤ ≥ ≦ ≧ ≨ ≩ ≺ ≻ ≼ ≽ ⊏ ⊐ ⊑ ⊒ ² ³ °
+
+Geometry Symbols
+∠ ∟ ° ≅ ~ ‖ ⟂ ⫛
+
+Algebra Symbols
+≡ ≜ ≈ ∝ ∞ ≪ ≫ ⌊⌋ ⌈⌉ ∘∏ ∐ ∑ ⋀ ⋁ ⋂ ⋃ ⨀ ⨁ ⨂ 𝖕 𝖖 𝖗 | 〉
+
+Set Theory Symbols
+∅ ∖ ∁ ↦ ↣ ∩ ∪ ⊆ ⊂ ⊄ ⊊ ⊇ ⊃ ⊅ ⊋ ⊖ ∈ ∉ ∋ ∌ ℕ ℤ ℚ ℝ ℂ ℵ ℶ ℷ ℸ 𝓟
+
+Logic Symbols
+¬ ∨ ∧ ⊕ → ← ⇒ ⇐ ↔ ⇔ ∀ ∃ ∄ ∴ ∵ ⊤ ⊥ ⊢ ⊨ ⫤ ⊣
+
+Calculus and Analysis Symbols
+∫ ∬ ∭ ∮ ∯ ∰ ∇ ∆ δ ∂ ℱ ℒ ℓ
+
+Greek Letters
+𝛢𝛼 𝛣𝛽 𝛤𝛾 𝛥𝛿 𝛦𝜀𝜖 𝛧𝜁 𝛨𝜂 𝛩𝜃𝜗 𝛪𝜄 𝛫𝜅 𝛬𝜆 𝛭𝜇 𝛮𝜈 𝛯𝜉 𝛰𝜊 𝛱𝜋 𝛲𝜌 𝛴𝜎 𝛵𝜏 𝛶𝜐 𝛷𝜙𝜑 𝛸𝜒 𝛹𝜓 𝛺𝜔
+
+_______________________________________________________________________________________________________________
+
+## All The Physics You Need, Curated by O.J.B.:
 
 | Topic | Source |
 |---|---|
@@ -84,6 +127,17 @@ ________________________________________________________________________________
 | Solid State Devices Playlist | [nanohubtechtalks](https://youtube.com/playlist?list=PLtkeUZItwHK4Y5WBNdkc5zKUi3m3WbGHo&si=Y4rKg68Gjijpw1WG) |
 | QuTech360 Seminars | [QuTech Academy](https://youtube.com/playlist?list=PL5jmbd6SJYnOyp8OP-ZME8GgTlLFXbrqO&si=Dsfc8N0bf5hbIQbx) |
 | Quantum Playlists  | [Nick Heumann University](https://www.youtube.com/@NickHeumannUniversity/playlists) |
+
+|  |
+|-------------|
+| [Amazing Things You Can Do in Geometric Algebra](https://youtu.be/xGuN6KM_D18) |
+| [Related Rates - Conical Tank, Ladder Angle & Shadow Problem, Circle & Sphere - Calculus](https://youtu.be/ps-r4nti5Go) |
+| [Understand Calculus in 35 Minutes](https://youtu.be/WsQQvHm4lSw) |
+| [Chain Rule With Partial Derivatives - Multivariable Calculus](https://youtu.be/XipB_uEexF0) |
+| [Integration Using The Substitution Rule](https://youtu.be/sci1pls4Lc8) |
+| [Partial Derivatives - Multivariable Calculus](https://youtu.be/JAf_aSIJryg) |
+| [Vector Fields, Divergence, and Curl](https://youtu.be/2qxxd68fZng) |
+
 
 ___________________
 
