@@ -3,6 +3,8 @@ A repository of publically-accessible resources for learning & self-teaching mat
 
 *Scroll to the bottom of the page to see the table of critical equations*
 
+"You can master mathematics if you practice enough final exam reviews of desired mathematical subjects. Being good at mathematics is a matter of practice". - Onri Jay Benally
+
 _______________________________________________________________________________________________________________
 
 ### Great Resources for Practicing Computational Methods:
@@ -19,6 +21,23 @@ ________________________________________________________________________________
 
 Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathematics (2023)
 <https://youtu.be/ljGSId-uHw8?si=xKNup3hOVsWC6uTv&t=200>
+
+_______________________________________________________________________________________________________________
+
+| Tip | Explanation/ Details |
+| :--- | :--- |
+| Substitute variables with custom <br> variables (e.g., AbcdEfG) | Solve the equation using your own variables, then mirror the <br> steps onto the original problem for proportional reasoning. |
+| Interpret the equal sign as <br> "converts to" | Thinking of "=" as "converts to" can facilitate substitutions & <br> manipulations in other mathematical expressions. |
+| Think in terms of ratios by <br> default | Viewing values as ratios can simplify problem-solving & <br> conceptual understanding. |
+| Use software tools for conversion <br> to markdown or LaTeX | Convert equations for better inspection & rendering, ensuring <br> accuracy. |
+| Leverage Python & libraries <br> like SymPy | Write equations in Python for execution & manipulation, <br> aiding clarity & verification. |
+| Remember solutions on graphs <br> are line intersections | Graphical solutions typically correspond to intersection points <br> of lines or curves. |
+| Assume invisible exponents of $\mathbf{1}$ | This assumption helps maintain organization & supports <br> & grouping symbols |
+| Use preferred mathematical <br> notations | Include curly brackets, e-notation, prime/dot notation, & <br> highlight invisible symbols for clarity & precision. |
+| Stay aware of term replacements | Recognize when terms are replaced or approximated in <br> mathematical contexts. |
+| Consider various methods <br> (axiomatic, first principles, <br> empirical) | Use diverse approaches, including logical derivations, empirical <br> evidence, & hybrid methodologies for problem-solving. |
+| Explore graphical, tabulated, or <br> geometric representations | Visual or tabular methods can simplify complex mathematical <br> concepts. |
+| Practice final exam reviews | Mastery in mathematics comes with regular & extensive <br> practice, particularly of exam-style problems. |
 
 _______________________________________________________________________________________________________________
 
