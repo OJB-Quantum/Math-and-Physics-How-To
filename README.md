@@ -66,3 +66,11 @@ ________________________________________________________________________________
 | QuTech360 Seminars | [QuTech Academy](https://youtube.com/playlist?list=PL5jmbd6SJYnOyp8OP-ZME8GgTlLFXbrqO&si=Dsfc8N0bf5hbIQbx) |
 | Quantum Playlists  | [Nick Heumann University](https://www.youtube.com/@NickHeumannUniversity/playlists) |
 
+___________________
+
+### Table of Critical Equations to Know
+
+![mathpix 2025-01-31 05-40-02_](https://github.com/user-attachments/assets/5a53bef2-e6bc-48a2-86d7-747c1724298c)
+
+
+
