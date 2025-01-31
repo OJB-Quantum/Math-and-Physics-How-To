@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/833be6b8-6a9d-4602-a69c-63096bb91dac)
 
-Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathematics (2023)
+Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathematics (2023)  
 <https://youtu.be/ljGSId-uHw8?si=xKNup3hOVsWC6uTv&t=200>
 
 _______________________________________________________________________________________________________________
@@ -34,13 +34,14 @@ ________________________________________________________________________________
 | Use software tools for conversion <br> to markdown or LaTeX | Convert equations for better inspection & rendering, ensuring <br> accuracy. |
 | Leverage Python & libraries <br> like SymPy | Write equations in Python for execution & manipulation, <br> aiding clarity & verification. |
 | Remember solutions on graphs <br> are line intersections | Graphical solutions typically correspond to intersection points <br> of lines or curves. |
-| Assume invisible exponents of $\mathbf{1}$ | This assumption helps maintain organization & supports <br> & grouping symbols |
+| Assume invisible exponents of 1 | This assumption helps maintain organization & supports <br> & grouping symbols |
 | Use preferred mathematical <br> notations | Include curly brackets, e-notation, prime/dot notation, & <br> highlight invisible symbols for clarity & precision. |
 | Stay aware of term replacements | Recognize when terms are replaced or approximated in <br> mathematical contexts. |
 | Consider various methods <br> (axiomatic, first principles, <br> empirical) | Use diverse approaches, including logical derivations, empirical <br> evidence, & hybrid methodologies for problem-solving. |
 | Explore graphical, tabulated, or <br> geometric representations | Visual or tabular methods can simplify complex mathematical <br> concepts. |
 | Practice final exam reviews | Mastery in mathematics comes with regular & extensive <br> practice, particularly of exam-style problems. |
 
+______________________________________________________________________________________________________________
 
 Basic Math Symbols
 ≠ ± ∓ ÷ × ∙ – √ ‰ ⊗ ⊕ ⊖ ⊘ ⊙ ≤ ≥ ≦ ≧ ≨ ≩ ≺ ≻ ≼ ≽ ⊏ ⊐ ⊑ ⊒ ² ³ °
@@ -57,7 +58,7 @@ Set Theory Symbols
 Logic Symbols
 ¬ ∨ ∧ ⊕ → ← ⇒ ⇐ ↔ ⇔ ∀ ∃ ∄ ∴ ∵ ⊤ ⊥ ⊢ ⊨ ⫤ ⊣
 
-Calculus and Analysis Symbols
+Calculus & Analysis Symbols
 ∫ ∬ ∭ ∮ ∯ ∰ ∇ ∆ δ ∂ ℱ ℒ ℓ
 
 Greek Letters
@@ -115,6 +116,7 @@ ________________________________________________________________________________
 | Topic | Source |
 |---|---|
 | Introduction to Mathematical Reasoning Playlist | [Knop's Course](https://youtube.com/playlist?list=PLxYr6TaF_SDU9ovvxPGAxI0dXfPgwhfBl&si=aTWKeeDbTgRDBDsn) |
+| General Mathematical Playlists | [Faculty of Khan](https://www.youtube.com/@FacultyofKhan/playlists) |
 | Geometric Algebra - Why | [Parker Glynn-Adey](https://youtu.be/PGZNYGwsXTw?si=Jm1y1pB8WRbmG21G) |
 | Geometric Algebra - Why 2 | [Bivector](https://youtu.be/m7v2IUJtC3g?si=SDmPDs2yDzDBktnZ) |
 | Zero to Geo[metric Algebra] | [sudgylacmoe](https://youtube.com/playlist?list=PLVuwZXwFua-0Ks3rRS4tIkswgUmDLqqRy&si=TCmjMbomOjzW0GyW) |
