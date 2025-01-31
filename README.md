@@ -58,7 +58,7 @@ Set Theory Symbols
 Logic Symbols
 ¬ ∨ ∧ ⊕ → ← ⇒ ⇐ ↔ ⇔ ∀ ∃ ∄ ∴ ∵ ⊤ ⊥ ⊢ ⊨ ⫤ ⊣
 
-Calculus and Analysis Symbols
+Calculus & Analysis Symbols
 ∫ ∬ ∭ ∮ ∯ ∰ ∇ ∆ δ ∂ ℱ ℒ ℓ
 
 Greek Letters
