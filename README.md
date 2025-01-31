@@ -13,7 +13,16 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________
 
-## All The Physics You Need, Curated by Onri Jay Benally
+### Map of Mathematics & Their Prerequisites:
+
+![image](https://github.com/user-attachments/assets/833be6b8-6a9d-4602-a69c-63096bb91dac)
+
+Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathematics (2023)
+<https://youtu.be/ljGSId-uHw8?si=xKNup3hOVsWC6uTv&t=200>
+
+_______________________________________________________________________________________________________________
+
+## All The Physics You Need, Curated by Onri Jay Benally:
 
 | Topic | Source |
 |---|---|
@@ -58,7 +67,7 @@ ________________________________________________________________________________
 | Transport in Semiconductor Mesoscopic Devices | [David K. Ferry (Book 1)](https://iopscience.iop.org/book/mono/978-0-7503-3139-5) / <br> [David K. Ferry (Book 2)](https://iopscience.iop.org/book/mono/978-0-7503-1103-8) |
 
 
-## Additional Physics & Mathematics Resources
+## Additional Physics & Mathematics Resources:
 
 | Topic | Source |
 |---|---|
@@ -78,7 +87,7 @@ ________________________________________________________________________________
 
 ___________________
 
-### Table of Critical Equations to Know
+### Table of Critical Equations to Know:
 
 ![mathpix 2025-01-31 05-40-02_](https://github.com/user-attachments/assets/5a53bef2-e6bc-48a2-86d7-747c1724298c)
 
