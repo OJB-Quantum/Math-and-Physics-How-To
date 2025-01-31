@@ -41,6 +41,7 @@ ________________________________________________________________________________
 | Explore graphical, tabulated, or <br> geometric representations | Visual or tabular methods can simplify complex mathematical <br> concepts. |
 | Practice final exam reviews | Mastery in mathematics comes with regular & extensive <br> practice, particularly of exam-style problems. |
 
+______________________________________________________________________________________________________________
 
 Basic Math Symbols
 ≠ ± ∓ ÷ × ∙ – √ ‰ ⊗ ⊕ ⊖ ⊘ ⊙ ≤ ≥ ≦ ≧ ≨ ≩ ≺ ≻ ≼ ≽ ⊏ ⊐ ⊑ ⊒ ² ³ °
