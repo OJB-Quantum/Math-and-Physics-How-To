@@ -5,6 +5,13 @@ A repository of publically-accessible resources for learning and self-teaching m
 
 _______________________________________________________________________________________________________________
 
+### A great resource for practicing computational methods:
+- [J Robert Johansson's Website on Quantum Computational Physics](https://jrjohansson.github.io/computing.html)
+- [QuTiP Tutorials](https://qutip.org/qutip-tutorials)
+- [Open a New Google Colab Notebook](https://colab.research.google.com)
+
+_______________________________________________________________________________________________________________
+
 ## All The Physics You Need, Curated by Onri Jay Benally
 
 | Topic | Source |
