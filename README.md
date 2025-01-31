@@ -74,4 +74,4 @@ ___________________
 
 ![mathpix 2025-01-31 05-45-52](https://github.com/user-attachments/assets/e3cf1e64-96b4-4b0b-8390-d144968b4cd6)
 
-
+Markdown script of the rendered table above is available: (click here)[https://github.com/OJB-Quantum/Math-and-Physics-How-To/blob/main/Critical%20Equations%20Table.md]
