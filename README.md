@@ -56,6 +56,7 @@ ________________________________________________________________________________
 | Geometric Algebra - Why | [Parker Glynn-Adey](https://youtu.be/PGZNYGwsXTw?si=Jm1y1pB8WRbmG21G) |
 | Geometric Algebra - Why 2 | [Bivector](https://youtu.be/m7v2IUJtC3g?si=SDmPDs2yDzDBktnZ) |
 | Zero to Geo[metric Algebra] | [sudgylacmoe](https://youtube.com/playlist?list=PLVuwZXwFua-0Ks3rRS4tIkswgUmDLqqRy&si=TCmjMbomOjzW0GyW) |
+| Differential Geometric Algebra | [Crucial Flow Research](https://youtu.be/7hlDRLEhc8o?si=fShumaSE7mZhBJTU) |
 | Advanced Mathematics | [The Bright Side of Mathematics](https://www.youtube.com/@brightsideofmaths/playlists) |
 | Spinors Playlist | [eigenchris](https://youtube.com/playlist?list=PLJHszsWbB6hoOo_wMb0b6T44KM_ABZtBs&si=RvKpojxj7defv5SQ) |
 | Weinberg's Lectures on Quantum Mechanics Playlist | [Physics Daemon](https://youtube.com/playlist?list=PLy8F8dLvbGgAzZOng2Gc5OLpU1VRLh9jL&si=FEdUbLUEUK-UKnHi) |
