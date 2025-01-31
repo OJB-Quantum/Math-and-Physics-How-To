@@ -152,6 +152,6 @@ ___________________
 
 ![mathpix 2025-01-31 05-40-02_](https://github.com/user-attachments/assets/5a53bef2-e6bc-48a2-86d7-747c1724298c)
 
-![mathpix 2025-01-31 05-45-52](https://github.com/user-attachments/assets/e3cf1e64-96b4-4b0b-8390-d144968b4cd6)
+![mathpix 2025-01-31 08-10-54](https://github.com/user-attachments/assets/51407e67-ac04-47b7-a4a5-08f4336c8dd2)
 
 Markdown script of the rendered table above is available: [click here](https://github.com/OJB-Quantum/Math-and-Physics-How-To/blob/main/Critical%20Equations%20Table.md)
