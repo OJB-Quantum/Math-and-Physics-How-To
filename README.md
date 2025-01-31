@@ -1,6 +1,8 @@
 # Math-and-Physics-How-To
 A repository of publically-accessible resources for learning and self-teaching mathematics & physics up to the graduate level.
 
+*Scroll to the bottom of the page to see the table of critical equations*
+
 _______________________________________________________________________________________________________________
 
 ## All The Physics You Need, Curated by Onri Jay Benally
