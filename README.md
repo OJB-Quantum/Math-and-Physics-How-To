@@ -116,6 +116,7 @@ ________________________________________________________________________________
 | Topic | Source |
 |---|---|
 | Introduction to Mathematical Reasoning Playlist | [Knop's Course](https://youtube.com/playlist?list=PLxYr6TaF_SDU9ovvxPGAxI0dXfPgwhfBl&si=aTWKeeDbTgRDBDsn) |
+| General Mathematical Playlists | [Faculty of Khan](https://www.youtube.com/@FacultyofKhan/playlists) |
 | Geometric Algebra - Why | [Parker Glynn-Adey](https://youtu.be/PGZNYGwsXTw?si=Jm1y1pB8WRbmG21G) |
 | Geometric Algebra - Why 2 | [Bivector](https://youtu.be/m7v2IUJtC3g?si=SDmPDs2yDzDBktnZ) |
 | Zero to Geo[metric Algebra] | [sudgylacmoe](https://youtube.com/playlist?list=PLVuwZXwFua-0Ks3rRS4tIkswgUmDLqqRy&si=TCmjMbomOjzW0GyW) |
