@@ -1,5 +1,5 @@
 # Math-and-Physics-How-To
-A repository of publically-accessible resources for learning and self-teaching mathematics & physics up to the graduate level.
+A repository of publically-accessible resources for learning & self-teaching mathematics & physics up to the graduate level.
 
 *Scroll to the bottom of the page to see the table of critical equations*
 
