@@ -7,6 +7,10 @@ A repository of publically-accessible resources for learning & self-teaching mat
 
 _______________________________________________________________________________________________________________
 
+Primary URL for the repository: [OJB-Quantum/Math-and-Physics-How-To](https://github.com/OJB-Quantum/Math-and-Physics-How-To)
+
+_______________________________________________________________________________________________________________
+
 ### In Case You Want Some Fun Open Access Interactive Tools to Try:
 - [Free Education](https://ojb-quantum.github.io/Free-Education)
 
