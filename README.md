@@ -29,11 +29,11 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 
 _______________________________________________________________________________________________________________
 
-### Pro Tips for Solving Mathematical Problems by O.J.B.:
+### Pro Tips for Solving Mathematical Problems by (O.J.B.):
 
 | Tip | Explanation/ Details |
 | :--- | :--- |
-| Substitute variables with custom <br> variables (e.g., AbcdEfG) | Solve the equation using your own variables, then mirror the <br> steps onto the original problem for proportional reasoning. |
+| Substitute giveb variables with custom <br> variables (e.g., AbcdEfG) | Solve the equation using your own variables, then mirror the <br> steps onto the original problem for proportional reasoning. |
 | Interpret the equal sign as <br> "converts to" | Thinking of "=" as "converts to" can facilitate substitutions & <br> manipulations in other mathematical expressions. |
 | Think in terms of ratios by <br> default | Viewing values as ratios can simplify problem-solving & <br> conceptual understanding. |
 | Use software tools for conversion <br> to markdown or LaTeX | Convert equations for better inspection & rendering, ensuring <br> accuracy. |
@@ -71,7 +71,13 @@ Greek Letters
 
 _______________________________________________________________________________________________________________
 
-## All The Physics You Need, Curated by O.J.B.:
+### Below is an Example by (O.J.B.) on How to Substitute with Custom Variables:
+
+![mathpix 2025-02-03 08-56-51](https://github.com/user-attachments/assets/10f4cec8-a7ad-404e-9229-fce11056c2d5)
+
+_______________________________________________________________________________________________________________
+
+## All The Physics You Need, Curated by (O.J.B.):
 
 | Topic | Source |
 |---|---|
@@ -144,7 +150,6 @@ ________________________________________________________________________________
 | [Integration Using The Substitution Rule](https://youtu.be/sci1pls4Lc8) |
 | [Partial Derivatives - Multivariable Calculus](https://youtu.be/JAf_aSIJryg) |
 | [Vector Fields, Divergence, and Curl](https://youtu.be/2qxxd68fZng) |
-
 
 ___________________
 
