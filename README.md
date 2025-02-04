@@ -73,7 +73,7 @@ ________________________________________________________________________________
 
 ### Below is an Example by (O.J.B.) on How to Substitute with Custom Variables:
 
-<img width="1355" alt="Substitution" src="https://github.com/user-attachments/assets/953b5bfe-e82c-4e7b-9b9e-35562ab524c9" />
+<img width="1352" alt="Substitution" src="https://github.com/user-attachments/assets/5ab589ed-02ce-478d-9d6f-20164998bcf0" />
 
 > Note: the W, x, y, z, T variables in the example above are merely substites & do not correspond to any physical variables. 
 
