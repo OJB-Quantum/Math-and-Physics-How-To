@@ -86,6 +86,7 @@ ________________________________________________________________________________
 | How to Succeed at Physics Without Really Trying | [Physics with Elliot](https://youtu.be/kC6U900CvwY) |
 | The Most Important Math Formula for Understanding Physics | [Physics with Elliot](https://youtu.be/HQsZG8Yxb7w) |
 | To Master Physics, First Master the Harmonic Oscillator | [Physics with Elliot](https://youtu.be/bmGqhM-tUk4) |
+| To Master Physics, First Master the Rotating Coordinate System | [Dialect](https://youtu.be/pD9NxA1aV7E?si=eUAKiOxLyWI09OgR) |
 | 5 Methods for Differential Equations | [Physics with Elliot](https://youtu.be/0kY3Wpvutfs) |
 | The Single Basic Concept Found in (Almost) All Fundamental Physics Equations | [Parth G](https://youtu.be/MbTW_-FN_cw?si=XFewQVQIvZFbGeCg) |
 | The Wave Equation | [Parth G](https://youtu.be/ub7lok-JQJE) |
