@@ -73,7 +73,7 @@ ________________________________________________________________________________
 
 ### Below is an Example by (O.J.B.) on How to Substitute with Custom Variables:
 
-![mathpix 2025-02-03 08-56-51](https://github.com/user-attachments/assets/10f4cec8-a7ad-404e-9229-fce11056c2d5)
+![image](https://github.com/user-attachments/assets/f300285d-1ac2-4cfc-a3b1-6ceed93a23bf)
 
 _______________________________________________________________________________________________________________
 
