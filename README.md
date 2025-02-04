@@ -73,7 +73,7 @@ ________________________________________________________________________________
 
 ### Below is an Example by (O.J.B.) on How to Substitute with Custom Variables:
 
-![mathpix 2025-02-04 10-05-12](https://github.com/user-attachments/assets/d1a4b70d-5a21-4fb7-8aa5-4e55a9f740a6)
+<img width="1355" alt="Substitution" src="https://github.com/user-attachments/assets/953b5bfe-e82c-4e7b-9b9e-35562ab524c9" />
 
 > Note: the W, x, y, z, T variables in the example above are merely substites & do not correspond to any physical variables. 
 
@@ -85,9 +85,10 @@ ________________________________________________________________________________
 |---|---|
 | How to Succeed at Physics Without Really Trying | [Physics with Elliot](https://youtu.be/kC6U900CvwY) |
 | The Most Important Math Formula for Understanding Physics | [Physics with Elliot](https://youtu.be/HQsZG8Yxb7w) |
-| To Master Physics, First Master the Harmonic Oscillator | [Physics with Elliot](https://youtu.be/bmGqhM-tUk4) |
-| 5 Methods for Differential Equations | [Physics with Elliot](https://youtu.be/0kY3Wpvutfs) |
 | The Single Basic Concept Found in (Almost) All Fundamental Physics Equations | [Parth G](https://youtu.be/MbTW_-FN_cw?si=XFewQVQIvZFbGeCg) |
+| To Master Physics, First Master the Harmonic Oscillator | [Physics with Elliot](https://youtu.be/bmGqhM-tUk4) |
+| To Master Physics, First Master the Rotating Coordinate System | [Dialect](https://youtu.be/pD9NxA1aV7E?si=eUAKiOxLyWI09OgR) |
+| 5 Methods for Differential Equations | [Physics with Elliot](https://youtu.be/0kY3Wpvutfs) |
 | The Wave Equation | [Parth G](https://youtu.be/ub7lok-JQJE) |
 | Eigenvalue Equation | [Parth G](https://youtu.be/zejh5yNkFpc) |
 | Solving the Schrödinger Equation | [Parth G](https://youtu.be/sPZWtZ8vt1w?si=Y8tdbrBEe7O5J7gK) |
