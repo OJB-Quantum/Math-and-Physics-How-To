@@ -158,15 +158,15 @@ ___________________
 
 ### General Comments on Analytical Calculations & Approaches
 
-| $\#$ | $\text{Reason}$ | $\text{Explanation}$ |
+| # | Reason | Explanation |
 |---|---|---|
-| $\text{1}$ | $\text{Oversimplified Assumptions}$ | $\text{Analytical solutions often rely on simplifying assumptions}$ $\text{(e.g., linearity, idealized boundary conditions) that may not reflect real-world behavior.}$ |
-| $\text{2}$ | $\text{Inability to Capture Complex Phenomena}$ | $\text{Many systems involve nonlinearities, chaos, or coupled interactions}$ $\text{that are too complex for closed-form solutions.}$ |
-| $\text{3}$ | $\text{High Dimensionality and Computational Complexity}$ | $\text{Large systems with many interacting variables can make deriving}$ $\text{analytical solutions infeasible or impractical.}$ |
-| $\text{4}$ | $\text{Sensitivity to Parameter Variations}$ | $\text{Real systems can be highly sensitive to small parameter changes,}$ $\text{making analytical solutions unreliable in practice.}$ |
-| $\text{5}$ | $\text{Limited Practical Interpretability}$ | $\text{Even if an analytical solution exists, it may be too complex to}$ $\text{provide intuitive physical insights.}$ |
-| $\text{6}$ | $\text{Measurement and Data Limitations}$ | $\text{Applying an analytical formula requires accurate input parameters,}$ $\text{which may not always be available due to measurement noise or uncertainty.}$ |
-| $\text{7}$ | $\text{Evolving or Adaptive Systems}$ | $\text{Systems that change over time or adapt dynamically cannot}$ $\text{always be captured using static analytical calculations.}$ |
+| 1 | Oversimplified Assumptions | Analytical solutions often rely on simplifying assumptions (e.g., linearity, idealized boundary conditions) that may not reflect real-world behavior. |
+| 2 | Inability to Capture Complex Phenomena | Many systems involve nonlinearities, chaos, or coupled interactions that are too complex for closed-form solutions. |
+| 3 | High Dimensionality and Computational Complexity | Large systems with many interacting variables can make deriving analytical solutions infeasible or impractical. |
+| 4 | Sensitivity to Parameter Variations | Real systems can be highly sensitive to small parameter changes, making analytical solutions unreliable in practice. |
+| 5 | Limited Practical Interpretability | Even if an analytical solution exists, it may be too complex to provide intuitive physical insights. |
+| 6 | Measurement and Data Limitations | Applying an analytical formula requires accurate input parameters, which may not always be available due to measurement noise or uncertainty. |
+| 7 | Evolving or Adaptive Systems | Systems that change over time or adapt dynamically cannot always be captured using static analytical calculations. |
 
 ___________________
 
