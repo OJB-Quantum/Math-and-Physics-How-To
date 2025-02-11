@@ -1,5 +1,5 @@
 # Math-and-Physics-How-To
-A repository of publically-accessible resources for learning & self-teaching mathematics & physics up to the graduate level.
+A repository of publicly-accessible resources for learning & self-teaching mathematics & physics up to the graduate level.
 
 *Scroll to the bottom of the page to see Onri's Table of Critical Equations*
 
