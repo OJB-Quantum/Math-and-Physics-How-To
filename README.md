@@ -90,6 +90,7 @@ ________________________________________________________________________________
 | To Master Physics, First Master the Rotating Coordinate System | [Dialect](https://youtu.be/pD9NxA1aV7E?si=eUAKiOxLyWI09OgR) |
 | 5 Methods for Differential Equations | [Physics with Elliot](https://youtu.be/0kY3Wpvutfs) |
 | The Wave Equation | [Parth G](https://youtu.be/ub7lok-JQJE) |
+| Poisson's Equation for Beginners | [Parth G](https://youtu.be/k91KDItxif0?si=zSO5Ml95m92yca2U) |
 | Eigenvalue Equation | [Parth G](https://youtu.be/zejh5yNkFpc) |
 | Solving the Schrödinger Equation | [Parth G](https://youtu.be/sPZWtZ8vt1w?si=Y8tdbrBEe7O5J7gK) |
 | Matrices | [Parth G](https://youtu.be/Ujvy2-o1I9c) |
