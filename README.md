@@ -46,6 +46,13 @@ ________________________________________________________________________________
 | Explore graphical, tabulated, or <br> geometric representations | Visual or tabular methods can simplify complex mathematical <br> concepts. |
 | Practice final exam reviews | Mastery in mathematics comes with regular & extensive <br> practice, particularly of exam-style problems. |
 
+### Definition of Arbitrary and Arbitrary Units: 
+
+| **Term**              | **Definition** |
+|----------------------|---------------|
+| **Arbitrary**       | Refers to chosen values or units that maintain internal consistency without relying on an external, standardized reference. Example: arbitrary units used in graphs and charts. |
+| **Arbitrary Units (a.u.)** | Used in graphs and charts, they represent a consistent measure but do not correspond to a standardized physical unit. They are meaningful within the given context but are not directly comparable to a universal scale. |
+
 ______________________________________________________________________________________________________________
 
 Basic Math Symbols
