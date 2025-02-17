@@ -50,7 +50,7 @@ ________________________________________________________________________________
 
 | **Term or Concept** | **Description or Note** |
 |---------------------|------------------------|
-| **Another way of saying abstract** | “Indeterminate,” “boundless,” or “indeterminate.” |
+| **Another way of saying abstract** | “Indeterminate” or “boundless". |
 | **Light** | Generally refers to the electromagnetic field or electromagnetic radiation. When quantized, it usually refers to photons but can also mean quantized modes, coherent and squeezed states, polaritons, or plasmons and surface plasmon polaritons. |
 | **Optics** | A branch of physics concerned with the generation, propagation, manipulation, and detection of electromagnetic radiation (especially in and around the visible range), as well as its interactions with matter, including phenomena like reflection, refraction, diffraction, interference, and polarization. There are sub-disciplines or sub-classifications of optics such as electron, ion, and quantum optics. |
 | **Plastic** | Often used metaphorically to refer to something moldable or flexible; in a physical context, it can mean a polymer material or exhibit plastic (irreversible) deformation. |
