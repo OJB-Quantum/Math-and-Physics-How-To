@@ -31,7 +31,7 @@ ________________________________________________________________________________
 
 ### Pro Tips for Solving Mathematical Problems by (O.J.B.):
 
-| Tip | Explanation/ Details |
+| **Tip** | **Explanation/ Details** |
 | :--- | :--- |
 | Substitute giveb variables with custom <br> variables (e.g., AbcdEfG) | Solve the equation using your own variables, then mirror the <br> steps onto the original problem for proportional reasoning. |
 | Interpret the equal sign as <br> "converts to" | Thinking of "=" as "converts to" can facilitate substitutions & <br> manipulations in other mathematical expressions. |
@@ -73,6 +73,18 @@ ________________________________________________________________________________
 | Electron spins, including all spin 1/2 particles, are physical realizations, out of many, of the abstract, mathematical spinor representations in nature. Interestingly, this is one example where an abstract mathematical object has experimentally measurable effects or direct experimental consequences. Spins in the technical sense generally refer to the description of an intrinsic angular momentum, meaning that it is purely quantum mechanical. In mathematics and physics, a spinor* is a type of object used to describe particles with half-integer spin (spin -1/2, spin +1/2, etc.). These objects transform in a particular way under rotations (technically under the group SU(2), which is the double cover of the rotation group SO(3)). Here, a 2π rotation changes the phase of a spinor by −1, meaning it does not return to its original state but instead acquires a sign flip. <br> <br> In quantum theory, classifying all possible particle types comes down to looking at irreducible representations of the Poincaré group (in special relativity) or the Galilean group (in non relativistic mechanics). Spin 1/2 emerges naturally when you look at certain irreducible representations—namely, those described by spinors. Any spin- fermion—such as quarks, protons (composite, but effectively spin 1/2 in total), and neutrinos—can also be described by spinors or "spinor formalism". Additional note: the spin of protons arises from a complex interplay of quark spins, gluon angular momentum, and orbital motion. Its total spin behaves like a fundamental fermion, but its substructure is different from an elementary particle. |
 | *Spinors are two-component objects, they do return to the same quantum state after a 4π rotation but not after 2π.|
 | **Key terms**: irreducible representations, experimental consequences | 
+
+### How to Generate a Pure Electric Field:
+
+| **Method**              | **Mechanism** | **Key Considerations** | **Applications** |
+|-------------------------|-----------|--------------------|--------------|
+| **Photoelectric Effect** | Light ejects electrons from a surface, creating charge imbalance | Requires photon energy > work function; works best in vacuum | Spacecraft charging, photoemission devices |
+| **Charge Separation** | Electrons are emitted and collected on a secondary surface | Requires an electron collector; prevents neutralization | Photoemission-based capacitors, charge storage |
+| **Vacuum Conditions** | Electrons travel freely, leading to sustained electric fields | No surrounding medium to neutralize charge | Electron beam devices, vacuum tube applications |
+| **Voltage Bias Application** | A potential difference guides photoelectrons to a specific region | Ensures continuous charge separation | Controlled electron beams, energy harvesting |
+| **Solar Wind or UV Radiation** | Continuous electron emission from a surface in space | Happens naturally on airless bodies like the Moon | Spacecraft charging, lunar dust levitation |
+| **Photoemission Cathodes** | Use of a light-activated electron source in a circuit | Requires efficient cathode material | Photocathodes for electron guns, free-electron lasers |
+| **Exposure to UV Light** | UV photons ionize surfaces, causing electron ejection | Effective in high-energy UV environments like space or high-intensity lamps | Static charge buildup, atmospheric electricity effects, UV-sensitive detectors |
 
 ### Definition of Arbitrary & Arbitrary Units: 
 
@@ -116,7 +128,7 @@ ________________________________________________________________________________
 
 ## All The Physics You Need, Curated by (O.J.B.):
 
-| Topic | Source |
+| **Topic** | **Source** |
 |---|---|
 | How to Succeed at Physics Without Really Trying | [Physics with Elliot](https://youtu.be/kC6U900CvwY) |
 | The Most Important Math Formula for Understanding Physics | [Physics with Elliot](https://youtu.be/HQsZG8Yxb7w) |
@@ -163,7 +175,7 @@ ________________________________________________________________________________
 
 ## Additional Physics & Mathematics Resources:
 
-| Topic | Source |
+| **Topic** | **Source** |
 |---|---|
 | Introduction to Mathematical Reasoning Playlist | [Knop's Course](https://youtube.com/playlist?list=PLxYr6TaF_SDU9ovvxPGAxI0dXfPgwhfBl&si=aTWKeeDbTgRDBDsn) |
 | General Mathematical Playlists | [Faculty of Khan](https://www.youtube.com/@FacultyofKhan/playlists) |
