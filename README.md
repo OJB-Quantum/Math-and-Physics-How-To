@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 | **Tip** | **Explanation/ Details** |
 | :--- | :--- |
-| Substitute giveb variables with custom <br> variables (e.g., AbcdEfG) | Solve the equation using your own variables, then mirror the <br> steps onto the original problem for proportional reasoning. |
+| Substitute given variables with custom <br> variables (e.g., AbcdEfG) | Solve the equation using your own variables, then mirror the <br> steps onto the original problem for proportional reasoning. |
 | Interpret the equal sign as <br> "converts to" | Thinking of "=" as "converts to" can facilitate substitutions & <br> manipulations in other mathematical expressions. |
 | Think in terms of ratios by <br> default | Viewing values as ratios can simplify problem-solving & <br> conceptual understanding. |
 | Use software tools for conversion <br> to markdown or LaTeX | Convert equations for better inspection & rendering, ensuring <br> accuracy. |
