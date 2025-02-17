@@ -76,15 +76,16 @@ ________________________________________________________________________________
 
 ### How to Generate a Pure Electric Field:
 
-| **Method**              | **Mechanism** | **Key Considerations** | **Applications** |
-|-------------------------|-----------|--------------------|--------------|
+| **Method**               | **Mechanism** | **Key Considerations** | **Applications** |
+|--------------------------|--------------|------------------------|------------------|
 | **Photoelectric Effect** | Light ejects electrons from a surface, creating charge imbalance | Requires photon energy > work function; works best in vacuum | Spacecraft charging, photoemission devices |
-| **Charge Separation** | Electrons are emitted and collected on a secondary surface | Requires an electron collector; prevents neutralization | Photoemission-based capacitors, charge storage |
+| **Controlled Charge Separation** | Electrons are emitted and collected on a secondary surface via photoemission, field emission, or thermionic emission | Requires an electron collector; prevents neutralization | Photoemission-based capacitors, charge storage |
 | **Vacuum Conditions** | Electrons travel freely, leading to sustained electric fields | No surrounding medium to neutralize charge | Electron beam devices, vacuum tube applications |
 | **Voltage Bias Application** | A potential difference guides photoelectrons to a specific region | Ensures continuous charge separation | Controlled electron beams, energy harvesting |
-| **Solar Wind or UV Radiation** | Continuous electron emission from a surface in space | Happens naturally on airless bodies like the Moon | Spacecraft charging, lunar dust levitation |
+| **UV Radiation-Induced Charging** | High-energy UV photons eject electrons via the photoelectric effect | Effective in space or high-intensity UV environments | Spacecraft charging, UV-sensitive detectors |
+| **Solar Wind Charging** | Plasma interactions induce surface charging and electron displacement | Occurs naturally in space; depends on plasma density and material properties | Spacecraft potential buildup, lunar dust levitation |
 | **Photoemission Cathodes** | Use of a light-activated electron source in a circuit | Requires efficient cathode material | Photocathodes for electron guns, free-electron lasers |
-| **Exposure to UV Light** | UV photons ionize surfaces, causing electron ejection | Effective in high-energy UV environments like space or high-intensity lamps | Static charge buildup, atmospheric electricity effects, UV-sensitive detectors |
+
 
 ### Definition of Arbitrary & Arbitrary Units: 
 
