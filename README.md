@@ -46,6 +46,27 @@ ________________________________________________________________________________
 | Explore graphical, tabulated, or <br> geometric representations | Visual or tabular methods can simplify complex mathematical <br> concepts. |
 | Practice final exam reviews | Mastery in mathematics comes with regular & extensive <br> practice, particularly of exam-style problems. |
 
+### Table of Useful General Assumptions:
+
+| **Term or Concept** | **Description or Note** |
+|---------------------|------------------------|
+| **Another way of saying abstract** | “Indeterminate,” “boundless,” or “indeterminate.” |
+| **Light** | Generally refers to the electromagnetic field or electromagnetic radiation. When quantized, it usually refers to photons but can also mean quantized modes, coherent and squeezed states, polaritons, or plasmons and surface plasmon polaritons. |
+| **Optics** | A branch of physics dealing with the behavior and properties of light and its interactions with matter. |
+| **Plastic** | Often used metaphorically to refer to something moldable or flexible; in a physical context, it can mean a polymer material or exhibit plastic (irreversible) deformation. |
+| **Radiation** | Emission or transmission of energy through space or a medium, including electromagnetic waves, particles (alpha, beta), or acoustic waves. |
+| **Electric field** | Generally refers to the force per unit charge in a region due to a static or dynamic charge distribution. It can also be generated or excited by time-varying magnetic fields (as in electromagnetic waves) or by charge redistribution effects caused by incident radiation (e.g., in the photoelectric effect). Note: In formal treatments, the photoelectric effect is more often framed in a quantum context rather than purely classical terms. |
+| **Platform(s)** | Can be a physical or conceptual foundation upon which systems, processes, or experiments are built. |
+| **Linearity** | 1:1 ratio in the response by default, with a consistent or zero rate of change. |
+| **Non-linearity** | Any relationship where the ratio or response exhibits a non-zero rate of change; not a simple 1:1 linear relationship. |
+| **Theory** | Often confused with “hypothesis” or “mathematical justification.” In science, a theory is a well-substantiated explanation of some aspect of the natural world. |
+| **Magnetic** | Refers to magnetism. By default, all matter made of atoms is at least diamagnetic. If it is not diamagnetic, its magnetism (paramagnetism, ferromagnetism, etc.) depends on or is determined by the behavior of its electrons. When describing the spin direction of a single electron, it is referred to as the magnetic dipole moment, while a magnetic domain refers to a bulk region of collective spins or uniformly aligned spins. |
+| **By default, it may be better to think of values in terms of ratios or slopes.** | A guiding principle in analyzing systems or problems: scaling relationships, slopes, and derivatives often reveal more insight than absolute numbers. |
+| **Pure electric fields can be justified as being “pure”** | They originate from idealized situations: a point charge, a parallel plate capacitor, uniformly charged conductors, electrostatic lenses (vacuum tube-based focusing), and electric dipole fields. |
+| **Possible alternative name for microwave photon detector** | Microwave photon radiation detector. |
+| **Everything is a transmission line, and everything is a capacitor (including self-capacitance).** | A broad conceptual notion in electronics and physics, emphasizing that all structures can be modeled as having transmission line properties and inherent capacitance. |
+
+
 ### Definition of Arbitrary and Arbitrary Units: 
 
 | **Term**              | **Definition** |
