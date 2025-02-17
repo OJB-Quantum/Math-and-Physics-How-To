@@ -46,6 +46,34 @@ ________________________________________________________________________________
 | Explore graphical, tabulated, or <br> geometric representations | Visual or tabular methods can simplify complex mathematical <br> concepts. |
 | Practice final exam reviews | Mastery in mathematics comes with regular & extensive <br> practice, particularly of exam-style problems. |
 
+### Table of Useful General Assumptions:
+
+| **Term or Concept** | **Description or Note** |
+|---------------------|------------------------|
+| **Another way of saying abstract** | “Indeterminate,” “boundless,” or “indeterminate.” |
+| **Light** | Generally refers to the electromagnetic field or electromagnetic radiation. When quantized, it usually refers to photons but can also mean quantized modes, coherent and squeezed states, polaritons, or plasmons and surface plasmon polaritons. |
+| **Optics** | A branch of physics concerned with the generation, propagation, manipulation, and detection of electromagnetic radiation (especially in and around the visible range), as well as its interactions with matter, including phenomena like reflection, refraction, diffraction, interference, and polarization. There are sub-disciplines or sub-classifications of optics such as electron, ion, and quantum optics. |
+| **Plastic** | Often used metaphorically to refer to something moldable or flexible; in a physical context, it can mean a polymer material or exhibit plastic (irreversible) deformation. |
+| **Radiation** | The emission or transmission of energy through space or a medium in the form of electromagnetic waves (e.g., radio waves, visible light, X-rays, gamma rays) or subatomic particles (e.g., alpha, beta, neutrons). In a broader sense, it can also refer to acoustic waves, though in physics “radiation” typically implies electromagnetic or particle radiation. Many people equate “radiation” solely with ionizing radiation, which is harmful in large doses and includes X-rays, gamma rays, and high-energy particles that can ionize atoms.This is a common misunderstanding because non-ionizing radiation (like visible light, microwaves, radio waves) is also “radiation,” just not ionizing. |
+| **Electric field** | Generally refers to the force per unit charge in a region due to a static or dynamic charge distribution. It can also be generated or excited by time-varying magnetic fields (as in electromagnetic waves) or by charge redistribution effects caused by incident radiation (e.g., in the photoelectric effect). Note: In formal treatments, the photoelectric effect is more often framed in a quantum context rather than purely classical terms. |
+| **Platform(s)** | Can be a physical or conceptual foundation upon which systems, processes, or experiments are built. |
+| **Linearity** | 1:1 ratio in the response by default, with a consistent or zero rate of change. |
+| **Non-linearity** | Any relationship where the ratio or response exhibits a non-zero rate of change; not a simple 1:1 linear relationship. |
+| **Theory** | Often confused with “hypothesis” or “mathematical justification.” In science, a theory is a well-substantiated explanation of some aspect of the natural world. |
+| **Magnetic** | Refers to magnetism. By default, all matter made of atoms is at least diamagnetic. If it is not diamagnetic, its magnetism (paramagnetism, ferromagnetism, etc.) depends on or is determined by the behavior of its electrons. When describing the spin direction of a single electron, it is referred to as the magnetic dipole moment, while a magnetic domain refers to a bulk region of collective spins or uniformly aligned spins. |
+| **By default, it may be better to think of values in terms of ratios or slopes.** | A guiding principle in analyzing systems or problems: scaling relationships, slopes, and derivatives often reveal more insight than absolute numbers. |
+| **Pure electric fields can be justified as being “pure”** | They originate from idealized situations: a point charge, a parallel plate capacitor, uniformly charged conductors, electrostatic lenses (vacuum tube-based focusing), and electric dipole fields. |
+| **Possible alternative name for microwave photon detector** | Microwave photon radiation detector. |
+| **Everything is a transmission line, and everything is a capacitor (including self-capacitance).** | A broad conceptual notion in electronics and physics, emphasizing that all structures can be modeled as having transmission line properties and inherent capacitance. |
+
+
+### Definition of Arbitrary and Arbitrary Units: 
+
+| **Term**              | **Definition** |
+|----------------------|---------------|
+| **Arbitrary**       | Refers to chosen values or units that maintain internal consistency without relying on an external, standardized reference. Example: arbitrary units used in graphs and charts. |
+| **Arbitrary Units (a.u.)** | Used in graphs and charts, they represent a consistent measure but do not correspond to a standardized physical unit. They are meaningful within the given context but are not directly comparable to a universal scale. |
+
 ______________________________________________________________________________________________________________
 
 Basic Math Symbols
@@ -90,6 +118,7 @@ ________________________________________________________________________________
 | To Master Physics, First Master the Rotating Coordinate System | [Dialect](https://youtu.be/pD9NxA1aV7E?si=eUAKiOxLyWI09OgR) |
 | 5 Methods for Differential Equations | [Physics with Elliot](https://youtu.be/0kY3Wpvutfs) |
 | The Wave Equation | [Parth G](https://youtu.be/ub7lok-JQJE) |
+| Poisson's Equation for Beginners | [Parth G](https://youtu.be/k91KDItxif0?si=zSO5Ml95m92yca2U) |
 | Eigenvalue Equation | [Parth G](https://youtu.be/zejh5yNkFpc) |
 | Solving the Schrödinger Equation | [Parth G](https://youtu.be/sPZWtZ8vt1w?si=Y8tdbrBEe7O5J7gK) |
 | Matrices | [Parth G](https://youtu.be/Ujvy2-o1I9c) |
@@ -153,20 +182,6 @@ ________________________________________________________________________________
 | [Integration Using The Substitution Rule](https://youtu.be/sci1pls4Lc8) |
 | [Partial Derivatives - Multivariable Calculus](https://youtu.be/JAf_aSIJryg) |
 | [Vector Fields, Divergence, and Curl](https://youtu.be/2qxxd68fZng) |
-
-___________________
-
-### General Comments on Analytical Calculations & Approaches
-
-| # | Reason | Explanation |
-|---|---|---|
-| 1 | Oversimplified Assumptions | Analytical solutions often rely on simplifying assumptions (e.g., linearity, idealized boundary conditions) that may not reflect real-world behavior. |
-| 2 | Inability to Capture Complex Phenomena | Many systems involve nonlinearities, chaos, or coupled interactions that are too complex for closed-form solutions. |
-| 3 | High Dimensionality and Computational Complexity | Large systems with many interacting variables can make deriving analytical solutions infeasible or impractical. |
-| 4 | Sensitivity to Parameter Variations | Real systems can be highly sensitive to small parameter changes, making analytical solutions unreliable in practice. |
-| 5 | Limited Practical Interpretability | Even if an analytical solution exists, it may be too complex to provide intuitive physical insights. |
-| 6 | Measurement and Data Limitations | Applying an analytical formula requires accurate input parameters, which may not always be available due to measurement noise or uncertainty. |
-| 7 | Evolving or Adaptive Systems | Systems that change over time or adapt dynamically cannot always be captured using static analytical calculations. |
 
 ___________________
 
