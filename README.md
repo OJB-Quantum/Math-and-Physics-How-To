@@ -1,7 +1,7 @@
 # Math-and-Physics-How-To
 A repository of publicly-accessible resources for learning & self-teaching mathematics & physics up to the graduate level.
 
-*Scroll to the bottom of the page to see Onri's Table of Critical Equations* $\\rightarrow$
+*Scroll to the bottom of the page to see Onri's Table of Critical Equations* $\rightarrow$
 
 "You can master mathematics if you practice enough final exam reviews of desired mathematical subjects. Being good at mathematics is a matter of practice". - O.J.B.
 
