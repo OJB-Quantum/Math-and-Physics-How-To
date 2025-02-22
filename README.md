@@ -103,7 +103,7 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 
 --- 
 
-### Key Differences of How Analytical Solutions are Defined & Used
+### Key Differences of How Analytical Solutions are Defined & Used: 
 
 | **Deterministic Analytical Solutions** | **Indeterministic Analytical Solutions** |
 |----------------------------------------|--------------------------------------------------------------|
