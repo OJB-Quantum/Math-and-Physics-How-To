@@ -93,6 +93,16 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 | **Solar Wind Charging** | Plasma interactions induce surface charging and electron displacement | Occurs naturally in space; depends on plasma density and material properties | Spacecraft potential buildup, lunar dust levitation |
 | **Photoemission Cathodes** | Use of a light-activated electron source in a circuit | Requires efficient cathode material | Photocathodes for electron guns, free-electron lasers |
 
+### Cases of Quantized Light:   
+
+| **Category** | **Description** | **Examples** |
+|-------------|----------------|-------------|
+| **Photons** (Fundamental Quanta) | Discrete energy packets of the electromagnetic field; primary quanta of light in quantum electrodynamics (QED) and quantum optics. | Spontaneous emission, stimulated emission, blackbody radiation, Compton scattering. |
+| **Quantized Modes of the Electromagnetic Field** | The electromagnetic field can be described in terms of quantized oscillatory modes, even in the absence of real photons. | Vacuum fluctuations, zero-point energy, cavity QED, waveguide modes. |
+| **Coherent & Squeezed States** | Special quantum states where light retains some classical properties but still exhibits quantum behavior. | Laser light (coherent states), squeezed vacuum states in quantum optics. |
+| **Polaritons (Hybrid Quasiparticles)** | Light interacts with material excitations, forming mixed light-matter quasiparticles. | Exciton-polaritons (light + excitons in semiconductors), phonon-polaritons (light + lattice vibrations). |
+| **Plasmons & Surface Plasmon Polaritons (SPPs)** | Quantized collective oscillations of free electrons in a metal, coupled with the electromagnetic field. | Surface-enhanced Raman spectroscopy (SERS), plasmonic waveguides, localized surface plasmons in nanoparticles. |
+
 
 ### Definition of Arbitrary & Arbitrary Units: 
 
