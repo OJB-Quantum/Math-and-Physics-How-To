@@ -94,7 +94,22 @@ ________________________________________________________________________________
 | **Arbitrary**       | Refers to chosen values or units that maintain internal consistency without relying on an external, standardized reference. Example: arbitrary units used in graphs and charts. |
 | **Arbitrary Units (a.u.)** | Used in graphs and charts, they represent a consistent measure but do not correspond to a standardized physical unit. They are meaningful within the given context but are not directly comparable to a universal scale. |
 
-______________________________________________________________________________________________________________
+--- 
+
+Here is the revised script with the icons removed:
+
+---
+
+### Key Differences of How Analytical Solutions are Defined & Used
+
+| **Deterministic Analytical Solutions** | **Indeterministic (Non-Deterministic) Analytical Solutions** |
+|----------------------------------------|--------------------------------------------------------------|
+| **Definition**: A solution that, given the same initial conditions, **always produces the same result**. These solutions are fully **predictable** and **can be expressed in a closed mathematical form**. | **Definition**: A solution where the outcome is **probabilistic or dependent on unknown/uncontrollable factors**, even if the underlying equations are well-defined. |
+| **Characteristics**: <br> - No randomness or probability involved. <br> - Given a set of initial conditions and equations, the result is always the same. <br> - Typically derived using exact algebraic, calculus-based, or differential equation methods. | **Characteristics**: <br> - **Involves probabilities or randomness** in the results. <br> - Repeating the same conditions **does not always yield the same outcome**. <br> - Often appears in **quantum mechanics, chaotic systems, and stochastic processes**. |
+| **Examples**: <br> 1. **Newton’s Laws of Motion**: <br> - If you apply a known force to an object, its acceleration and trajectory can be determined exactly. <br> - Example: $( x(t) = x_0 + v_0t + \frac{1}{2}at^2 )$ (kinematics equation). <br> <br> 2. **Ohm’s Law in Circuits**: <br> - $( V = IR )$ gives the exact voltage given current $( I )$ and resistance $( R )$. <br> <br> 3. **Schrödinger's Equation for Simple Systems**: <br> - The time-independent Schrödinger equation for a hydrogen atom yields **exact energy eigenvalues** for electron states. | **Examples**: <br> 1. **Quantum Mechanics (Wavefunction Collapse)**: <br> - The Schrödinger equation **deterministically** evolves a wavefunction, but upon measurement, the outcome is probabilistic. <br> - Example: Measuring the spin of an electron in a superposition state gives a **random outcome** (e.g., 50% spin-up, 50% spin-down). <br> <br> 2. **Radioactive Decay**: <br> - The decay of a single nucleus follows a **probability distribution**, not a deterministic function. <br> - We can only predict **half-life**, but not when a specific atom will decay. <br> <br> 3. **Chaotic Systems (Butterfly Effect)**: <br> - Some classical systems, like **weather models**, follow deterministic equations but are **highly sensitive to initial conditions**, making long-term predictions effectively non-deterministic. <br> <br> 4. **Monte Carlo Simulations**: <br> - Used in optimization and physics, these rely on **random sampling** to approximate solutions to complex problems. |
+| **Summary**: <br> - **Deterministic solutions** provide exact answers **every time** for given conditions. | **Summary**: <br> - **Indeterministic (or non-deterministic) solutions** involve **probabilities** or **sensitive dependencies**, making exact results uncertain, even if the equations governing the system are known. |
+
+--- 
 
 Basic Math Symbols
 ≠ ± ∓ ÷ × ∙ – √ ‰ ⊗ ⊕ ⊖ ⊘ ⊙ ≤ ≥ ≦ ≧ ≨ ≩ ≺ ≻ ≼ ≽ ⊏ ⊐ ⊑ ⊒ ² ³ °
@@ -117,7 +132,7 @@ Calculus & Analysis Symbols
 Greek Letters
 𝛢𝛼 𝛣𝛽 𝛤𝛾 𝛥𝛿 𝛦𝜀𝜖 𝛧𝜁 𝛨𝜂 𝛩𝜃𝜗 𝛪𝜄 𝛫𝜅 𝛬𝜆 𝛭𝜇 𝛮𝜈 𝛯𝜉 𝛰𝜊 𝛱𝜋 𝛲𝜌 𝛴𝜎 𝛵𝜏 𝛶𝜐 𝛷𝜙𝜑 𝛸𝜒 𝛹𝜓 𝛺𝜔
 
-_______________________________________________________________________________________________________________
+--- 
 
 ### Below is an Example by (O.J.B.) on How to Substitute with Custom Variables:
 
@@ -125,7 +140,7 @@ ________________________________________________________________________________
 
 > Note: the W, x, y, z, T variables in the example above are merely substites & do not correspond to any physical variables. 
 
-_______________________________________________________________________________________________________________
+--- 
 
 ## All The Physics You Need, Curated by (O.J.B.):
 
@@ -203,7 +218,7 @@ ________________________________________________________________________________
 | [Partial Derivatives - Multivariable Calculus](https://youtu.be/JAf_aSIJryg) |
 | [Vector Fields, Divergence, and Curl](https://youtu.be/2qxxd68fZng) |
 
-___________________
+--- 
 
 ### Table of Critical Equations to Know:
 
