@@ -29,7 +29,9 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 
 --- 
 
-![newplot](https://github.com/user-attachments/assets/c73ab686-6a92-4a86-9616-a1c2f0b356ff)
+### Strategic Approach to Solving Mathematical, Physical, & Engineering Problems on Paper by (O.J.B.):  
+
+![newplot](https://github.com/user-attachments/assets/0077e857-bf88-42dd-85dd-a6b4e36ca7d6)
 
 --- 
 
