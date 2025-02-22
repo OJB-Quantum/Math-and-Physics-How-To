@@ -5,12 +5,12 @@ A repository of publicly-accessible resources for learning & self-teaching mathe
 
 "You can master mathematics if you practice enough final exam reviews of desired mathematical subjects. Being good at mathematics is a matter of practice". - O.J.B.
 
-_______________________________________________________________________________________________________________
+--- 
 
 ### In Case You Want Some Fun Open Access Interactive Tools to Try:
 - [Free Education](https://ojb-quantum.github.io/Free-Education)
 
-_______________________________________________________________________________________________________________
+--- 
 
 ### Great Resources for Practicing Computational Methods:
 - [J Robert Johansson's Website on Scientific Computing & QuTiP](https://jrjohansson.github.io/computing.html)
@@ -18,7 +18,7 @@ ________________________________________________________________________________
 - [Open a New Google Colab Notebook](https://colab.research.google.com)
 - [Browse Some Fun Data Science Notebooks in Google Colab](https://colab.google/notebooks/#data)
 
-_______________________________________________________________________________________________________________
+--- 
 
 ### Map of Mathematics & Their Prerequisites:
 
@@ -27,7 +27,13 @@ ________________________________________________________________________________
 Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathematics (2023)  
 <https://youtu.be/ljGSId-uHw8?si=xKNup3hOVsWC6uTv&t=200>
 
-_______________________________________________________________________________________________________________
+--- 
+
+### Strategic Approach to Solving Mathematical, Physical, & Engineering Problems on Paper by (O.J.B.):  
+
+![newplot](https://github.com/user-attachments/assets/0077e857-bf88-42dd-85dd-a6b4e36ca7d6)
+
+--- 
 
 ### Pro Tips for Solving Mathematical Problems by (O.J.B.):
 
@@ -36,6 +42,7 @@ ________________________________________________________________________________
 | Substitute given variables with custom <br> variables (e.g., AbcdEfG) | Solve the equation using your own variables, then mirror the <br> steps onto the original problem for proportional reasoning. |
 | Interpret the equal sign as <br> "converts to" | Thinking of "=" as "converts to" can facilitate substitutions & <br> manipulations in other mathematical expressions. |
 | Think in terms of ratios by <br> default | Viewing values as ratios can simplify problem-solving & <br> conceptual understanding. |
+| Understand the difference between analytical vs. numerical approaches| Exact solutions are often associated with analytical approaches while approximation or discretized solutions are often associated with numerical appoaches. | 
 | Use software tools for conversion <br> to markdown or LaTeX | Convert equations for better inspection & rendering, ensuring <br> accuracy. |
 | Leverage Python & libraries <br> like SymPy | Write equations in Python for execution & manipulation, <br> aiding clarity & verification. |
 | Remember solutions on graphs <br> are line intersections | Graphical solutions typically correspond to intersection points <br> of lines or curves. |
@@ -94,7 +101,18 @@ ________________________________________________________________________________
 | **Arbitrary**       | Refers to chosen values or units that maintain internal consistency without relying on an external, standardized reference. Example: arbitrary units used in graphs and charts. |
 | **Arbitrary Units (a.u.)** | Used in graphs and charts, they represent a consistent measure but do not correspond to a standardized physical unit. They are meaningful within the given context but are not directly comparable to a universal scale. |
 
-______________________________________________________________________________________________________________
+--- 
+
+### Key Differences of How Analytical Solutions are Defined & Used
+
+| **Deterministic Analytical Solutions** | **Indeterministic Analytical Solutions** |
+|----------------------------------------|--------------------------------------------------------------|
+| **Definition**: A solution that, given the same initial conditions, **always produces the same result**. These solutions are fully **predictable** and **can be expressed in a closed mathematical form**. | **Definition**: A solution where the outcome is **probabilistic or dependent on unknown/uncontrollable factors**, even if the underlying equations are well-defined. |
+| **Characteristics**: <br> - No randomness or probability involved. <br> - Given a set of initial conditions and equations, the result is always the same. <br> - Typically derived using exact algebraic, calculus-based, or differential equation methods. | **Characteristics**: <br> - **Involves probabilities or randomness** in the results. <br> - Repeating the same conditions **does not always yield the same outcome**. <br> - Often appears in **quantum mechanics, chaotic systems, and stochastic processes**. |
+| **Examples**: <br> 1. **Newton’s Laws of Motion**: <br> - If you apply a known force to an object, its acceleration and trajectory can be determined exactly. <br> - Example: $( x(t) = x_0 + v_0t + \frac{1}{2}at^2 )$ (kinematics equation). <br> <br> 2. **Ohm’s Law in Circuits**: <br> - $( V = IR )$ gives the exact voltage given current $( I )$ and resistance $( R )$. <br> <br> 3. **Schrödinger's Equation for Simple Systems**: <br> - The time-independent Schrödinger equation for a hydrogen atom yields **exact energy eigenvalues** for electron states. | **Examples**: <br> 1. **Quantum Mechanics (Wavefunction Collapse)**: <br> - The Schrödinger equation **deterministically** evolves a wavefunction, but upon measurement, the outcome is probabilistic. <br> - Example: Measuring the spin of an electron in a superposition state gives a **random outcome** (e.g., 50% spin-up, 50% spin-down). <br> <br> 2. **Radioactive Decay**: <br> - The decay of a single nucleus follows a **probability distribution**, not a deterministic function. <br> - We can only predict **half-life**, but not when a specific atom will decay. <br> <br> 3. **Chaotic Systems (Butterfly Effect)**: <br> - Some classical systems, like **weather models**, follow deterministic equations but are **highly sensitive to initial conditions**, making long-term predictions effectively non-deterministic. <br> <br> 4. **Monte Carlo Simulations**: <br> - Used in optimization and physics, these rely on **random sampling** to approximate solutions to complex problems. |
+| **Summary**: <br> - **Deterministic solutions** provide exact answers **every time** for given conditions. | **Summary**: <br> - **Indeterministic (or non-deterministic) solutions** involve **probabilities** or **sensitive dependencies**, making exact results uncertain, even if the equations governing the system are known. |
+
+--- 
 
 Basic Math Symbols
 ≠ ± ∓ ÷ × ∙ – √ ‰ ⊗ ⊕ ⊖ ⊘ ⊙ ≤ ≥ ≦ ≧ ≨ ≩ ≺ ≻ ≼ ≽ ⊏ ⊐ ⊑ ⊒ ² ³ °
@@ -117,7 +135,7 @@ Calculus & Analysis Symbols
 Greek Letters
 𝛢𝛼 𝛣𝛽 𝛤𝛾 𝛥𝛿 𝛦𝜀𝜖 𝛧𝜁 𝛨𝜂 𝛩𝜃𝜗 𝛪𝜄 𝛫𝜅 𝛬𝜆 𝛭𝜇 𝛮𝜈 𝛯𝜉 𝛰𝜊 𝛱𝜋 𝛲𝜌 𝛴𝜎 𝛵𝜏 𝛶𝜐 𝛷𝜙𝜑 𝛸𝜒 𝛹𝜓 𝛺𝜔
 
-_______________________________________________________________________________________________________________
+--- 
 
 ### Below is an Example by (O.J.B.) on How to Substitute with Custom Variables:
 
@@ -125,7 +143,7 @@ ________________________________________________________________________________
 
 > Note: the W, x, y, z, T variables in the example above are merely substites & do not correspond to any physical variables. 
 
-_______________________________________________________________________________________________________________
+--- 
 
 ## All The Physics You Need, Curated by (O.J.B.):
 
@@ -203,7 +221,7 @@ ________________________________________________________________________________
 | [Partial Derivatives - Multivariable Calculus](https://youtu.be/JAf_aSIJryg) |
 | [Vector Fields, Divergence, and Curl](https://youtu.be/2qxxd68fZng) |
 
-___________________
+--- 
 
 ### Table of Critical Equations to Know:
 
