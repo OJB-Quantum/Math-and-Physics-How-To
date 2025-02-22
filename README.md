@@ -96,10 +96,6 @@ ________________________________________________________________________________
 
 --- 
 
-Here is the revised script with the icons removed:
-
----
-
 ### Key Differences of How Analytical Solutions are Defined & Used
 
 | **Deterministic Analytical Solutions** | **Indeterministic (Non-Deterministic) Analytical Solutions** |
