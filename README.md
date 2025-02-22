@@ -5,12 +5,12 @@ A repository of publicly-accessible resources for learning & self-teaching mathe
 
 "You can master mathematics if you practice enough final exam reviews of desired mathematical subjects. Being good at mathematics is a matter of practice". - O.J.B.
 
-_______________________________________________________________________________________________________________
+--- 
 
 ### In Case You Want Some Fun Open Access Interactive Tools to Try:
 - [Free Education](https://ojb-quantum.github.io/Free-Education)
 
-_______________________________________________________________________________________________________________
+--- 
 
 ### Great Resources for Practicing Computational Methods:
 - [J Robert Johansson's Website on Scientific Computing & QuTiP](https://jrjohansson.github.io/computing.html)
@@ -18,7 +18,7 @@ ________________________________________________________________________________
 - [Open a New Google Colab Notebook](https://colab.research.google.com)
 - [Browse Some Fun Data Science Notebooks in Google Colab](https://colab.google/notebooks/#data)
 
-_______________________________________________________________________________________________________________
+--- 
 
 ### Map of Mathematics & Their Prerequisites:
 
@@ -27,7 +27,11 @@ ________________________________________________________________________________
 Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathematics (2023)  
 <https://youtu.be/ljGSId-uHw8?si=xKNup3hOVsWC6uTv&t=200>
 
-_______________________________________________________________________________________________________________
+--- 
+
+![newplot](https://github.com/user-attachments/assets/c73ab686-6a92-4a86-9616-a1c2f0b356ff)
+
+--- 
 
 ### Pro Tips for Solving Mathematical Problems by (O.J.B.):
 
@@ -36,6 +40,7 @@ ________________________________________________________________________________
 | Substitute given variables with custom <br> variables (e.g., AbcdEfG) | Solve the equation using your own variables, then mirror the <br> steps onto the original problem for proportional reasoning. |
 | Interpret the equal sign as <br> "converts to" | Thinking of "=" as "converts to" can facilitate substitutions & <br> manipulations in other mathematical expressions. |
 | Think in terms of ratios by <br> default | Viewing values as ratios can simplify problem-solving & <br> conceptual understanding. |
+| Understand the difference between analytical vs. numerical approaches| Exact solutions are often associated with analytical approaches while approximation or discretized solutions are often associated with numerical appoaches. | 
 | Use software tools for conversion <br> to markdown or LaTeX | Convert equations for better inspection & rendering, ensuring <br> accuracy. |
 | Leverage Python & libraries <br> like SymPy | Write equations in Python for execution & manipulation, <br> aiding clarity & verification. |
 | Remember solutions on graphs <br> are line intersections | Graphical solutions typically correspond to intersection points <br> of lines or curves. |
