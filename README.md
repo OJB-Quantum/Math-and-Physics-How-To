@@ -98,7 +98,7 @@ ________________________________________________________________________________
 
 ### Key Differences of How Analytical Solutions are Defined & Used
 
-| **Deterministic Analytical Solutions** | **Indeterministic (Non-Deterministic) Analytical Solutions** |
+| **Deterministic Analytical Solutions** | **Indeterministic Analytical Solutions** |
 |----------------------------------------|--------------------------------------------------------------|
 | **Definition**: A solution that, given the same initial conditions, **always produces the same result**. These solutions are fully **predictable** and **can be expressed in a closed mathematical form**. | **Definition**: A solution where the outcome is **probabilistic or dependent on unknown/uncontrollable factors**, even if the underlying equations are well-defined. |
 | **Characteristics**: <br> - No randomness or probability involved. <br> - Given a set of initial conditions and equations, the result is always the same. <br> - Typically derived using exact algebraic, calculus-based, or differential equation methods. | **Characteristics**: <br> - **Involves probabilities or randomness** in the results. <br> - Repeating the same conditions **does not always yield the same outcome**. <br> - Often appears in **quantum mechanics, chaotic systems, and stochastic processes**. |
