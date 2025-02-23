@@ -103,6 +103,10 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 | **Polaritons (Hybrid Quasiparticles)** | Light interacts with material excitations, forming mixed light-matter quasiparticles. | Exciton-polaritons (light + excitons in semiconductors), phonon-polaritons (light + lattice vibrations). |
 | **Plasmons & Surface Plasmon Polaritons (SPPs)** | Quantized collective oscillations of free electrons in a metal, coupled with the electromagnetic field. | Surface-enhanced Raman spectroscopy (SERS), plasmonic waveguides, localized surface plasmons in nanoparticles. |
 
+Inspired by: Ezratty, Understanding Quantum Technologies, 2111.15352 (2024)  
+<https://doi.org/10.48550/arXiv.2111.15352>  
+<https://creativecommons.org/licenses/by-nc-nd/4.0/>  
+
 
 ### Definition of Arbitrary & Arbitrary Units: 
 
