@@ -224,9 +224,14 @@ Greek Letters
 | Solid State Devices Playlist | [nanohubtechtalks](https://youtube.com/playlist?list=PLtkeUZItwHK4Y5WBNdkc5zKUi3m3WbGHo&si=Y4rKg68Gjijpw1WG) |
 | QuTech360 Seminars | [QuTech Academy](https://youtube.com/playlist?list=PL5jmbd6SJYnOyp8OP-ZME8GgTlLFXbrqO&si=Dsfc8N0bf5hbIQbx) |
 | Quantum Playlists  | [Nick Heumann University](https://www.youtube.com/@NickHeumannUniversity/playlists) |
+| STEM Full Course Playlists | [Academic Lesson](https://www.youtube.com/@AcademicLesson/playlists) |
 
 |  |
 |-------------|
+| [Numberphile, Interview-Style Playlists](https://www.youtube.com/@numberphile/playlists) |
+| [Sixty Symbols, Interview-Style Playlists](https://www.youtube.com/@sixtysymbols/playlists) |
+| [UoN Physics, Interview-Style Playlists](https://www.youtube.com/@uonphysics4019/playlists) |
+| [DiBeos, Interview-Style Playlists](https://www.youtube.com/@dibeos) |
 | [Amazing Things You Can Do in Geometric Algebra](https://youtu.be/xGuN6KM_D18) |
 | [Related Rates - Conical Tank, Ladder Angle & Shadow Problem, Circle & Sphere - Calculus](https://youtu.be/ps-r4nti5Go) |
 | [Understand Calculus in 35 Minutes](https://youtu.be/WsQQvHm4lSw) |
