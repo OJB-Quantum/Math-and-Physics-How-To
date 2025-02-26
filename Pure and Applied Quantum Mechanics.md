@@ -41,3 +41,23 @@ $$
 x+i y_1=\sqrt{x^2+y^2}(\cos \theta+i \sin \theta)=R e^{i \theta}, \theta=\arctan (y / x)
 $$
 
+Basic operations: rectangular form
+Addition (and subtraction):
+
+$$
+(a+i b)+(c+i d)=(a+c)+i(b+d)
+$$
+
+
+Multiplication (distribute):
+
+$$
+(a+i b)(c+i d)=(a c-b d)+i(a d+b c)
+$$
+
+
+Division (like rationalizing the denominator):
+
+$$
+\frac{a+i b}{c+i d}=\frac{a+i b}{c+i d} \frac{c-i d}{c-i d}=\frac{(a c+b d)+i(b c-a d)}{c^2+d^2}
+$$
