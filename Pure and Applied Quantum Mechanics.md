@@ -18,3 +18,25 @@ $$
 \end{aligned}
 $$
 
+$$
+e^{i \pi}+1=0
+$$
+
+
+Complex exponentials:
+
+$$
+e^{i y}=\cos y+i \sin y
+$$
+
+Rectangular
+$$
+x+iy
+$$
+
+Polar form
+
+$$
+x+i y_1=\sqrt{x^2+y^2}(\cos \theta+i \sin \theta)=R e^{i \theta}, \theta=\arctan (y / x)
+$$
+
