@@ -103,6 +103,10 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 | **Polaritons (Hybrid Quasiparticles)** | Light interacts with material excitations, forming mixed light-matter quasiparticles. | Exciton-polaritons (light + excitons in semiconductors), phonon-polaritons (light + lattice vibrations). |
 | **Plasmons & Surface Plasmon Polaritons (SPPs)** | Quantized collective oscillations of free electrons in a metal, coupled with the electromagnetic field. | Surface-enhanced Raman spectroscopy (SERS), plasmonic waveguides, localized surface plasmons in nanoparticles. |
 
+Inspired by: Ezratty, Understanding Quantum Technologies, 2111.15352 (2024)  
+<https://doi.org/10.48550/arXiv.2111.15352>  
+<https://creativecommons.org/licenses/by-nc-nd/4.0/>  
+
 
 ### Definition of Arbitrary & Arbitrary Units: 
 
@@ -212,11 +216,13 @@ Greek Letters
 |---|---|
 | Introduction to Mathematical Reasoning Playlist | [Knop's Course](https://youtube.com/playlist?list=PLxYr6TaF_SDU9ovvxPGAxI0dXfPgwhfBl&si=aTWKeeDbTgRDBDsn) |
 | General Mathematical Playlists | [Faculty of Khan](https://www.youtube.com/@FacultyofKhan/playlists) |
+| Mathematical Physics Playlists | [Dietterich Labs](https://www.youtube.com/@DietterichLabs/playlists) |
 | Geometric Algebra - Why | [Parker Glynn-Adey](https://youtu.be/PGZNYGwsXTw?si=Jm1y1pB8WRbmG21G) |
 | Geometric Algebra - Why 2 | [Bivector](https://youtu.be/m7v2IUJtC3g?si=SDmPDs2yDzDBktnZ) |
 | Zero to Geo[metric Algebra] | [sudgylacmoe](https://youtube.com/playlist?list=PLVuwZXwFua-0Ks3rRS4tIkswgUmDLqqRy&si=TCmjMbomOjzW0GyW) |
 | Differential Geometric Algebra | [Crucial Flow Research](https://youtu.be/7hlDRLEhc8o?si=fShumaSE7mZhBJTU) |
 | Advanced Mathematics | [The Bright Side of Mathematics](https://www.youtube.com/@brightsideofmaths/playlists) |
+| More Advanced Mathematics | [Cofiber](https://www.youtube.com/@cofiber/videos) |
 | Spinors Playlist | [eigenchris](https://youtube.com/playlist?list=PLJHszsWbB6hoOo_wMb0b6T44KM_ABZtBs&si=RvKpojxj7defv5SQ) |
 | Weinberg's Lectures on Quantum Mechanics Playlist | [Physics Daemon](https://youtube.com/playlist?list=PLy8F8dLvbGgAzZOng2Gc5OLpU1VRLh9jL&si=FEdUbLUEUK-UKnHi) |
 | Thermodynamics & Statistical Physics Playlist | [Pazzy Boardman](https://youtube.com/playlist?list=PLVjZPwRzdu40ZWkRxvwjan9ZyIbVexzOK&si=EtjiJQyTwqjiolas) |
@@ -224,7 +230,7 @@ Greek Letters
 | Solid State Devices Playlist | [nanohubtechtalks](https://youtube.com/playlist?list=PLtkeUZItwHK4Y5WBNdkc5zKUi3m3WbGHo&si=Y4rKg68Gjijpw1WG) |
 | QuTech360 Seminars | [QuTech Academy](https://youtube.com/playlist?list=PL5jmbd6SJYnOyp8OP-ZME8GgTlLFXbrqO&si=Dsfc8N0bf5hbIQbx) |
 | Quantum Playlists  | [Nick Heumann University](https://www.youtube.com/@NickHeumannUniversity/playlists) |
-| STEM Full Course Playlists | [Academic Lesson](https://www.youtube.com/@AcademicLesson/playlists) |
+| Full Course STEM Playlists (Including Quantum) | [Academic Lesson](https://www.youtube.com/@AcademicLesson/playlists) |
 
 |  |
 |-------------|
