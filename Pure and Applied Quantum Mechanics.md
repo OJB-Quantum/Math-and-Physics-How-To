@@ -103,5 +103,10 @@ $$
 
 Squared magnitude (always real, positive):
 
-$$|z|^2=z z^*=\mathfrak{Re}(z)^2+\mathfrak{Im}(z)^2 \\
-(C+id)^*(c+id) \quad c^2+d^2$$
+$$
+|z|^2 = z z^* = \mathfrak{Re}(z)^2 + \mathfrak{Im}(z)^2
+$$
+
+$$
+(C+id)^*(c+id) = c^2 + d^2
+$$
