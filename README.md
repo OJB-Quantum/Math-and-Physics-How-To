@@ -174,10 +174,15 @@ Greek Letters
 | To Master Physics, First Master the Rotating Coordinate System | [Dialect](https://youtu.be/pD9NxA1aV7E?si=eUAKiOxLyWI09OgR) |
 | 5 Methods for Differential Equations | [Physics with Elliot](https://youtu.be/0kY3Wpvutfs) |
 | The Wave Equation | [Parth G](https://youtu.be/ub7lok-JQJE) |
+| Solving the Wave Equation | [Parth G](https://youtu.be/x2bD2QhOxd0?si=XABtDfhP9DPPR-Ja) |
 | Poisson's Equation for Beginners | [Parth G](https://youtu.be/k91KDItxif0?si=zSO5Ml95m92yca2U) |
 | Eigenvalue Equation | [Parth G](https://youtu.be/zejh5yNkFpc) |
 | Solving the Schrödinger Equation | [Parth G](https://youtu.be/sPZWtZ8vt1w?si=Y8tdbrBEe7O5J7gK) |
+| Quantum Operators & Commutators | [Parth G](https://youtu.be/so1szjHu7jY?si=SAmlxPP8Xgqc78v-) |
+| How Energy is Created Quantum Mechanics [Creation & Anihilation Operators]| [Parth G](https://youtu.be/ocJBIXua6zQ?si=33kfOA2lUCHe5an4) |
 | Matrices | [Parth G](https://youtu.be/Ujvy2-o1I9c) |
+| Quantum Physics Becomes Intuitive with this Theorem, Ehrenfest's Theorem EXPLAINED | [Parth G](https://youtu.be/dHptQCXdQio?si=VALCO-RKVQRHBwKZ) |
+| Understand Tensors Like a Physicist (The Easy Way) | [Physics - Problems & Solutions](https://youtu.be/czrel_yqJYM?si=JANMZ1eDQ-W6Krlv) |
 | Lagrangian & Hamiltonian Mechanics | [Physics with Elliot](https://youtu.be/0DHNGtsmmH8?si=hNMKA_s8YzH8hvX9) |
 | The Kronecker Delta | [Alexander Fufaev](https://youtu.be/nUxaL444Uv0?si=1nSHp7f2fNk0MJFc) |
 | Maxwell's Equations Explained | [Parth G](https://www.youtube.com/playlist?list=PLOlz9q28K2e6aNgl1zt1xccyy4Ofl3YAk) |
@@ -230,7 +235,7 @@ Greek Letters
 | Solid State Devices Playlist | [nanohubtechtalks](https://youtube.com/playlist?list=PLtkeUZItwHK4Y5WBNdkc5zKUi3m3WbGHo&si=Y4rKg68Gjijpw1WG) |
 | QuTech360 Seminars | [QuTech Academy](https://youtube.com/playlist?list=PL5jmbd6SJYnOyp8OP-ZME8GgTlLFXbrqO&si=Dsfc8N0bf5hbIQbx) |
 | Quantum Playlists  | [Nick Heumann University](https://www.youtube.com/@NickHeumannUniversity/playlists) |
-| Full Course STEM Playlists (Including Quantum) | [Academic Lesson](https://www.youtube.com/@AcademicLesson/playlists) |
+| STEM Full Course Playlists | [Academic Lesson](https://www.youtube.com/@AcademicLesson/playlists) |
 
 |  |
 |-------------|
