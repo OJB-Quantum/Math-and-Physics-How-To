@@ -205,6 +205,7 @@ Greek Letters
 | Quantum Many-Body Physics | [Prof. Luis Gregório Dias](https://youtube.com/playlist?list=PL6FyrZIBwD8LMWizZW1FUN2dS_l44yuiy) |
 | Quantum Matter | [Prof. Steven Simon](https://youtube.com/playlist?list=PLrNpJOaBSWSCrLUO_tuKa5l5YJl0JNr1z) |
 | Quantum Optics | [Prof. Carlos Navarrete-Benlloch](https://www.youtube.com/playlist?list=PLQOPozM-bhZrWIyxwD_sMe9Q0HvwMzJNS) |
+| Quantum Optics | [Prof. Immanuel Bloch](https://youtube.com/playlist?list=PLNMgVqt8MREzCQbgPxBiHKlFbV7Xszkds&si=X-McdfdhzHAbP7xk)|
 | Topological Quantum Matter | [Weizmann Institute of Science](https://youtube.com/@topologicalquantummatter-w4105?si=6ctZZZoEbKOUOVlI) |
 | Quantum Field Theory Playlist | [Nick Heumann](https://www.youtube.com/playlist?list=PLXS_wzQAoIt7GxSRwCaicaSdeKqzYSUq4) |
 | Relativistic Quantum Field Theory Playlist | [MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP61AV6bhf4mB3tCyWQrI_uU5) |
