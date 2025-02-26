@@ -222,6 +222,7 @@ Greek Letters
 | Zero to Geo[metric Algebra] | [sudgylacmoe](https://youtube.com/playlist?list=PLVuwZXwFua-0Ks3rRS4tIkswgUmDLqqRy&si=TCmjMbomOjzW0GyW) |
 | Differential Geometric Algebra | [Crucial Flow Research](https://youtu.be/7hlDRLEhc8o?si=fShumaSE7mZhBJTU) |
 | Advanced Mathematics | [The Bright Side of Mathematics](https://www.youtube.com/@brightsideofmaths/playlists) |
+| More Advanced Mathematics | [Cofiber](https://www.youtube.com/@cofiber/videos) |
 | Spinors Playlist | [eigenchris](https://youtube.com/playlist?list=PLJHszsWbB6hoOo_wMb0b6T44KM_ABZtBs&si=RvKpojxj7defv5SQ) |
 | Weinberg's Lectures on Quantum Mechanics Playlist | [Physics Daemon](https://youtube.com/playlist?list=PLy8F8dLvbGgAzZOng2Gc5OLpU1VRLh9jL&si=FEdUbLUEUK-UKnHi) |
 | Thermodynamics & Statistical Physics Playlist | [Pazzy Boardman](https://youtube.com/playlist?list=PLVjZPwRzdu40ZWkRxvwjan9ZyIbVexzOK&si=EtjiJQyTwqjiolas) |
