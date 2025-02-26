@@ -29,12 +29,13 @@ $$
 e^{i y}=\cos y+i \sin y
 $$
 
-Rectangular
+Rectangular: 
+
 $$
 x+iy
 $$
 
-Polar form
+Polar form: 
 
 $$
 x+i y_1=\sqrt{x^2+y^2}(\cos \theta+i \sin \theta)=R e^{i \theta}, \theta=\arctan (y / x)
