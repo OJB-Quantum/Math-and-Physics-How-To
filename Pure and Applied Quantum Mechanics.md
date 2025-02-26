@@ -103,11 +103,11 @@ $$
 
 Squared magnitude (always real, positive):
 
-$$
+$$ 
 \begin{aligned}
 & |z|^2=z z^*=\mathfrak{R e}(z)^2+\mathfrak{I m}(z)^2 \\
 & (C+i d)^*(c+i d) \quad c^2+d^2
 \end{aligned}
-$$
+$$ 
 
 
