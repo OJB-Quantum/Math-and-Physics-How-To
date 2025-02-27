@@ -33,24 +33,6 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 
 ![newplot](https://github.com/user-attachments/assets/0077e857-bf88-42dd-85dd-a6b4e36ca7d6)
 
---- 
-
----
-layout: default
-title: "README with Equations"
----
-
-<!-- Load MathJax -->
-<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
-# My Project
-
-Welcome to my project! This page demonstrates how to render LaTeX equations using MathJax on GitHub Pages with Jekyll.
-
-**Poisson Equation**: $\nabla^2 \phi = -\frac{\rho}{\epsilon_0}$
-
-Feel free to add more content below...
-
 
 ---
 
