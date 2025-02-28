@@ -117,7 +117,7 @@ Inspired by: Ezratty, Understanding Quantum Technologies, 2111.15352 (2024)
 
 --- 
 
-### Key Differences of How Analytical Solutions are Defined & Used: 
+### Key Differences of How Analytical Solutions are Defined & Used (Deterministic vs. Indeterministic): 
 
 | **Deterministic Analytical Solutions** | **Indeterministic Analytical Solutions** |
 |----------------------------------------|--------------------------------------------------------------|
