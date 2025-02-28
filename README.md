@@ -53,7 +53,7 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 | Explore graphical, tabulated, or <br> geometric representations | Visual or tabular methods can simplify complex mathematical <br> concepts. |
 | Practice final exam reviews | Mastery in mathematics comes with regular & extensive <br> practice, particularly of exam-style problems. |
 
-### Table of Useful General Assumptions:
+### Table of Useful General Assumptions for Abstract Terminology Used in Everyday Life:
 
 | **Term or Concept** | **Description or Note** |
 |---------------------|------------------------|
