@@ -3,7 +3,7 @@ A repository of publicly-accessible resources for learning & self-teaching mathe
 
 *Scroll to the bottom of the page to see Onri's Table of Critical Equations*
 
-"You can master mathematics if you practice enough final exam reviews of desired mathematical subjects. Being good at mathematics is a matter of practice". - O.J.B.
+"Being good or great at mathematics is a matter of practice. Isolating a term in a complex mathematical formula is like untangling a knot, it requires persistence & loosening of things". - O.J.B.
 
 --- 
 
