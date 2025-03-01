@@ -187,6 +187,7 @@ Greek Letters
 | Understand Tensors Like a Physicist (The Easy Way) | [Physics - Problems & Solutions](https://youtu.be/czrel_yqJYM?si=JANMZ1eDQ-W6Krlv) |
 | Lagrangian & Hamiltonian Mechanics | [Physics with Elliot](https://youtu.be/0DHNGtsmmH8?si=hNMKA_s8YzH8hvX9) |
 | The Kronecker Delta | [Alexander Fufaev](https://youtu.be/nUxaL444Uv0?si=1nSHp7f2fNk0MJFc) |
+| The Levi-Civita Symbol & Kronecker Delta | [Jeffrey Chasnov](https://youtu.be/mArtUx18cno?si=9vZNCXs1Wt1Q2ZPo) |
 | Maxwell's Equations Explained | [Parth G](https://www.youtube.com/playlist?list=PLOlz9q28K2e6aNgl1zt1xccyy4Ofl3YAk) |
 | Animated Physics Lectures | [ZAP Physics](https://www.youtube.com/@zapphysics/playlists) |
 | More Animated Physics Lectures | [Alexander Fufaev](https://www.youtube.com/playlist?list=PLTjLwQcqQzNKzSAxJxKpmOtAriFS5wWy4) |
@@ -210,6 +211,7 @@ Greek Letters
 | Quantum Optics | [Prof. Immanuel Bloch](https://youtube.com/playlist?list=PLNMgVqt8MREzCQbgPxBiHKlFbV7Xszkds&si=X-McdfdhzHAbP7xk)|
 | Topological Quantum Matter | [Weizmann Institute of Science](https://youtube.com/@topologicalquantummatter-w4105?si=6ctZZZoEbKOUOVlI) |
 | Quantum Field Theory Playlist | [Nick Heumann](https://www.youtube.com/playlist?list=PLXS_wzQAoIt7GxSRwCaicaSdeKqzYSUq4) |
+| Quantum Field Theory Playlist | [Dietterich Labs](https://youtube.com/playlist?list=PLSpklniGdSfSsk7BSZjONcfhRGKNa2uou&si=JU4D4fLstHboWjE5) |
 | Relativistic Quantum Field Theory Playlist | [MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP61AV6bhf4mB3tCyWQrI_uU5) |
 | Important Notes & Physics Etiquettes | [Physics with Elliot](https://www.physicswithelliot.com/all-notes) |
 | Math Notes for Quantum Information Science| [Introduction to Quantum Information Science](https://qubit.guide/some-mathematical-preliminaries) |
