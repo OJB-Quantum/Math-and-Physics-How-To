@@ -3,7 +3,7 @@ A repository of publicly-accessible resources for learning & self-teaching mathe
 
 *Scroll to the bottom of the page to see Onri's Table of Critical Equations*
 
-"You can master mathematics if you practice enough final exam reviews of desired mathematical subjects. Being good at mathematics is a matter of practice". - O.J.B.
+"Being good or great at mathematics is a matter of practice. Isolating a term in a complex mathematical formula is like untangling a knot, it requires persistence & loosening of things". - O.J.B.
 
 --- 
 
@@ -33,29 +33,28 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 
 ![newplot](https://github.com/user-attachments/assets/0077e857-bf88-42dd-85dd-a6b4e36ca7d6)
 
-
----
-
+--- 
 
 ### Pro Tips for Solving Mathematical Problems by (O.J.B.):
 
 | **Tip** | **Explanation/ Details** |
 | :--- | :--- |
-| Substitute given variables with custom <br> variables (e.g., AbcdEfG) | Solve the equation using your own variables, then mirror the <br> steps onto the original problem for proportional reasoning. |
+| Substitute given variables with custom <br> or other existing variables (e.g., AbcdEfG) | Solve the equation using your own variables, then mirror the steps onto the original problem for proportional reasoning. A technique to solving a formula is to find a term that exists in a different equation, followed by solving for that desired term (isolating it to one side). |
 | Interpret the equal sign as <br> "converts to" | Thinking of "=" as "converts to" can facilitate substitutions & <br> manipulations in other mathematical expressions. |
-| Think in terms of ratios by <br> default | Viewing values as ratios can simplify problem-solving & <br> conceptual understanding. |
+| Think in terms of ratios by <br> default | Viewing values as ratios can simplify problem-solving &  conceptual understanding. |
 | Understand the difference between analytical vs. numerical approaches| Exact solutions are often associated with analytical approaches while approximation or discretized solutions are often associated with numerical appoaches. | 
+| Isolating a term in a complex mathematical formula is like untangling a knot | Sometimes one needs to loosen things before making real progress, and every move must be made with careful consideration of how it affects the whole structure. Being well-organized & systematic can take one a very long way in problem solving. |
 | Use software tools for conversion <br> to markdown or LaTeX | Convert equations for better inspection & rendering, ensuring <br> accuracy. |
-| Leverage Python & libraries <br> like SymPy | Write equations in Python for execution & manipulation, <br> aiding clarity & verification. |
-| Remember solutions on graphs <br> are line intersections | Graphical solutions typically correspond to intersection points <br> of lines or curves. |
-| Assume invisible exponents of 1 | This assumption helps maintain organization & supports <br> & grouping symbols |
-| Use preferred mathematical <br> notations | Include curly brackets, e-notation, prime/dot notation, & <br> highlight invisible symbols for clarity & precision. |
-| Stay aware of term replacements | Recognize when terms are replaced or approximated in <br> mathematical contexts. |
-| Consider various methods <br> (axiomatic, first principles, <br> empirical) | Use diverse approaches, including logical derivations, empirical <br> evidence, & hybrid methodologies for problem-solving. |
-| Explore graphical, tabulated, or <br> geometric representations | Visual or tabular methods can simplify complex mathematical <br> concepts. |
-| Practice final exam reviews | Mastery in mathematics comes with regular & extensive <br> practice, particularly of exam-style problems. |
+| Leverage Python & libraries <br> like SymPy | Write equations in Python for execution & manipulation, aiding clarity & verification. |
+| Remember solutions on graphs <br> are line intersections | Graphical solutions typically correspond to intersection points of lines or curves. |
+| It is safe to assume invisible exponents of 1 as well as invisible grouping symbols | Keeping this in mind helps to maintain organization for obtaining a correct result. <br> It also helps with being able to linearize the writing format for code and things like LaTeX. |
+| Use preferred mathematical <br> notations | Include curly brackets, e-notation, prime/dot notation, & highlight invisible symbols for clarity & precision. |
+| Stay aware of term replacements | Recognize when terms are replaced or approximated in mathematical contexts. Keywords: replacement, approximation. |
+| Consider various methods <br> (axiomatic, first principles, <br> empirical) | Use diverse approaches, including logical derivations, empirical evidence, & hybrid methodologies for problem-solving. |
+| Explore graphical, tabulated, or <br> geometric representations | Visual or tabular methods can simplify complex mathematical concepts. |
+| Practice final exam reviews | Mastery in mathematics comes with regular & extensive practice, particularly of exam-style problems. |
 
-### Table of Useful General Assumptions:
+### Table of Useful General Assumptions for Abstract Terminology Used in Everyday Life:
 
 | **Term or Concept** | **Description or Note** |
 |---------------------|------------------------|
@@ -66,6 +65,7 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 | **Radiation** | The emission or transmission of energy through space or a medium in the form of electromagnetic waves (e.g., radio waves, visible light, X-rays, gamma rays) or subatomic particles (e.g., alpha, beta, neutrons). In a broader sense, it can also refer to acoustic waves, though in physics “radiation” typically implies electromagnetic or particle radiation. Many people equate “radiation” solely with ionizing radiation, which is harmful in large doses and includes X-rays, gamma rays, and high-energy particles that can ionize atoms. This is a common misunderstanding because non-ionizing radiation (like visible light, microwaves, radio waves) is also “radiation,” just not ionizing. |
 | **Electric field** | Generally refers to the force per unit charge in a region due to a static or dynamic charge distribution. It can also be generated or excited by time-varying magnetic fields (as in electromagnetic waves) or by charge redistribution effects caused by incident radiation (e.g., in the photoelectric effect). Note: In formal treatments, the photoelectric effect is more often framed in a quantum context rather than purely classical terms. |
 | **Pure electric fields can be justified as being “pure”** | If they originate from idealized situations: a point charge, a parallel plate capacitor, uniformly charged conductors, electrostatic lenses (vacuum tube-based focusing), and electric dipole fields. |
+| **Space** | A boundless, continuous, or discrete extent in which objects, fields, or systems exist, interact, and have relative positions. In STEM, it can refer to **physical space** (three-dimensional Euclidean or non-Euclidean structures), **mathematical spaces** (vector spaces, phase spaces, Hilbert spaces, and even two-dimensional planes such as Cartesian planes or complex planes), or **conceptual spaces** (design spaces, information spaces). In everyday life, it denotes an area, room, or capacity for existence, movement, or thought. |
 | **Platform(s)** | Can be a physical or conceptual foundation upon which systems, processes, or experiments are built. |
 | **Linearity** | 1:1 ratio in the response by default, with a consistent or zero rate of change. |
 | **Non-linearity** | Any relationship where the ratio or response exhibits a non-zero rate of change; not a simple 1:1 linear relationship. |
@@ -119,7 +119,7 @@ Inspired by: Ezratty, Understanding Quantum Technologies, 2111.15352 (2024)
 
 --- 
 
-### Key Differences of How Analytical Solutions are Defined & Used: 
+### Key Differences of How Analytical Solutions are Defined & Used (Deterministic vs. Indeterministic): 
 
 | **Deterministic Analytical Solutions** | **Indeterministic Analytical Solutions** |
 |----------------------------------------|--------------------------------------------------------------|
