@@ -188,6 +188,7 @@ Greek Letters
 | Lagrangian & Hamiltonian Mechanics | [Physics with Elliot](https://youtu.be/0DHNGtsmmH8?si=hNMKA_s8YzH8hvX9) |
 | The Kronecker Delta | [Alexander Fufaev](https://youtu.be/nUxaL444Uv0?si=1nSHp7f2fNk0MJFc) |
 | The Levi-Civita Symbol & Kronecker Delta | [Jeffrey Chasnov](https://youtu.be/mArtUx18cno?si=9vZNCXs1Wt1Q2ZPo) |
+| Kronecker Delta & Levi-Civita Symbol | [Jeffery Chasnov](https://youtu.be/CWIaPrwLyjM?si=kqb5tHIN0OKgDKG2) |
 | Maxwell's Equations Explained | [Parth G](https://www.youtube.com/playlist?list=PLOlz9q28K2e6aNgl1zt1xccyy4Ofl3YAk) |
 | Animated Physics Lectures | [ZAP Physics](https://www.youtube.com/@zapphysics/playlists) |
 | More Animated Physics Lectures | [Alexander Fufaev](https://www.youtube.com/playlist?list=PLTjLwQcqQzNKzSAxJxKpmOtAriFS5wWy4) |
