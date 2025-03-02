@@ -35,25 +35,6 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 
 --- 
 
-### Pro Tips for Solving Mathematical Problems by (O.J.B.):
-
-| **Tip** | **Explanation/ Details** |
-| :--- | :--- |
-| Substitute given variables with custom <br> or other existing variables (e.g., AbcdEfG) | Solve the equation using your own variables, then mirror the steps onto the original problem for proportional reasoning. A technique to solving a formula is to find a term that exists in a different equation, followed by solving for that desired term (isolating it to one side). |
-| Interpret the equal sign as <br> "converts to" | Thinking of "=" as "converts to" can facilitate substitutions & <br> manipulations in other mathematical expressions. |
-| Think in terms of ratios by <br> default | Viewing values as ratios can simplify problem-solving &  conceptual understanding. |
-| Understand the difference between analytical vs. numerical approaches| Exact solutions are often associated with analytical approaches while approximation or discretized solutions are often associated with numerical appoaches. | 
-| Isolating a term in a complex mathematical formula is like untangling a knot | Sometimes one needs to loosen things before making real progress, and every move must be made with careful consideration of how it affects the whole structure. Being well-organized & systematic can take one a very long way in problem solving. |
-| Use software tools for conversion <br> to markdown or LaTeX | Convert equations for better inspection & rendering, ensuring <br> accuracy. |
-| Leverage Python & libraries <br> like SymPy | Write equations in Python for execution & manipulation, aiding clarity & verification. |
-| Remember solutions on graphs <br> are line intersections | Graphical solutions typically correspond to intersection points of lines or curves. |
-| It is safe to assume invisible exponents of 1 as well as invisible grouping symbols | Keeping this in mind helps to maintain organization for obtaining a correct result. <br> It also helps with being able to linearize the writing format for code and things like LaTeX. |
-| Use preferred mathematical <br> notations | Include curly brackets, e-notation, prime/dot notation, & highlight invisible symbols for clarity & precision. |
-| Stay aware of term replacements | Recognize when terms are replaced or approximated in mathematical contexts. Keywords: replacement, approximation. |
-| Consider various methods <br> (axiomatic, first principles, <br> empirical) | Use diverse approaches, including logical derivations, empirical evidence, & hybrid methodologies for problem-solving. |
-| Explore graphical, tabulated, or <br> geometric representations | Visual or tabular methods can simplify complex mathematical concepts. |
-| Practice final exam reviews | Mastery in mathematics comes with regular & extensive practice, particularly of exam-style problems. |
-
 ### Table of Useful General Assumptions for Abstract Terminology Used in Everyday Life:
 
 | **Term or Concept** | **Description or Note** |
@@ -116,6 +97,27 @@ Inspired by: Ezratty, Understanding Quantum Technologies, 2111.15352 (2024)
 |----------------------|---------------|
 | **Arbitrary**       | Refers to chosen values or units that maintain internal consistency without relying on an external, standardized reference. Example: arbitrary units used in graphs and charts. |
 | **Arbitrary Units (a.u.)** | Used in graphs and charts, they represent a consistent measure but do not correspond to a standardized physical unit. They are meaningful within the given context but are not directly comparable to a universal scale. |
+
+---
+
+### Pro Tips for Solving Mathematical Problems by (O.J.B.):
+
+| **Tip** | **Explanation/ Details** |
+| :--- | :--- |
+| Substitute given variables with custom <br> or other existing variables (e.g., AbcdEfG) | Solve the equation using your own variables, then mirror the steps onto the original problem for proportional reasoning. A technique to solving a formula is to find a term that exists in a different equation, followed by solving for that desired term (isolating it to one side). |
+| Interpret the equal sign as <br> "converts to" | Thinking of "=" as "converts to" can facilitate substitutions & <br> manipulations in other mathematical expressions. |
+| Think in terms of ratios by <br> default | Viewing values as ratios can simplify problem-solving &  conceptual understanding. |
+| Understand the difference between analytical vs. numerical approaches| Exact solutions are often associated with analytical approaches while approximation or discretized solutions are often associated with numerical appoaches. | 
+| Isolating a term in a complex mathematical formula is like untangling a knot | Sometimes one needs to loosen things before making real progress, and every move must be made with careful consideration of how it affects the whole structure. Being well-organized & systematic can take one a very long way in problem solving. |
+| Use software tools for conversion <br> to markdown or LaTeX | Convert equations for better inspection & rendering, ensuring <br> accuracy. |
+| Leverage Python & libraries <br> like SymPy | Write equations in Python for execution & manipulation, aiding clarity & verification. |
+| Remember solutions on graphs <br> are line intersections | Graphical solutions typically correspond to intersection points of lines or curves. |
+| It is safe to assume invisible exponents of 1 as well as invisible grouping symbols | Keeping this in mind helps to maintain organization for obtaining a correct result. <br> It also helps with being able to linearize the writing format for code and things like LaTeX. |
+| Use preferred mathematical <br> notations | Include curly brackets, e-notation, prime/dot notation, & highlight invisible symbols for clarity & precision. |
+| Stay aware of term replacements | Recognize when terms are replaced or approximated in mathematical contexts. Keywords: replacement, approximation. |
+| Consider various methods <br> (axiomatic, first principles, <br> empirical) | Use diverse approaches, including logical derivations, empirical evidence, & hybrid methodologies for problem-solving. |
+| Explore graphical, tabulated, or <br> geometric representations | Visual or tabular methods can simplify complex mathematical concepts. |
+| Practice final exam reviews | Mastery in mathematics comes with regular & extensive practice, particularly of exam-style problems. |
 
 --- 
 
