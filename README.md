@@ -204,6 +204,8 @@ Greek Letters
 | Quantum Physics III | [MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L) |
 | Physical Chemistry | [MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP62RsEHXe48Imi9-87FzQaJg) |
 | Physical Chemistry | [Prof. Derricotte](https://www.youtube.com/@ProfessorDerricotte/playlists) |
+| Physical Chemistry I | [Stuart Winikoff](https://youtube.com/playlist?list=PLwYDFkYVX5B2zFPbUvBDDQwU3PmzxEeF_&si=xwFdYMwH68eMRtCG) |
+| Physical Chemistry II | [Stuart Winikoff](https://youtube.com/playlist?list=PLwYDFkYVX5B383wtlZBGh-GwK0X6Ko_ip&si=SCqzg6yEy7jZKbOQ) |
 | Quantum Chemistry | [Trent M. Parker](https://www.youtube.com/playlist?list=PLm8ZSArAXicLTRn3cJyyU1TiU7n_Pp4X1) |
 | Quantum Transport | [Prof. Sergey Frolov](https://youtube.com/playlist?list=PLtTPtV8SRcxjedflXwNPSI_fxvxwUCjsd) |
 | Quantum Many-Body Physics | [Prof. Luis Gregório Dias](https://youtube.com/playlist?list=PL6FyrZIBwD8LMWizZW1FUN2dS_l44yuiy) |
