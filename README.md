@@ -183,6 +183,7 @@ Greek Letters
 | How Energy is Created Quantum Mechanics [Creation & Anihilation Operators]| [Parth G](https://youtu.be/ocJBIXua6zQ?si=33kfOA2lUCHe5an4) |
 | Quantum Operators & Commutators | [Parth G](https://youtu.be/so1szjHu7jY?si=SAmlxPP8Xgqc78v-) |
 | Quantum Physics Becomes Intuitive with this Theorem, Ehrenfest's Theorem EXPLAINED | [Parth G](https://youtu.be/dHptQCXdQio?si=VALCO-RKVQRHBwKZ) |
+| Perturbation Theory | [Parth G](https://youtu.be/j0zghSW6loQ?si=U0o7z93SR8rP0dzC) |
 | Matrices | [Parth G](https://youtu.be/Ujvy2-o1I9c) |
 | Understand Tensors Like a Physicist (The Easy Way) | [Physics - Problems & Solutions](https://youtu.be/czrel_yqJYM?si=JANMZ1eDQ-W6Krlv) |
 | Lagrangian & Hamiltonian Mechanics | [Physics with Elliot](https://youtu.be/0DHNGtsmmH8?si=hNMKA_s8YzH8hvX9) |
