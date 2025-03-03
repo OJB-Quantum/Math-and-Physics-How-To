@@ -35,6 +35,25 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 
 --- 
 
+### Pro Tips for Solving Mathematical Problems by (O.J.B.):
+
+| **Tip** | **Explanation/ Details** |
+| :--- | :--- |
+| Substitute given variables with custom <br> or other existing variables (e.g., AbcdEfG) | Solve the equation using your own variables, then mirror the steps onto the original problem for proportional reasoning. A technique to solving a formula is to find a term that exists in a different equation, followed by solving for that desired term (isolating it to one side). |
+| Interpret the equal sign as <br> "converts to" | Thinking of "=" as "converts to" can facilitate substitutions & <br> manipulations in other mathematical expressions. |
+| Think in terms of ratios by <br> default | Viewing values as ratios can simplify problem-solving &  conceptual understanding. |
+| Understand the difference between analytical vs. numerical approaches| Exact solutions are often associated with analytical approaches while approximation or discretized solutions are often associated with numerical appoaches. | 
+| Isolating a term in a complex mathematical formula is like untangling a knot | Sometimes one needs to loosen things before making real progress, and every move must be made with careful consideration of how it affects the whole structure. Being well-organized & systematic can take one a very long way in problem solving. |
+| Use software tools for conversion <br> to markdown or LaTeX | Convert equations for better inspection & rendering, ensuring <br> accuracy. |
+| Leverage Python & libraries <br> like SymPy | Write equations in Python for execution & manipulation, aiding clarity & verification. |
+| Remember solutions on graphs <br> are line intersections | Graphical solutions typically correspond to intersection points of lines or curves. |
+| It is safe to assume invisible exponents of 1 as well as invisible grouping symbols | Keeping this in mind helps to maintain organization for obtaining a correct result. <br> It also helps with being able to linearize the writing format for code and things like LaTeX. |
+| Use preferred mathematical <br> notations | Include curly brackets, e-notation, prime/dot notation, & highlight invisible symbols for clarity & precision. |
+| Stay aware of term replacements | Recognize when terms are replaced or approximated in mathematical contexts. Keywords: replacement, approximation. |
+| Consider various methods <br> (axiomatic, first principles, <br> empirical) | Use diverse approaches, including logical derivations, empirical evidence, & hybrid methodologies for problem-solving. |
+| Explore graphical, tabulated, or <br> geometric representations | Visual or tabular methods can simplify complex mathematical concepts. |
+| Practice final exam reviews | Mastery in mathematics comes with regular & extensive practice, particularly of exam-style problems. |
+
 ### Table of Useful General Assumptions for Abstract Terminology Used in Everyday Life:
 
 | **Term or Concept** | **Description or Note** |
@@ -97,27 +116,6 @@ Inspired by: Ezratty, Understanding Quantum Technologies, 2111.15352 (2024)
 |----------------------|---------------|
 | **Arbitrary**       | Refers to chosen values or units that maintain internal consistency without relying on an external, standardized reference. Example: arbitrary units used in graphs and charts. |
 | **Arbitrary Units (a.u.)** | Used in graphs and charts, they represent a consistent measure but do not correspond to a standardized physical unit. They are meaningful within the given context but are not directly comparable to a universal scale. |
-
----
-
-### Pro Tips for Solving Mathematical Problems by (O.J.B.):
-
-| **Tip** | **Explanation/ Details** |
-| :--- | :--- |
-| Substitute given variables with custom <br> or other existing variables (e.g., AbcdEfG) | Solve the equation using your own variables, then mirror the steps onto the original problem for proportional reasoning. A technique to solving a formula is to find a term that exists in a different equation, followed by solving for that desired term (isolating it to one side). |
-| Interpret the equal sign as <br> "converts to" | Thinking of "=" as "converts to" can facilitate substitutions & <br> manipulations in other mathematical expressions. |
-| Think in terms of ratios by <br> default | Viewing values as ratios can simplify problem-solving &  conceptual understanding. |
-| Understand the difference between analytical vs. numerical approaches| Exact solutions are often associated with analytical approaches while approximation or discretized solutions are often associated with numerical appoaches. | 
-| Isolating a term in a complex mathematical formula is like untangling a knot | Sometimes one needs to loosen things before making real progress, and every move must be made with careful consideration of how it affects the whole structure. Being well-organized & systematic can take one a very long way in problem solving. |
-| Use software tools for conversion <br> to markdown or LaTeX | Convert equations for better inspection & rendering, ensuring <br> accuracy. |
-| Leverage Python & libraries <br> like SymPy | Write equations in Python for execution & manipulation, aiding clarity & verification. |
-| Remember solutions on graphs <br> are line intersections | Graphical solutions typically correspond to intersection points of lines or curves. |
-| It is safe to assume invisible exponents of 1 as well as invisible grouping symbols | Keeping this in mind helps to maintain organization for obtaining a correct result. <br> It also helps with being able to linearize the writing format for code and things like LaTeX. |
-| Use preferred mathematical <br> notations | Include curly brackets, e-notation, prime/dot notation, & highlight invisible symbols for clarity & precision. |
-| Stay aware of term replacements | Recognize when terms are replaced or approximated in mathematical contexts. Keywords: replacement, approximation. |
-| Consider various methods <br> (axiomatic, first principles, <br> empirical) | Use diverse approaches, including logical derivations, empirical evidence, & hybrid methodologies for problem-solving. |
-| Explore graphical, tabulated, or <br> geometric representations | Visual or tabular methods can simplify complex mathematical concepts. |
-| Practice final exam reviews | Mastery in mathematics comes with regular & extensive practice, particularly of exam-style problems. |
 
 --- 
 
@@ -182,13 +180,16 @@ Greek Letters
 | Poisson's Equation for Beginners | [Parth G](https://youtu.be/k91KDItxif0?si=zSO5Ml95m92yca2U) |
 | Eigenvalue Equation | [Parth G](https://youtu.be/zejh5yNkFpc) |
 | Solving the Schrödinger Equation | [Parth G](https://youtu.be/sPZWtZ8vt1w?si=Y8tdbrBEe7O5J7gK) |
-| Quantum Operators & Commutators | [Parth G](https://youtu.be/so1szjHu7jY?si=SAmlxPP8Xgqc78v-) |
 | How Energy is Created Quantum Mechanics [Creation & Anihilation Operators]| [Parth G](https://youtu.be/ocJBIXua6zQ?si=33kfOA2lUCHe5an4) |
-| Matrices | [Parth G](https://youtu.be/Ujvy2-o1I9c) |
+| Quantum Operators & Commutators | [Parth G](https://youtu.be/so1szjHu7jY?si=SAmlxPP8Xgqc78v-) |
 | Quantum Physics Becomes Intuitive with this Theorem, Ehrenfest's Theorem EXPLAINED | [Parth G](https://youtu.be/dHptQCXdQio?si=VALCO-RKVQRHBwKZ) |
+| Perturbation Theory | [Parth G](https://youtu.be/j0zghSW6loQ?si=U0o7z93SR8rP0dzC) |
+| Matrices | [Parth G](https://youtu.be/Ujvy2-o1I9c) |
 | Understand Tensors Like a Physicist (The Easy Way) | [Physics - Problems & Solutions](https://youtu.be/czrel_yqJYM?si=JANMZ1eDQ-W6Krlv) |
 | Lagrangian & Hamiltonian Mechanics | [Physics with Elliot](https://youtu.be/0DHNGtsmmH8?si=hNMKA_s8YzH8hvX9) |
 | The Kronecker Delta | [Alexander Fufaev](https://youtu.be/nUxaL444Uv0?si=1nSHp7f2fNk0MJFc) |
+| The Levi-Civita Symbol & Kronecker Delta | [Jeffrey Chasnov](https://youtu.be/mArtUx18cno?si=9vZNCXs1Wt1Q2ZPo) |
+| Kronecker Delta & Levi-Civita Symbol | [Jeffery Chasnov](https://youtu.be/CWIaPrwLyjM?si=kqb5tHIN0OKgDKG2) |
 | Maxwell's Equations Explained | [Parth G](https://www.youtube.com/playlist?list=PLOlz9q28K2e6aNgl1zt1xccyy4Ofl3YAk) |
 | Animated Physics Lectures | [ZAP Physics](https://www.youtube.com/@zapphysics/playlists) |
 | More Animated Physics Lectures | [Alexander Fufaev](https://www.youtube.com/playlist?list=PLTjLwQcqQzNKzSAxJxKpmOtAriFS5wWy4) |
@@ -204,6 +205,8 @@ Greek Letters
 | Quantum Physics III | [MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L) |
 | Physical Chemistry | [MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP62RsEHXe48Imi9-87FzQaJg) |
 | Physical Chemistry | [Prof. Derricotte](https://www.youtube.com/@ProfessorDerricotte/playlists) |
+| Physical Chemistry I | [Stuart Winikoff](https://youtube.com/playlist?list=PLwYDFkYVX5B2zFPbUvBDDQwU3PmzxEeF_&si=xwFdYMwH68eMRtCG) |
+| Physical Chemistry II | [Stuart Winikoff](https://youtube.com/playlist?list=PLwYDFkYVX5B383wtlZBGh-GwK0X6Ko_ip&si=SCqzg6yEy7jZKbOQ) |
 | Quantum Chemistry | [Trent M. Parker](https://www.youtube.com/playlist?list=PLm8ZSArAXicLTRn3cJyyU1TiU7n_Pp4X1) |
 | Quantum Transport | [Prof. Sergey Frolov](https://youtube.com/playlist?list=PLtTPtV8SRcxjedflXwNPSI_fxvxwUCjsd) |
 | Quantum Many-Body Physics | [Prof. Luis Gregório Dias](https://youtube.com/playlist?list=PL6FyrZIBwD8LMWizZW1FUN2dS_l44yuiy) |
@@ -212,6 +215,7 @@ Greek Letters
 | Quantum Optics | [Prof. Immanuel Bloch](https://youtube.com/playlist?list=PLNMgVqt8MREzCQbgPxBiHKlFbV7Xszkds&si=X-McdfdhzHAbP7xk)|
 | Topological Quantum Matter | [Weizmann Institute of Science](https://youtube.com/@topologicalquantummatter-w4105?si=6ctZZZoEbKOUOVlI) |
 | Quantum Field Theory Playlist | [Nick Heumann](https://www.youtube.com/playlist?list=PLXS_wzQAoIt7GxSRwCaicaSdeKqzYSUq4) |
+| Quantum Field Theory Playlist | [Dietterich Labs](https://youtube.com/playlist?list=PLSpklniGdSfSsk7BSZjONcfhRGKNa2uou&si=JU4D4fLstHboWjE5) |
 | Relativistic Quantum Field Theory Playlist | [MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP61AV6bhf4mB3tCyWQrI_uU5) |
 | Important Notes & Physics Etiquettes | [Physics with Elliot](https://www.physicswithelliot.com/all-notes) |
 | Math Notes for Quantum Information Science| [Introduction to Quantum Information Science](https://qubit.guide/some-mathematical-preliminaries) |
