@@ -198,6 +198,7 @@ Greek Letters
 | Maths of Quantum Mechanics Playlist | [Quantum Sense](https://www.youtube.com/playlist?list=PL8ER5-vAoiHAWm1UcZsiauUGPlJChgNXC) |
 | Quantum Harmonic Oscillators | [Pretty Much Physics](https://www.youtube.com/playlist?list=PL4_IZ0OM6KAmJ7h9Uo6fgIf_98SQWKaso) |
 | Dirac Equation Playlist | [Pretty Much Physics](https://www.youtube.com/playlist?list=PL4_IZ0OM6KAmTSkgtxxSkrL4eRea0OY9U) |
+| Approximation Methods | [TMP Chem](https://youtube.com/playlist?list=PLm8ZSArAXicIBR4N5A6PsJBqr7eoG1yLi&si=t7e8rgwaEIjBvj99) |
 | Quantum Information Science Playlists | [Prof. Artur Ekert](https://www.youtube.com/@ArturEkert/playlists) |
 | Griffiths Quantum Mechanics Playlist | [Nick Heumann](https://www.youtube.com/playlist?list=PLXS_wzQAoIt6UQel7ZyXhfC3_FDMOeeiW) |
 | Modern Physics | [Professor Dave Explains](https://youtube.com/playlist?list=PLybg94GvOJ9FAFBqQGf5-4YbfKpWbJtGn&si=Y47Q5eEeJTMwk3lv) |
