@@ -200,6 +200,7 @@ Greek Letters
 | Dirac Equation Playlist | [Pretty Much Physics](https://www.youtube.com/playlist?list=PL4_IZ0OM6KAmTSkgtxxSkrL4eRea0OY9U) |
 | Quantum Information Science Playlists | [Prof. Artur Ekert](https://www.youtube.com/@ArturEkert/playlists) |
 | Griffiths Quantum Mechanics Playlist | [Nick Heumann](https://www.youtube.com/playlist?list=PLXS_wzQAoIt6UQel7ZyXhfC3_FDMOeeiW) |
+| Modern Physics | [Professor Dave Explains](https://youtube.com/playlist?list=PLybg94GvOJ9FAFBqQGf5-4YbfKpWbJtGn&si=Y47Q5eEeJTMwk3lv) |
 | Quantum Physics I | [MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G) |
 | Quantum Physics II | [MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx) |
 | Quantum Physics III | [MIT OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L) |
