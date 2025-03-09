@@ -175,6 +175,7 @@ Greek Letters
 | To Master Physics, First Master the Harmonic Oscillator | [Physics with Elliot](https://youtu.be/bmGqhM-tUk4) |
 | To Master Physics, First Master the Rotating Coordinate System | [Dialect](https://youtu.be/pD9NxA1aV7E?si=eUAKiOxLyWI09OgR) |
 | 5 Methods for Differential Equations | [Physics with Elliot](https://youtu.be/0kY3Wpvutfs) |
+| Imaginary Numbers | [Parth G](https://youtu.be/Ms2Y9g0VC-c?si=gFI--EHoJao9fPLh) |
 | Why Momentum in Quantum Physics is Complex | [Parth G](https://youtu.be/kG-iihrYCG4?si=AheftWSyIp0mKn_a) |
 | The Wave Equation | [Parth G](https://youtu.be/ub7lok-JQJE) |
 | Solving the Wave Equation | [Parth G](https://youtu.be/x2bD2QhOxd0?si=XABtDfhP9DPPR-Ja) |
