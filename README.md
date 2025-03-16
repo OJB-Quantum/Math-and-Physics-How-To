@@ -48,6 +48,7 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 | Leverage Python & libraries <br> like SymPy | Write equations in Python for execution & manipulation, aiding clarity & verification. |
 | Remember solutions on graphs <br> are line intersections | Graphical solutions typically correspond to intersection points of lines or curves. |
 | It is safe to assume invisible exponents of 1 as well as invisible grouping symbols | Keeping this in mind helps to maintain organization for obtaining a correct result. <br> It also helps with being able to linearize the writing format for code and things like LaTeX. |
+| It is useful to think of formulas as having grouped components within invisible grouping symbols | In such a case, a grouped component may likely be acting like a modulator or scaling factor. |
 | Use preferred mathematical <br> notations | Include curly brackets, e-notation, prime/dot notation, & highlight invisible symbols for clarity & precision. |
 | Stay aware of term replacements | Recognize when terms are replaced or approximated in mathematical contexts. Keywords: replacement, approximation. |
 | Consider various methods <br> (axiomatic, first principles, <br> empirical) | Use diverse approaches, including logical derivations, empirical evidence, & hybrid methodologies for problem-solving. |
