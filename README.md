@@ -133,7 +133,7 @@ Inspired by: Gisin, Indeterminism in Physics and Intuitionistic Mathematics, Syn
 <https://doi.org/10.1007/s11229-021-03378-z>  
 <http://creativecommons.org/licenses/by/4.0/>  
 
-### A variety of problem-solving approaches & where they tend to fall along the two dimensions:
+### A Variety of Problem-Solving Approaches & Where They Tend to Fall Along the Two Dimensions:
 
 1. **Approximate → Exact** (top to bottom)  
 2. **Intuitionistic → Analytical** (left to right)
