@@ -74,7 +74,7 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 | **Magnetic** | Refers to magnetism. By default, all matter made of atoms is at least diamagnetic. If it is not diamagnetic, its magnetism (paramagnetism, ferromagnetism, etc.) depends on or is determined by the behavior of its electrons. When describing the spin direction of a single electron, it is referred to as the magnetic dipole moment, while a magnetic domain refers to a bulk region of collective spins or uniformly aligned spins. |
 | **By default, it may be better to think of values in terms of ratios or slopes.** | A guiding principle in analyzing systems or problems: scaling relationships, slopes, and derivatives often reveal more insight than absolute numbers. |
 | **Possible alternative name for microwave photon detector** | Microwave photon radiation detector. |
-| **Everything is a transmission line, and everything is a capacitor (including self-capacitance).** | A broad conceptual notion in electronics and physics, emphasizing that all structures can be modeled as having transmission line properties and inherent capacitance. |
+| **Everything is a transmission line, a capacitor (including self-capacitance), & inductor.** | A broad conceptual notion in electronics and physics, emphasizing that all structures can be modeled as having transmission line properties, inherent capacitance, and inherent inductance. |
 
 ### Description of Spins & Spinors:
 
@@ -133,17 +133,17 @@ Inspired by: Gisin, Indeterminism in Physics and Intuitionistic Mathematics, Syn
 <https://doi.org/10.1007/s11229-021-03378-z>  
 <http://creativecommons.org/licenses/by/4.0/>  
 
-### A variety of problem-solving approaches & where they tend to fall along the two dimensions:
+### A Variety of Problem-Solving Approaches & Where They Tend to Fall Along the Two Dimensions:
 
 1. **Approximate → Exact** (top to bottom)  
 2. **Intuitionistic → Analytical** (left to right)
 
 |                                     | **More Intuitionistic**                                               | **Mixed/Hybrid**                                                                                                  | **More Analytical**                                                                                                        |
 |:-----------------------------------:|:---------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
-| **Highly Approximate**<br>(Top)     | **Pure Intuition** <br>• Gut feeling<br>• Instinctive reactions       | **Trial-and-Error / Rough Guess** <br>• Ad-hoc tinkering<br>• Quick “guess-and-check” attempts                    | **Back-of-the-Envelope Computations** <br>• Rapid mental math or simplified analysis<br>• “Quick and dirty” calculations |
-| **Moderately Approximate**          | **Educated Guesses / Analogy** <br>• Intuition guided by analogies<br>• Domain-specific “rules of thumb” | **Heuristics** <br>• General problem-solving rules of thumb <br>**Metaheuristics** <br>• Genetic algorithms, evolutionary methods, etc. | **Simplified Modeling / Monte Carlo** <br>• Partial modeling or assumptions<br>• Stochastic approximations and simulations |
-| **Moderately Exact**                | **Intuitive Domain Expertise** <br>• Structured “gut sense” from years of practice                         | **Systematic Heuristics** <br>• Deliberately applied heuristic sets <br>**Hybrid Methods** <br>• Combining data + experience for iteration | **Algorithmic / Structured** <br>• Well-defined step-by-step procedures <br>• Many optimization or search algorithms      |
-| **Highly Exact**<br>(Bottom)        | *(Rare purely “intuitive” exactness—often specialized or self-correcting)*                                 | **Formalized Hybrid Methods** <br>• Constraint programming with heuristic guidance <br>• High-level frameworks that incorporate both data and domain insight | **Formal / Deductive** <br>• Mathematical proofs <br>• Exhaustive search <br>• Rigorous deductive logic / derivations   |
+| **Highly Approximate**<br>(Top)     | **Pure Intuition** <br>- Gut feeling<br>- Instinctive reactions       | **Trial-and-Error / Rough Guess** <br>- Ad-hoc tinkering<br>- Quick “guess-and-check” attempts                    | **Back-of-the-Envelope Computations** <br>- Rapid mental math or simplified analysis<br>- “Quick and dirty” calculations  |
+| **Moderately Approximate**          | **Educated Guesses / Analogy** <br>- Intuition guided by analogies<br>- Domain-specific “rules of thumb”    | **Heuristics** <br>- General problem-solving rules of thumb <br>**Metaheuristics** <br>- Genetic algorithms, evolutionary methods, etc. | **Simplified Modeling / Monte Carlo** <br>- Partial modeling or assumptions<br>- Stochastic approximations and simulations |
+| **Moderately Exact**                | **Intuitive Domain Expertise** <br>- Structured “gut sense” from years of practice                          | **Systematic Heuristics** <br>- Deliberately applied heuristic sets <br>**Hybrid Methods** <br>- Combining data + experience for iteration | **Algorithmic / Structured** <br>- Well-defined step-by-step procedures <br>- Many optimization or search algorithms      |
+| **Highly Exact**<br>(Bottom)        | *(Rare purely “intuitive” exactness—often specialized or self-correcting)*                                 | **Formalized Hybrid Methods** <br>- Constraint programming with heuristic guidance <br>- High-level frameworks that incorporate both data and domain insight | **Formal / Deductive** <br>- Mathematical proofs <br>- Exhaustive search <br>- Rigorous deductive logic / derivations    |
 
 --- 
 
