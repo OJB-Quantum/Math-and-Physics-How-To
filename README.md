@@ -74,7 +74,7 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 | **Magnetic** | Refers to magnetism. By default, all matter made of atoms is at least diamagnetic. If it is not diamagnetic, its magnetism (paramagnetism, ferromagnetism, etc.) depends on or is determined by the behavior of its electrons. When describing the spin direction of a single electron, it is referred to as the magnetic dipole moment, while a magnetic domain refers to a bulk region of collective spins or uniformly aligned spins. |
 | **By default, it may be better to think of values in terms of ratios or slopes.** | A guiding principle in analyzing systems or problems: scaling relationships, slopes, and derivatives often reveal more insight than absolute numbers. |
 | **Possible alternative name for microwave photon detector** | Microwave photon radiation detector. |
-| **Everything is a transmission line, and everything is a capacitor (including self-capacitance).** | A broad conceptual notion in electronics and physics, emphasizing that all structures can be modeled as having transmission line properties and inherent capacitance. |
+| **Everything is a transmission line, a capacitor (including self-capacitance), & inductor.** | A broad conceptual notion in electronics and physics, emphasizing that all structures can be modeled as having transmission line properties, inherent capacitance, and inherent inductance. |
 
 ### Description of Spins & Spinors:
 
