@@ -8,7 +8,7 @@ A repository of publicly-accessible resources for learning & self-teaching mathe
 --- 
 ### Free Mathematics Textbooks Resources: 
 - [Mathematics Its Contents Methods And Meaning Vol 1, 2, & 3](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3/Mathematics-%20its%20contents%20methods%20and%20meaning%20Vol%201/page/n221/mode/2up)
-- [Mathematical Handbook - Higher Mathematics](https://archive.org/details/vygodsky-mathematical-handbook-higher-mathematics-mir/page/n31/mode/2up)
+- [Mathematical Handbook - Higher Mathematics](https://archive.org/details/vygodsky-mathematical-handbook-higher-mathematics-mir/mode/2up)
 - [Abel’s Theorem in Problems and Solutions](https://www.maths.ed.ac.uk/~v1ranick/papers/abel.pdf)
 - [Elementary Topology](https://www.math.kth.se/math/GRU/2008.2009/SF2721/olegviro.pdf)
 - [Ordinary Differential Equations](https://cosmathclub.wordpress.com/wp-content/uploads/2014/10/morris-tenenbaum-harry-pollard-ordinary-differential-equations-copy.pdf)
