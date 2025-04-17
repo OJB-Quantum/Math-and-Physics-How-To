@@ -6,10 +6,13 @@ A repository of publicly-accessible resources for learning & self-teaching mathe
 "Being good or great at mathematics is a matter of practice. Isolating a term in a complex mathematical formula is like untangling a knot, it requires persistence & loosening of things". - O.J.B.
 
 --- 
-### Free Mathematics Textbooks: 
+### Free Mathematics Textbooks Resources: 
 - [Mathematics Its Contents Methods And Meaning Vol 1, 2, & 3](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3/Mathematics-%20its%20contents%20methods%20and%20meaning%20Vol%201/page/n221/mode/2up)
-- [Elementary Topology](https://www.math.kth.se/math/GRU/2008.2009/SF2721/olegviro.pdf)
+- [Mathematical Handbook - Higher Mathematics](https://archive.org/details/vygodsky-mathematical-handbook-higher-mathematics-mir/page/n31/mode/2up)
 - [Abel’s Theorem in Problems and Solutions](https://www.maths.ed.ac.uk/~v1ranick/papers/abel.pdf)
+- [Elementary Topology](https://www.math.kth.se/math/GRU/2008.2009/SF2721/olegviro.pdf)
+- [Ordinary Differential Equations](https://cosmathclub.wordpress.com/wp-content/uploads/2014/10/morris-tenenbaum-harry-pollard-ordinary-differential-equations-copy.pdf)
+- [Mathematics Library on Internet Archive](https://archive.org/search?query=publisher%3A%22Mir+Publishers%22&and[]=subject%3A%22mathematics%22)
 
 ---
 
