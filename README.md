@@ -6,6 +6,10 @@ A repository of publicly-accessible resources for learning & self-teaching mathe
 "Being good or great at mathematics is a matter of practice. Isolating a term in a complex mathematical formula is like untangling a knot, it requires persistence & loosening of things". - O.J.B.
 
 --- 
+### Free Mathematics Textbooks: 
+- [Mathematics Its Contents Methods And Meaning Vol 1, 2, & 3](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3/Mathematics-%20its%20contents%20methods%20and%20meaning%20Vol%201/page/n221/mode/2up)
+
+---
 
 ### In Case You Want Some Fun Open Access Interactive Tools to Try:
 - [Free Education](https://ojb-quantum.github.io/Free-Education)
