@@ -13,6 +13,7 @@ A repository of publicly-accessible resources for learning & self-teaching mathe
 - [Elementary Topology](https://www.math.kth.se/math/GRU/2008.2009/SF2721/olegviro.pdf)
 - [Ordinary Differential Equations](https://cosmathclub.wordpress.com/wp-content/uploads/2014/10/morris-tenenbaum-harry-pollard-ordinary-differential-equations-copy.pdf)
 - [Mathematics Library on Internet Archive](https://archive.org/search?query=publisher%3A%22Mir+Publishers%22&and[]=subject%3A%22mathematics%22)
+- [Quantum Mechanics, 3 Volumes](https://archive.org/details/cohen-tannoudji-diu-and-laloe-quantum-mechanics-vol.-i-ii-and-iii-2nd-ed./mode/2up)
 
 ---
 
