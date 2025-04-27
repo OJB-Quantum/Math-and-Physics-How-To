@@ -33,7 +33,7 @@ A repository of publicly-accessible resources for learning & self-teaching mathe
 
 ### Map of Mathematics & Their Prerequisites:
 
-![408564990-833be6b8-6a9d-4602-a69c-63096bb91dac](https://github.com/user-attachments/assets/c7a4a330-ac19-47e1-a029-a0e2becf325a)
+![image](https://github.com/user-attachments/assets/833be6b8-6a9d-4602-a69c-63096bb91dac)
 
 Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathematics (2023)  
 <https://youtu.be/ljGSId-uHw8?si=xKNup3hOVsWC6uTv&t=200>
