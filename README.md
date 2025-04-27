@@ -44,6 +44,9 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 
 ![newplot](https://github.com/user-attachments/assets/0077e857-bf88-42dd-85dd-a6b4e36ca7d6)
 
+
+![Untitled](https://github.com/user-attachments/assets/56b1a67f-ce27-4f0f-b018-2f4145e32af5)
+
 --- 
 
 ### Pro Tips for Solving Mathematical Problems by (O.J.B.):
