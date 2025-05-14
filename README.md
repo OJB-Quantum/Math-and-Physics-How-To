@@ -212,6 +212,7 @@ Greek Letters
 | How Energy is Created Quantum Mechanics [Creation & Anihilation Operators]| [Parth G](https://youtu.be/ocJBIXua6zQ?si=33kfOA2lUCHe5an4) |
 | Quantum Operators & Commutators | [Parth G](https://youtu.be/so1szjHu7jY?si=SAmlxPP8Xgqc78v-) |
 | Quantum Physics Becomes Intuitive with this Theorem, Ehrenfest's Theorem EXPLAINED | [Parth G](https://youtu.be/dHptQCXdQio?si=VALCO-RKVQRHBwKZ) |
+| What Is Ehrenfest Theorem, Ehrenfest Theorem Explained, Ehrenfest Theorem Quantum Mechanics | [Physics for Students](https://youtu.be/X2lW7ukr4n0?si=P89n25MbfufPrFBI) |
 | Perturbation Theory | [Parth G](https://youtu.be/j0zghSW6loQ?si=U0o7z93SR8rP0dzC) |
 | Matrices | [Parth G](https://youtu.be/Ujvy2-o1I9c) |
 | Understand Tensors Like a Physicist (The Easy Way) | [Physics - Problems & Solutions](https://youtu.be/czrel_yqJYM?si=JANMZ1eDQ-W6Krlv) |
@@ -262,6 +263,7 @@ Greek Letters
 | Introduction to Mathematical Reasoning Playlist | [Knop's Course](https://youtube.com/playlist?list=PLxYr6TaF_SDU9ovvxPGAxI0dXfPgwhfBl&si=aTWKeeDbTgRDBDsn) |
 | General Mathematical Playlists | [Faculty of Khan](https://www.youtube.com/@FacultyofKhan/playlists) |
 | Mathematical Physics Playlists | [Dietterich Labs](https://www.youtube.com/@DietterichLabs/playlists) |
+| Physics Playlists | [Physics for Students](https://www.youtube.com/@physicsforstudents/playlists)|
 | Geometric Algebra - Why | [Parker Glynn-Adey](https://youtu.be/PGZNYGwsXTw?si=Jm1y1pB8WRbmG21G) |
 | Geometric Algebra - Why 2 | [Bivector](https://youtu.be/m7v2IUJtC3g?si=SDmPDs2yDzDBktnZ) |
 | Zero to Geo[metric Algebra] | [sudgylacmoe](https://youtube.com/playlist?list=PLVuwZXwFua-0Ks3rRS4tIkswgUmDLqqRy&si=TCmjMbomOjzW0GyW) |
