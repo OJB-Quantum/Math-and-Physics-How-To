@@ -412,19 +412,19 @@ Stimulus–Response Atlas --> “Physics Thesis”
 ```
 
 ### A practical scaffold for a data-driven physics thesis
-**Chapter 1** - Problem, contributions, claims. State the question, the gap, and exactly what is original. Anchor against the “original contribution” criterion. 
+- **Chapter 1** - Problem, contributions, claims. State the question, the gap, and exactly what is original. Anchor against the “original contribution” criterion. 
 
-**Chapter 2** - Methods, calibration, DOE. Define stimuli, responses, states, controlled variables, and geometry. Lay out DOE, replication, and randomization. Document calibration chains and uncertainty budgets.
+- **Chapter 2** - Methods, calibration, DOE. Define stimuli, responses, states, controlled variables, and geometry. Lay out DOE, replication, and randomization. Document calibration chains and uncertainty budgets.
 
-**Chapter 3** - Response surfaces and parameter extraction. Present full maps $y=f(x1,x2,…) y=f(x_1,x_2,\dots) y=f(x1​,x2​,…)$, residuals, confidence bands, and parameter-identifiability diagnostics.
+- **Chapter 3** - Response surfaces and parameter extraction. Present full maps $y=f(x1,x2,…) y=f(x_1,x_2,\dots) y=f(x1​,x2​,…)$, residuals, confidence bands, and parameter-identifiability diagnostics.
 
-**Chapter 4** - Mechanism and constraints. Derive linear- and, where needed, non-linear response. Show that susceptibilities satisfy causality and Kramers–Kronig; explain dispersion/loss trade-offs. 
+- **Chapter 4** - Mechanism and constraints. Derive linear- and, where needed, non-linear response. Show that susceptibilities satisfy causality and Kramers–Kronig; explain dispersion/loss trade-offs. 
 
-**Chapter 5** - Scaling and universality. Build non-dimensional groups, attempt curve-collapse across geometries and temperatures, and articulate regime maps.
+- **Chapter 5** - Scaling and universality. Build non-dimensional groups, attempt curve-collapse across geometries and temperatures, and articulate regime maps.
 
-**Chapter 6** - Validation and prediction. Predict unseen conditions and compare to new experiments; quantify predictive uncertainty.
+- **Chapter 6** - Validation and prediction. Predict unseen conditions and compare to new experiments; quantify predictive uncertainty.
 
-**Chapter 7** - Reuse package. Release data, code, and metadata with a clear Data Availability Statement and FAIR checklist; include a “parameter-extraction recipe.”
+- **Chapter 7** - Reuse package. Release data, code, and metadata with a clear Data Availability Statement and FAIR checklist; include a “parameter-extraction recipe.”
 
 ---
 
