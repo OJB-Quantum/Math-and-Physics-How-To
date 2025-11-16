@@ -311,7 +311,6 @@ Greek Letters
 
 --- 
 
-
 ## To "Do Physics" 
 
 When people say “what’s the physics?” they are very often asking, first, for stimulus-response behavior and the shapes of the resulting curves. However, to be more complete, “the physics” also includes the precise words and symbols we use, the governing laws and constraints, the parameters and units, the valid regimes and approximations, the noise and uncertainty, and the geometry and boundary conditions that make those curves look the way they do. 
@@ -326,6 +325,7 @@ When someone asks for “the physics,” they are asking, in plain terms, “If 
 - The simple rules that tie inputs to outputs: Hooke’s law, Ohm’s law, Beer–Lambert law, the ideal-gas law, and so on.
 - The conditions that matter: size, temperature, environment, and the way the thing is built.
 
+---
 
 ### “What’s the physics?” usually means assembling eight interlocking pieces:
 
