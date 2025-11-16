@@ -473,10 +473,15 @@ Example “stimulus --> response” table structure
 Markdown script for the rendered tables above are available: [click here](https://github.com/OJB-Quantum/Math-and-Physics-How-To/blob/main/Critical%20Equations%20Table.md)
 
 DOE - Design of Experiments. 
+
 GUM - Guide to the Expression of Uncertainty in Measurement. 
+
 LRT - Linear Response Theory. 
+
 CI - Confidence Interval (statistical coverage for an estimate). 
+
 PSD/SNR - Power Spectral Density/Signal-to-Noise Ratio (for noise-aware measurements).
+
 BC - Boundary Conditions (geometry, constraints that shape curves).
 
 References
