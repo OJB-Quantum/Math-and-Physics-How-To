@@ -322,29 +322,23 @@ When someone asks for “the physics,” they are asking, in plain terms, “If 
 
 
 “What’s the physics?” usually means assembling eight interlocking pieces:
-Phenomenology (measurable behavior).
- Empirical relations and response surfaces $y=f(x; θ)y = f(x;\,\theta)y=f(x;θ)$ that map stimuli to responses, with uncertainty bands. This includes constitutive relations (e.g., stress–strain), transfer functions in the frequency domain, and susceptibilities $χ(ω)\chi(\omega)χ(ω)$.
 
-Mechanism (micro to macro).
- The microscopic or mesoscopic model-Hamiltonians, free energies, rate equations, transport equations-from which the phenomenology can be derived or approximated. Examples: Kubo linear-response for $χ(ω)\chi(\omega)χ(ω)$, Landau theory near phase transitions, Boltzmann transport for conductivity.
-
-Constraints (principles).
- Conservation of energy, momentum, charge; causality; passivity; stability; reciprocity or non-reciprocity; and symmetry requirements (Noether-style thinking). These prune which curves are even allowed.
-
-Scales and nondimensional groups.
- Which length, time, and energy scales dominate; which Reynolds, Peclet, Deborah, or quality-factor $QQQ$ numbers control the regime; what asymptotics apply (low-frequency, high-field, long-time, dilute-limit).
-
-Geometry and boundary conditions.
- Shape, topology, interfaces, terminations, fixtures, packaging. Many “curve shapes” are really boundary-condition effects.
-
-Noise and fluctuations (and information).
- Variances, spectral densities $S(ω)S(\omega)S(ω)$, fluctuation–dissipation links, and the signal chain that makes responses observable with finite signal-to-noise ratio.
-
-Terminology and parameters.
- The controlled vocabulary and symbols, the units and dimensional analysis, and the calibrated parameters with error bars. This is absolutely part of “the physics,” because unambiguous language and parameterization make the model testable and transferable.
-
-Validation and extrapolation.
- Design-of-experiments, cross-validation across stimuli and geometries, and the limits where the model fails or needs higher-order terms.
+- Phenomenology (measurable behavior).
+  - Empirical relations and response surfaces $y=f(x; θ)y = f(x;\,\theta)y=f(x;θ)$ that map stimuli to responses, with uncertainty bands. This includes constitutive relations (e.g., stress–strain), transfer functions in the frequency domain, and susceptibilities $χ(ω)\chi(\omega)χ(ω)$.
+- Mechanism (micro to macro).
+  - The microscopic or mesoscopic model-Hamiltonians, free energies, rate equations, transport equations-from which the phenomenology can be derived or approximated. Examples: Kubo linear-response for $χ(ω)\chi(\omega)χ(ω)$, Landau theory near phase transitions, Boltzmann transport for conductivity.
+- Constraints (principles).
+  - Conservation of energy, momentum, charge; causality; passivity; stability; reciprocity or non-reciprocity; and symmetry requirements (Noether-style thinking). These prune which curves are even allowed.
+- Scales and nondimensional groups.
+  - Which length, time, and energy scales dominate; which Reynolds, Peclet, Deborah, or quality-factor $QQQ$ numbers control the regime; what asymptotics apply (low-frequency, high-field, long-time, dilute-limit).
+- Geometry and boundary conditions.
+  - Shape, topology, interfaces, terminations, fixtures, packaging. Many “curve shapes” are really boundary-condition effects.
+- Noise and fluctuations (and information).
+  - Variances, spectral densities $S(ω)S(\omega)S(ω)$, fluctuation–dissipation links, and the signal chain that makes responses observable with finite signal-to-noise ratio.
+- Terminology and parameters.
+  - The controlled vocabulary and symbols, the units and dimensional analysis, and the calibrated parameters with error bars. This is absolutely part of “the physics,” because unambiguous language and parameterization make the model testable and transferable.
+- Validation and extrapolation.
+  - Design-of-experiments, cross-validation across stimuli and geometries, and the limits where the model fails or needs higher-order terms.
 
 
 ```
