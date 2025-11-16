@@ -430,8 +430,11 @@ Stimulus–Response Atlas --> “Physics Thesis”
 
 ### Practically and systematically, the data-driven physics thesis has four pillars:
 **I.** Originality. Frame a crisp research question and add something the field did not have: a mechanism, a model, a scaling law, a method, or a high-quality, FAIR-ready dataset and codebase. (Universities state “original contribution” as a core requirement.)
+
 **II.** Rigor in measurement and uncertainty. Report how well you know slopes, thresholds, time-constants, and susceptibilities, using accepted standards such as ISO GUM and NIST TN 1297 to propagate and present uncertainties.
+
 **III.** Design of experiments (DOE). Use DOE to cover factor space efficiently and defensibly, then model main effects and interactions so your conclusions generalize.
+
 **IV.** Stewardship and reuse. Make your data Findable, Accessible, Interoperable, and Reusable (FAIR), and include a Data Availability Statement aligned with current journal policies (APS and others).
 
 ---
