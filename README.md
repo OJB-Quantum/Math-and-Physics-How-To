@@ -5,7 +5,14 @@ A repository of publicly-accessible resources for learning & self-teaching mathe
 
 "Being good or great at mathematics is a matter of practice. Isolating a term in a complex mathematical formula is like untangling a knot, it requires persistence & loosening of things". - O.J.B.
 
+---
+
+Physics ← Greek phýsis (“nature”) --> “study of what nature does.”
+Parameter ← Greek para (“beside”) + metron (“measure”) --> “a measurable beside the main variables.”
+Stimulus ← Latin stimulus (“goad, spur”). Response ← Latin respondēre (“answer”).
+
 --- 
+
 ### Free Mathematics Textbooks Resources: 
 - [Mathematics Its Contents Methods And Meaning Vol 1, 2, & 3](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3/Mathematics-%20its%20contents%20methods%20and%20meaning%20Vol%201/page/n221/mode/2up)
 - [Mathematical Handbook - Higher Mathematics](https://archive.org/details/vygodsky-mathematical-handbook-higher-mathematics-mir/mode/2up)
@@ -94,7 +101,7 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 
 ||
 | - |
-| Electron spins, including all spin 1/2 particles, are physical realizations, out of many, of the abstract, mathematical spinor representations in nature. Interestingly, this is one example where an abstract mathematical object has experimentally measurable effects or direct experimental consequences. Spins in the technical sense generally refer to the description of an intrinsic angular momentum, meaning that it is purely quantum mechanical. In mathematics and physics, a spinor* is a type of object used to describe particles with half-integer spin (spin -1/2, spin +1/2, etc.). These objects transform in a particular way under rotations (technically under the group SU(2), which is the double cover of the rotation group SO(3)). Here, a 2π rotation changes the phase of a spinor by −1, meaning it does not return to its original state but instead acquires a sign flip. <br> <br> In quantum theory, classifying all possible particle types comes down to looking at irreducible representations of the Poincaré group (in special relativity) or the Galilean group (in non relativistic mechanics). Spin 1/2 emerges naturally when you look at certain irreducible representations—namely, those described by spinors. Any spin- fermion—such as quarks, protons (composite, but effectively spin 1/2 in total), and neutrinos—can also be described by spinors or "spinor formalism". Additional note: the spin of protons arises from a complex interplay of quark spins, gluon angular momentum, and orbital motion. Its total spin behaves like a fundamental fermion, but its substructure is different from an elementary particle. |
+| Electron spins, including all spin 1/2 particles, are physical realizations, out of many, of the abstract, mathematical spinor representations in nature. Interestingly, this is one example where an abstract mathematical object has experimentally measurable effects or direct experimental consequences. Spins in the technical sense generally refer to the description of an intrinsic angular momentum, meaning that it is purely quantum mechanical. In mathematics and physics, a spinor* is a type of object used to describe particles with half-integer spin (spin -1/2, spin +1/2, etc.). These objects transform in a particular way under rotations (technically under the group SU(2), which is the double cover of the rotation group SO(3)). Here, a 2π rotation changes the phase of a spinor by −1, meaning it does not return to its original state but instead acquires a sign flip. <br> <br> In quantum theory, classifying all possible particle types comes down to looking at irreducible representations of the Poincaré group (in special relativity) or the Galilean group (in non relativistic mechanics). Spin 1/2 emerges naturally when you look at certain irreducible representations-namely, those described by spinors. Any spin- fermion-such as quarks, protons (composite, but effectively spin 1/2 in total), and neutrinos-can also be described by spinors or "spinor formalism". Additional note: the spin of protons arises from a complex interplay of quark spins, gluon angular momentum, and orbital motion. Its total spin behaves like a fundamental fermion, but its substructure is different from an elementary particle. |
 | *Spinors are two-component objects, they do return to the same quantum state after a 4π rotation but not after 2π.|
 | **Key terms**: irreducible representations, experimental consequences | 
 
@@ -127,7 +134,7 @@ Inspired by: Ezratty, Understanding Quantum Technologies, 2111.15352 (2024)
 
 ### Definition of Arbitrary & Arbitrary Units: 
 
-| **Term**              | **Definition** |
+| **Term**             | **Definition** |
 |----------------------|---------------|
 | **Arbitrary**       | Refers to chosen values or units that maintain internal consistency without relying on an external, standardized reference. Example: arbitrary units used in graphs and charts. |
 | **Arbitrary Units (a.u.)** | Used in graphs and charts, they represent a consistent measure but do not correspond to a standardized physical unit. They are meaningful within the given context but are not directly comparable to a universal scale. |
@@ -149,15 +156,15 @@ Inspired by: Gisin, Indeterminism in Physics and Intuitionistic Mathematics, Syn
 
 ### A Variety of Problem-Solving Approaches & Where They Tend to Fall Along the Two Dimensions:
 
-1. **Approximate → Exact** (top to bottom)  
-2. **Intuitionistic → Analytical** (left to right)
+1. **Approximate --> Exact** (top to bottom)  
+2. **Intuitionistic --> Analytical** (left to right)
 
 |                                     | **More Intuitionistic**                                               | **Mixed/Hybrid**                                                                                                  | **More Analytical**                                                                                                        |
 |:-----------------------------------:|:---------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
 | **Highly Approximate**<br>(Top)     | **Pure Intuition** <br>- Gut feeling<br>- Instinctive reactions       | **Trial-and-Error/ Rough Guess** <br>- Ad-hoc tinkering<br>- Quick “guess-and-check” attempts                    | **Back-of-the-Envelope Computations** <br>- Rapid mental math or simplified analysis<br>- “Quick and dirty” calculations  |
 | **Moderately Approximate**          | **Educated Guesses/ Analogy** <br>- Intuition guided by analogies<br>- Domain-specific “rules of thumb”    | **Heuristics** <br>- General problem-solving rules of thumb <br>**Metaheuristics** <br>- Genetic algorithms, evolutionary methods, etc. | **Simplified Modeling / Monte Carlo** <br>- Partial modeling or assumptions<br>- Stochastic approximations and simulations |
 | **Moderately Exact**                | **Intuitive Domain Expertise** <br>- Structured “gut sense” from years of practice                          | **Systematic Heuristics** <br>- Deliberately applied heuristic sets <br>**Hybrid Methods** <br>- Combining data + experience for iteration | **Algorithmic / Structured** <br>- Well-defined step-by-step procedures <br>- Many optimization or search algorithms      |
-| **Highly Exact**<br>(Bottom)        | *(Rare purely “intuitive” exactness—often specialized or self-correcting)*                                 | **Formalized Hybrid Methods** <br>- Constraint programming with heuristic guidance <br>- High-level frameworks that incorporate both data and domain insight | **Formal/ Deductive** <br>- Mathematical proofs <br>- Exhaustive search <br>- Rigorous deductive logic/ derivations    |
+| **Highly Exact**<br>(Bottom)        | *(Rare purely “intuitive” exactness-often specialized or self-correcting)*                                 | **Formalized Hybrid Methods** <br>- Constraint programming with heuristic guidance <br>- High-level frameworks that incorporate both data and domain insight | **Formal/ Deductive** <br>- Mathematical proofs <br>- Exhaustive search <br>- Rigorous deductive logic/ derivations    |
 
 --- 
 
@@ -174,7 +181,7 @@ Set Theory Symbols
 ∅ ∖ ∁ ↦ ↣ ∩ ∪ ⊆ ⊂ ⊄ ⊊ ⊇ ⊃ ⊅ ⊋ ⊖ ∈ ∉ ∋ ∌ ℕ ℤ ℚ ℝ ℂ ℵ ℶ ℷ ℸ 𝓟
 
 Logic Symbols
-¬ ∨ ∧ ⊕ → ← ⇒ ⇐ ↔ ⇔ ∀ ∃ ∄ ∴ ∵ ⊤ ⊥ ⊢ ⊨ ⫤ ⊣
+¬ ∨ ∧ ⊕ --> ← ⇒ ⇐ ↔ ⇔ ∀ ∃ ∄ ∴ ∵ ⊤ ⊥ ⊢ ⊨ ⫤ ⊣
 
 Calculus & Analysis Symbols
 ∫ ∬ ∭ ∮ ∯ ∰ ∇ ∆ δ ∂ ℱ ℒ ℓ
@@ -281,7 +288,7 @@ Greek Letters
 | STEM Full Course Playlists | [Academic Lesson](https://www.youtube.com/@AcademicLesson/playlists) |
 
 |  |
-|-------------|
+|-|
 | [Numberphile, Interview-Style Playlists](https://www.youtube.com/@numberphile/playlists) |
 | [Sixty Symbols, Interview-Style Playlists](https://www.youtube.com/@sixtysymbols/playlists) |
 | [UoN Physics, Interview-Style Playlists](https://www.youtube.com/@uonphysics4019/playlists) |
@@ -296,6 +303,167 @@ Greek Letters
 
 --- 
 
+
+## To "Do Physics" 
+
+When people say “what’s the physics?” they are very often asking, first, for stimulus-response behavior and the shapes of the resulting curves. However, to be more complete, “the physics” also includes the precise words and symbols we use, the governing laws and constraints, the parameters and units, the valid regimes and approximations, the noise and uncertainty, and the geometry and boundary conditions that make those curves look the way they do. 
+
+In most scientific and engineering conversations, “what’s the physics?” quickly centers on how outputs change with inputs and what the curves look like. However, the full answer also, and necessarily, includes the terminology, parameters, laws and constraints, scales and geometry, and the noise and uncertainty that make those curves meaningful, portable, and predictive. 
+
+When someone asks for “the physics,” they are asking, in plain terms, “If I poke this thing in different ways, how does it react, and why?” You describe:
+- The inputs you can change, like pushing, heating, applying voltage, shining light, changing shape.
+- The outputs that change, like stretch, temperature, current, brightness, frequency.
+- The graph shapes: straight lines (linear), bowed curves (non-linear), loops (hysteresis), steps (thresholds), peaks (resonances).
+- The names and numbers that summarize those graphs: slope, spring constant, resistance, conductivity, susceptibility, time constant, quality factor.
+- The simple rules that tie inputs to outputs: Hooke’s law, Ohm’s law, Beer–Lambert law, the ideal-gas law, and so on.
+- The conditions that matter: size, temperature, environment, and the way the thing is built.
+
+“What’s the physics?” usually means assembling eight interlocking pieces:
+Phenomenology (measurable behavior).
+ Empirical relations and response surfaces y=f(x; θ)y = f(x;\,\theta)y=f(x;θ) that map stimuli to responses, with uncertainty bands. This includes constitutive relations (e.g., stress–strain), transfer functions in the frequency domain, and susceptibilities χ(ω)\chi(\omega)χ(ω).
+
+Mechanism (micro to macro).
+ The microscopic or mesoscopic model-Hamiltonians, free energies, rate equations, transport equations-from which the phenomenology can be derived or approximated. Examples: Kubo linear-response for χ(ω)\chi(\omega)χ(ω), Landau theory near phase transitions, Boltzmann transport for conductivity.
+
+Constraints (principles).
+ Conservation of energy, momentum, charge; causality; passivity; stability; reciprocity or non-reciprocity; and symmetry requirements (Noether-style thinking). These prune which curves are even allowed.
+
+Scales and nondimensional groups.
+ Which length, time, and energy scales dominate; which Reynolds, Peclet, Deborah, or quality-factor QQQ numbers control the regime; what asymptotics apply (low-frequency, high-field, long-time, dilute-limit).
+
+Geometry and boundary conditions.
+ Shape, topology, interfaces, terminations, fixtures, packaging. Many “curve shapes” are really boundary-condition effects.
+
+Noise and fluctuations (and information).
+ Variances, spectral densities S(ω)S(\omega)S(ω), fluctuation–dissipation links, and the signal chain that makes responses observable with finite signal-to-noise ratio.
+
+Terminology and parameters.
+ The controlled vocabulary and symbols, the units and dimensional analysis, and the calibrated parameters with error bars. This is absolutely part of “the physics,” because unambiguous language and parameterization make the model testable and transferable.
+
+Validation and extrapolation.
+ Design-of-experiments, cross-validation across stimuli and geometries, and the limits where the model fails or needs higher-order terms.
+
+
+```
+“What’s the physics?”
+├─ Phenomenology --> response curves, transfer functions, susceptibilities
+│   └─ Parameters --> slopes/gains, thresholds, time constants, Q, χ(ω)
+├─ Mechanism --> Hamiltonian/ free-energy/ transport picture
+│   └─ Derivations --> linear response, perturbation, asymptotics
+├─ Constraints --> conservation, causality, stability, symmetry
+├─ Scales --> dominant lengths/times/energies; dimensionless groups
+├─ Geometry/BCs --> shape, interfaces, packaging, loading
+├─ Noise/Uncertainty --> PSDs, SNR, confidence intervals
+├─ Terminology --> standardized variables, units, regimes
+└─ Validation --> DOEs, cross-checks, regime maps, failure modes
+```
+
+When does a stimulus-response study count as physics?
+
+| Activity               | Counts as physics when…                                                                          | Why it qualifies                                                                                              | Typical deliverables                                                                | Where it sits                         |
+| :--------------------- | :----------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------- | :------------------------------------ |
+| Curves-only catalog    | …the curves are tied to explicit hypotheses and are reproducible with an uncertainty model.      | Falsifiable claims, replicable procedures, quantified uncertainty. | Raw data, calibration notes, uncertainty budget, curve fits with confidence intervals.               | Experimental physics, metrology.      |
+| Parameter extraction   | …parameters map to physical quantities and predict new data without refitting.                   | From description to mechanism-anchored prediction.                                               | (Q), thresholds, rate constants, susceptibilities ( $\chi(\omega)$ ) with error bars. | Phenomenology, transport, materials.  |
+| Scaling/Universality   | …dimensionless groups collapse many geometries and conditions.                                   | Reveals law-like structure beyond one setup.                                                                  | Master curves, regime maps, similarity rules.                                       | Statistical/condensed-matter physics. |
+| Mechanistic modeling   | …a Hamiltonian, free energy, or transport model reproduces the response and passes cross-checks. | Connects micro to macro, enables design.                                                         | Linear/nonlinear response, dispersion relations, predictions at new stimuli.        | Theory ↔ experiment bridge.           |
+| DOE-driven exploration | …factorial sweeps and blocking separate main effects from interactions.                          | Efficient, defensible inference.                                                              | Factor effects, interaction plots, power analysis.                                  | Experimental design & analysis.       |
+| Reporting & openness   | …procedures, data, and code permit reproduction.                                                 | Objectivity, community testing.                                    | Reproducible notebooks, data + metadata.                                            | Best practice across physics.         |
+
+
+So, if you provide all of the analyzed data for these responses for a system of interest or set of physical materials, then one could present it as a thesis? 
+
+To be a thesis, you do not merely show what happens when you poke the system. You also, and importantly, explain why those curves look that way, how to predict them, how certain you are, and what is new that the field did not have before. So, yes: a thorough response (atlas can be a thesis) if it either discovers something new, or builds a reusable, tested model, or creates a widely useful method and dataset that others can build on. 
+
+```
+Stimulus–Response Atlas --> “Physics Thesis”
+├─ Research Question & Novelty
+│   ├─ New mechanism?     ├─ New method?     └─ New scaling law?
+├─ Experimental Design (DOE)
+│   ├─ Factors/levels  ├─ Replication  ├─ Randomization  └─ Blocking
+├─ Measurement & Uncertainty
+│   ├─ Calibration tree  ├─ GUM model  └─ Sensitivity & Monte Carlo
+├─ Response Modeling
+│   ├─ Linear response (Kubo/susceptibility) --> KK causality check
+│   └─ Nonlinear extensions, saturation, hysteresis, bifurcations
+├─ Geometry & Boundary Conditions
+│   ├─ Shape/topology  └─ Interfaces, packaging, loading
+├─ Scaling & Regimes
+│   ├─ Dimensionless groups  ├─ Curve-collapse  └─ Regime map
+├─ Validation
+│   ├─ Hold-out predictions  └─ Cross-geometry/temperature tests
+└─ Reuse & Community
+    ├─ FAIR data+code  ├─ Data Availability Statement  └─ Reproducible notebooks
+```
+
+A practical scaffold for a data-driven physics thesis
+- Chapter 1 - Problem, contributions, claims. State the question, the gap, and exactly what is original. Anchor against the “original contribution” criterion. 
+- Chapter 2 - Methods, calibration, DOE. Define stimuli, responses, states, controlled variables, and geometry. Lay out DOE, replication, and randomization. Document calibration chains and uncertainty budgets.
+- Chapter 3 - Response surfaces and parameter extraction. Present full maps $y=f(x1,x2,… )y=f(x_1,x_2,\dots)y=f(x1​,x2​,…)$, residuals, confidence bands, and parameter-identifiability diagnostics.
+- Chapter 4 - Mechanism and constraints. Derive linear- and, where needed, non-linear response. Show that susceptibilities satisfy causality and Kramers–Kronig; explain dispersion/loss trade-offs. 
+- Chapter 5 - Scaling and universality. Build non-dimensional groups, attempt curve-collapse across geometries and temperatures, and articulate regime maps.
+- Chapter 6 - Validation and prediction. Predict unseen conditions and compare to new experiments; quantify predictive uncertainty.
+- Chapter 7 - Reuse package. Release data, code, and metadata with a clear Data Availability Statement and FAIR checklist; include a “parameter-extraction recipe.”
+
+
+Practically and systematically, the data-driven physics thesis has four pillars:
+- Originality. Frame a crisp research question and add something the field did not have: a mechanism, a model, a scaling law, a method, or a high-quality, FAIR-ready dataset and codebase. (Universities state “original contribution” as a core requirement.)
+- Rigor in measurement and uncertainty. Report how well you know slopes, thresholds, time-constants, and susceptibilities, using accepted standards such as ISO GUM and NIST TN 1297 to propagate and present uncertainties.
+- Design of experiments (DOE). Use DOE to cover factor space efficiently and defensibly, then model main effects and interactions so your conclusions generalize.
+- Stewardship and reuse. Make your data Findable, Accessible, Interoperable, and Reusable (FAIR), and include a Data Availability Statement aligned with current journal policies (APS and others).
+
+---
+
+Is this 'doing physics'? How does it fall under such a category?
+
+Mapping stimuli to responses, with explicit uncertainty, mechanisms, and predictions, is exactly “doing physics.” It lives in experimental physics and phenomenology, it is scaffolded by metrology and DOE, and it becomes deepest when your response curves are not just described, but explained, constrained, and successfully predicted across new conditions. 
+
+"Stimulus --> response" atlas falls squarely under experimental physics and phenomenology, supported by metrology and modeling:
+- Experimental physics \& phenomenology: you establish quantitative laws linking inputs to outputs, often via susceptibilities, transfer functions, or constitutive relations, and you compare these to theory. This "bridge from measurements to models" is called phenomenology in physics.
+- Metrology \& uncertainty: you treat every measured curve as an estimate with uncertainty, you define the measurand precisely, and you propagate uncertainty per recognized guides like the Guide to the Expression of Uncertainty in Measurement (GUM).
+- Design of experiments (DOE): you plan factor sweeps and replications so that your inferences are efficient and defensible, not accidental.
+- Mechanism \& response theory: you connect the curves to a mechanism, often via linear-response theory (Kubo-style), and you use that structure to predict new conditions.
+- Scientific method: your claims are framed so that an observation could falsify them, therefore they are scientific claims, not irrefutable descriptions.
+
+
+"Doing physics" is the conjunction of measuring, modeling, uncertainty-quantifying, and testing, with an eye toward prediction and explanation. Mapping stimuli to responses, with explicit uncertainty, mechanisms, and predictions, is exactly “doing physics.” It lives in experimental physics and phenomenology, it is scaffolded by metrology and DOE, and it becomes deepest when your response curves are not just described, but explained, constrained, and successfully predicted across new conditions. 
+
+```
+Stimulus --> Response Atlas
+├─ Phenomenology (measured laws)
+│   ├─ Constitutive relations, transfer functions
+│   └─ Parameter extraction with CIs
+├─ Metrology (how sure are we?)
+│   ├─ Measurand definition, calibration chain
+│   └─ GUM-style uncertainty propagation
+├─ Design of Experiments
+│   ├─ Factors, levels, replication, blocking
+│   └─ Interaction detection, efficiency
+├─ Mechanism (why those curves?)
+│   ├─ Linear-response (Kubo) & susceptibilities
+│   └─ Nonlinear extensions, thresholds, hysteresis
+├─ Prediction & Falsifiability
+│   ├─ Out-of-sample tests, regime maps
+│   └─ Clear potential falsifiers
+└─ Communication & Reuse
+    ├─ Reproducible code/data
+    └─ Terminology, units, controlled vocabulary
+```
+
+Example “stimulus --> response” table structure 
+
+| Stimuli (factors) | Responses (observables) | Derived parameters | Uncertainty budget entries | Notes on geometry/BCs |
+| - | - | - | - | - |
+| Amplitude, frequency, temperature, bias/field, geometry, environment | Gain, slope, time-constant, resonance peak ($\omega_0$), linewidth ($\Delta\omega$), hysteresis width, switching rate | ($Q=\omega_0/\Delta\omega$), ($\chi(\omega)$), threshold ($x_\mathrm{th}$), nonlinearity ($k_3$), diffusion ($D$) | Type A: repeatability, drift; Type B: calibration certificates, resolution, model truncation | Include fixtures, terminations, interfaces, packaging; state boundary conditions explicitly |
+
+- Original contribution is a universal doctoral criterion across leading universities; relying solely on descriptive compilation is typically not sufficient without a novel, validated insight or resource.
+- Measurement uncertainty should follow recognized metrology standards (GUM, NIST TN 1297), which increases credibility and transferability.
+- DOE ensures your map of conditions is efficient and defensible, and it improves the power of any conclusions you generalize. 
+- FAIR stewardship and Data Availability Statements are increasingly required or encouraged by major publishers and societies, including APS, making your thesis more citable and reusable.
+- Response-function formalism (e.g., Kubo, susceptibilities) and causality constraints (Kramers–Kronig) turn curves into physics by enforcing what shapes are physically allowed.
+
+
+---
+
 ### Table of Critical Equations to Know:
 
 ![mathpix 2025-01-31 05-40-02_](https://github.com/user-attachments/assets/5a53bef2-e6bc-48a2-86d7-747c1724298c)
@@ -303,3 +471,18 @@ Greek Letters
 ![mathpix 2025-01-31 08-10-54](https://github.com/user-attachments/assets/51407e67-ac04-47b7-a4a5-08f4336c8dd2)
 
 Markdown script for the rendered tables above are available: [click here](https://github.com/OJB-Quantum/Math-and-Physics-How-To/blob/main/Critical%20Equations%20Table.md)
+
+DOE - Design of Experiments. 
+GUM - Guide to the Expression of Uncertainty in Measurement. 
+LRT - Linear Response Theory. 
+CI - Confidence Interval (statistical coverage for an estimate). 
+PSD/SNR - Power Spectral Density/Signal-to-Noise Ratio (for noise-aware measurements).
+BC - Boundary Conditions (geometry, constraints that shape curves).
+
+References
+
+1.  Hepburn, B. and Andersen, H. (2015). *Scientific Method - Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/scientific-method>
+2.  Jacob, S.L. and Goold, J. (2025). *The response of a quantum system to a collision: an autonomous derivation of Kubo's formula*. [Preprint]. <https://arxiv.org/pdf/2505.03686>
+3.  Watson, A.B., Margetis, D. and Luskin, M. (2023). *Mathematical aspects of the Kubo formula for electrical conductivity with dissipation*. [Preprint]. <https://arxiv.org/pdf/2304.04303>
+4.  NIST/SEMATECH (2022). *4.3.1. What is design of experiments (DOE)?*. NIST/SEMATECH e-Handbook of Statistical Methods. <https://www.itl.nist.gov/div898/handbook/pmd/section3/pmd31.htm>
+5.  Reiss, J. and Sprenger, J. (2020). *Scientific Objectivity - Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/scientific-objectivity/>
