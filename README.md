@@ -435,7 +435,7 @@ Stimulus–Response Atlas --> “Physics Thesis”
 
   **III.** Design of experiments (DOE). Use DOE to cover factor space efficiently and defensibly, then model main effects and interactions so your conclusions generalize.
 
-  **IV.** Stewardship and reuse. Make your data Findable, Accessible, Interoperable, and Reusable (FAIR), and include a Data Availability Statement aligned with current journal policies (APS and others).
+**[IV.]** Stewardship and reuse. Make your data Findable, Accessible, Interoperable, and Reusable (FAIR), and include a Data Availability Statement aligned with current journal policies (APS and others).
 
 ---
 
