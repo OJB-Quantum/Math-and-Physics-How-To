@@ -61,7 +61,7 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 ### Pro Tips for Solving Mathematical Problems by (O.J.B.):
 
 | **Tip** | **Explanation/ Details** |
-| :--- | :--- |
+|-|-|
 | Substitute given variables with custom <br> or other existing variables (e.g., AbcdEfG) | Solve the equation using your own variables, then mirror the steps onto the original problem for proportional reasoning. A technique to solving a formula is to find a term that exists in a different equation, followed by solving for that desired term (isolating it to one side). |
 | Interpret the equal sign as <br> "converts to" | Thinking of "=" as "converts to" can facilitate substitutions & <br> manipulations in other mathematical expressions. |
 | Think in terms of ratios by <br> default | Viewing values as ratios can simplify problem-solving &  conceptual understanding. |
@@ -81,7 +81,7 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 ### Table of Useful General Assumptions for Abstract Terminology Used in Everyday Life:
 
 | **Term or Concept** | **Description or Note** |
-|---------------------|------------------------|
+|-|-|
 | **Another way of saying abstract** | “Indeterminate” or “boundless". |
 | **Light** | Generally refers to the electromagnetic field or electromagnetic radiation. When quantized, it usually refers to photons but can also mean quantized modes, coherent and squeezed states, polaritons, or plasmons and surface plasmon polaritons. |
 | **Optics** | A branch of physics concerned with the generation, propagation, manipulation, and detection of electromagnetic radiation (especially in and around the visible range), as well as its interactions with matter, including phenomena like reflection, refraction, diffraction, interference, and polarization. There are sub-disciplines or sub-classifications of optics such as electron, ion, and quantum optics. |
@@ -102,7 +102,7 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 ### Description of Spins & Spinors:
 
 ||
-| - |
+|-|
 | Electron spins, including all spin 1/2 particles, are physical realizations, out of many, of the abstract, mathematical spinor representations in nature. Interestingly, this is one example where an abstract mathematical object has experimentally measurable effects or direct experimental consequences. Spins in the technical sense generally refer to the description of an intrinsic angular momentum, meaning that it is purely quantum mechanical. In mathematics and physics, a spinor* is a type of object used to describe particles with half-integer spin (spin -1/2, spin +1/2, etc.). These objects transform in a particular way under rotations (technically under the group SU(2), which is the double cover of the rotation group SO(3)). Here, a 2π rotation changes the phase of a spinor by −1, meaning it does not return to its original state but instead acquires a sign flip. <br> <br> In quantum theory, classifying all possible particle types comes down to looking at irreducible representations of the Poincaré group (in special relativity) or the Galilean group (in non relativistic mechanics). Spin 1/2 emerges naturally when you look at certain irreducible representations-namely, those described by spinors. Any spin- fermion-such as quarks, protons (composite, but effectively spin 1/2 in total), and neutrinos-can also be described by spinors or "spinor formalism". Additional note: the spin of protons arises from a complex interplay of quark spins, gluon angular momentum, and orbital motion. Its total spin behaves like a fundamental fermion, but its substructure is different from an elementary particle. |
 | *Spinors are two-component objects, they do return to the same quantum state after a 4π rotation but not after 2π.|
 | **Key terms**: irreducible representations, experimental consequences | 
@@ -110,7 +110,7 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 ### How to Generate a Pure Electric Field:
 
 | **Method**               | **Mechanism** | **Key Considerations** | **Applications** |
-|--------------------------|--------------|------------------------|------------------|
+|-|-|-|-|
 | **Photoelectric Effect** | Light ejects electrons from a surface, creating charge imbalance | Requires photon energy > work function; works best in vacuum | Spacecraft charging, photoemission devices |
 | **Controlled Charge Separation** | Electrons are emitted and collected on a secondary surface via photoemission, field emission, or thermionic emission | Requires an electron collector; prevents neutralization | Photoemission-based capacitors, charge storage |
 | **Vacuum Conditions** | Electrons travel freely, leading to sustained electric fields | No surrounding medium to neutralize charge | Electron beam devices, vacuum tube applications |
@@ -122,7 +122,7 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 ### Cases of Quantized Light:   
 
 | **Category** | **Description** | **Examples** |
-|-------------|----------------|-------------|
+|-|-|-|
 | **Photons** (Fundamental Quanta) | Discrete energy packets of the electromagnetic field; primary quanta of light in quantum electrodynamics (QED) and quantum optics. | Spontaneous emission, stimulated emission, blackbody radiation, Compton scattering. |
 | **Quantized Modes of the Electromagnetic Field** | The electromagnetic field can be described in terms of quantized oscillatory modes, even in the absence of real photons. | Vacuum fluctuations, zero-point energy, cavity QED, waveguide modes. |
 | **Coherent & Squeezed States** | Special quantum states where light retains some classical properties but still exhibits quantum behavior. | Laser light (coherent states), squeezed vacuum states in quantum optics. |
@@ -136,8 +136,8 @@ Inspired by: Ezratty, Understanding Quantum Technologies, 2111.15352 (2024)
 
 ### Definition of Arbitrary & Arbitrary Units: 
 
-| **Term**             | **Definition** |
-|----------------------|---------------|
+| **Term**            | **Definition** |
+|-|-|
 | **Arbitrary**       | Refers to chosen values or units that maintain internal consistency without relying on an external, standardized reference. Example: arbitrary units used in graphs and charts. |
 | **Arbitrary Units (a.u.)** | Used in graphs and charts, they represent a consistent measure but do not correspond to a standardized physical unit. They are meaningful within the given context but are not directly comparable to a universal scale. |
 
@@ -146,7 +146,7 @@ Inspired by: Ezratty, Understanding Quantum Technologies, 2111.15352 (2024)
 ### Key Differences of How Analytical Solutions are Defined & Used (Deterministic vs. Indeterministic): 
 
 | **Deterministic Analytical Solutions** | **Indeterministic Analytical Solutions** |
-|----------------------------------------|--------------------------------------------------------------|
+|-|-|
 | **Definition**: A solution that, given the same initial conditions, **always produces the same result**. These solutions are fully **predictable** and **can be expressed in a closed mathematical form**. | **Definition**: A solution where the outcome is **probabilistic or dependent on unknown/uncontrollable factors**, even if the underlying equations are well-defined. |
 | **Characteristics**: <br> - No randomness or probability involved. <br> - Given a set of initial conditions and equations, the result is always the same. <br> - Typically derived using exact algebraic, calculus-based, or differential equation methods. | **Characteristics**: <br> - **Involves probabilities or randomness** in the results. <br> - Repeating the same conditions **does not always yield the same outcome**. <br> - Often appears in **quantum mechanics, chaotic systems, and stochastic processes**. |
 | **Examples**: <br> 1. **Newton’s Laws of Motion**: <br> - If you apply a known force to an object, its acceleration and trajectory can be determined exactly. <br> - Example: $( x(t) = x_0 + v_0t + \frac{1}{2}at^2 )$ (kinematics equation). <br> <br> 2. **Ohm’s Law in Circuits**: <br> - $( V = IR )$ gives the exact voltage given current $( I )$ and resistance $( R )$. <br> <br> 3. **Schrödinger's Equation for Simple Systems**: <br> - The time-independent Schrödinger equation for a hydrogen atom yields **exact energy eigenvalues** for electron states. | **Examples**: <br> 1. **Quantum Mechanics (Wavefunction Collapse)**: <br> - The Schrödinger equation **deterministically** evolves a wavefunction, but upon measurement, the outcome is probabilistic. <br> - Example: Measuring the spin of an electron in a superposition state gives a **random outcome** (e.g., 50% spin-up, 50% spin-down). <br> <br> 2. **Radioactive Decay**: <br> - The decay of a single nucleus follows a **probability distribution**, not a deterministic function. <br> - We can only predict **half-life**, but not when a specific atom will decay. <br> <br> 3. **Chaotic Systems (Butterfly Effect)**: <br> - Some classical systems, like **weather models**, follow deterministic equations but are **highly sensitive to initial conditions**, making long-term predictions effectively non-deterministic. <br> <br> 4. **Monte Carlo Simulations**: <br> - Used in optimization and physics, these rely on **random sampling** to approximate solutions to complex problems. |
@@ -161,8 +161,8 @@ Inspired by: Gisin, Indeterminism in Physics and Intuitionistic Mathematics, Syn
 1. **Approximate --> Exact** (top to bottom)  
 2. **Intuitionistic --> Analytical** (left to right)
 
-|                                     | **More Intuitionistic**                                               | **Mixed/Hybrid**                                                                                                  | **More Analytical**                                                                                                        |
-|:-----------------------------------:|:---------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
+|  | **More Intuitionistic**   | **Mixed/Hybrid**   | **More Analytical** |
+|-|-|-|-|
 | **Highly Approximate**<br>(Top)     | **Pure Intuition** <br>- Gut feeling<br>- Instinctive reactions       | **Trial-and-Error/ Rough Guess** <br>- Ad-hoc tinkering<br>- Quick “guess-and-check” attempts                    | **Back-of-the-Envelope Computations** <br>- Rapid mental math or simplified analysis<br>- “Quick and dirty” calculations  |
 | **Moderately Approximate**          | **Educated Guesses/ Analogy** <br>- Intuition guided by analogies<br>- Domain-specific “rules of thumb”    | **Heuristics** <br>- General problem-solving rules of thumb <br>**Metaheuristics** <br>- Genetic algorithms, evolutionary methods, etc. | **Simplified Modeling / Monte Carlo** <br>- Partial modeling or assumptions<br>- Stochastic approximations and simulations |
 | **Moderately Exact**                | **Intuitive Domain Expertise** <br>- Structured “gut sense” from years of practice                          | **Systematic Heuristics** <br>- Deliberately applied heuristic sets <br>**Hybrid Methods** <br>- Combining data + experience for iteration | **Algorithmic / Structured** <br>- Well-defined step-by-step procedures <br>- Many optimization or search algorithms      |
@@ -204,7 +204,7 @@ Greek Letters
 ## All The Physics You Need, Curated by (O.J.B.):
 
 | **Topic** | **Source** |
-|---|---|
+|-|-|
 | How to Succeed at Physics Without Really Trying | [Physics with Elliot](https://youtu.be/kC6U900CvwY) |
 | The Most Important Math Formula for Understanding Physics | [Physics with Elliot](https://youtu.be/HQsZG8Yxb7w) |
 | The Single Basic Concept Found in (Almost) All Fundamental Physics Equations | [Parth G](https://youtu.be/MbTW_-FN_cw?si=XFewQVQIvZFbGeCg) |
@@ -268,7 +268,7 @@ Greek Letters
 ## Additional Physics & Mathematics Resources:
 
 | **Topic** | **Source** |
-|---|---|
+|-|-|
 | Introduction to Mathematical Reasoning Playlist | [Knop's Course](https://youtube.com/playlist?list=PLxYr6TaF_SDU9ovvxPGAxI0dXfPgwhfBl&si=aTWKeeDbTgRDBDsn) |
 | General Mathematical Playlists | [Faculty of Khan](https://www.youtube.com/@FacultyofKhan/playlists) |
 | Mathematical Physics Playlists | [Dietterich Labs](https://www.youtube.com/@DietterichLabs/playlists) |
@@ -321,7 +321,7 @@ When someone asks for “the physics,” they are asking, in plain terms, “If 
 - The conditions that matter: size, temperature, environment, and the way the thing is built.
 
 
-“What’s the physics?” usually means assembling eight interlocking pieces:
+### “What’s the physics?” usually means assembling eight interlocking pieces:
 
 - Phenomenology (measurable behavior).
   - Empirical relations and response surfaces $y=f(x;\theta)$ that map stimuli to responses, with uncertainty bands. This includes constitutive relations (e.g., stress–strain), transfer functions in the frequency domain, and susceptibilities $\chi(\omega)$.
@@ -357,10 +357,10 @@ When someone asks for “the physics,” they are asking, in plain terms, “If 
 
 ---
 
-When does a stimulus-response study count as physics?
+### When does a stimulus-response study count as physics?
 
 | Activity               | Counts as physics when…    | Why it qualifies   | Typical deliverables  | Where it sits      |
-| - | - | - | - | - |
+|-|-|-|-|-|
 | Curves-only catalog    | …the curves are tied to explicit hypotheses and are reproducible with an uncertainty model.      | Falsifiable claims, replicable procedures, quantified uncertainty. | Raw data, calibration notes, uncertainty budget, curve fits with confidence intervals.               | Experimental physics, metrology.      |
 | Parameter extraction   | …parameters map to physical quantities and predict new data without refitting.                   | From description to mechanism-anchored prediction.                                               | (Q), thresholds, rate constants, susceptibilities ( $\chi(\omega)$ ) with error bars. | Phenomenology, transport, materials.  |
 | Scaling/Universality   | …dimensionless groups collapse many geometries and conditions.                                   | Reveals law-like structure beyond one setup.                                                                  | Master curves, regime maps, similarity rules.                                       | Statistical/condensed-matter physics. |
@@ -370,7 +370,7 @@ When does a stimulus-response study count as physics?
 
 ---
 
-So, if you provide all of the analyzed data for these responses for a system of interest or set of physical materials, then one could present it as a thesis? 
+### So, if you provide all of the analyzed data for these responses for a system of interest or set of physical materials, then one could present it as a thesis? 
 
 To be a thesis, you do not merely show what happens when you poke the system. You also, and importantly, explain why those curves look that way, how to predict them, how certain you are, and what is new that the field did not have before. So, yes: a thorough response (atlas can be a thesis) if it either discovers something new, or builds a reusable, tested model, or creates a widely useful method and dataset that others can build on. 
 
@@ -413,7 +413,7 @@ Practically and systematically, the data-driven physics thesis has four pillars:
 
 ---
 
-Is this 'doing physics'? How does it fall under such a category?
+### Is this 'doing physics'? How does it fall under such a category?
 
 Mapping stimuli to responses, with explicit uncertainty, mechanisms, and predictions, is exactly “doing physics.” It lives in experimental physics and phenomenology, it is scaffolded by metrology and DOE, and it becomes deepest when your response curves are not just described, but explained, constrained, and successfully predicted across new conditions. 
 
@@ -449,7 +449,7 @@ Stimulus --> Response Atlas
     └─ Terminology, units, controlled vocabulary
 ```
 
-Example “stimulus --> response” table structure 
+### Example “stimulus --> response” table structure 
 
 | Stimuli (factors) | Responses (observables) | Derived parameters | Uncertainty budget entries | Notes on geometry/BCs |
 | - | - | - | - | - |
