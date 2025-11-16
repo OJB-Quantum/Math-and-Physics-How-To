@@ -7,11 +7,11 @@ A repository of publicly-accessible resources for learning & self-teaching mathe
 
 ---
 
-Physics ← Greek phýsis (“nature”) --> “study of what nature does.”
+Physics <-- Greek phýsis (“nature”) --> “study of what nature does.”
 
-Parameter ← Greek para (“beside”) + metron (“measure”) --> “a measurable beside the main variables.”
+Parameter <-- Greek para (“beside”) + metron (“measure”) --> “a measurable beside the main variables.”
 
-Stimulus ← Latin stimulus (“goad, spur”). Response ← Latin respondēre (“answer”).
+Stimulus <-- Latin stimulus (“goad, spur”). Response <-- Latin respondēre (“answer”).
 
 --- 
 
@@ -183,7 +183,7 @@ Set Theory Symbols
 ∅ ∖ ∁ ↦ ↣ ∩ ∪ ⊆ ⊂ ⊄ ⊊ ⊇ ⊃ ⊅ ⊋ ⊖ ∈ ∉ ∋ ∌ ℕ ℤ ℚ ℝ ℂ ℵ ℶ ℷ ℸ 𝓟
 
 Logic Symbols
-¬ ∨ ∧ ⊕ --> ← ⇒ ⇐ ↔ ⇔ ∀ ∃ ∄ ∴ ∵ ⊤ ⊥ ⊢ ⊨ ⫤ ⊣
+¬ ∨ ∧ ⊕ --> <-- ⇒ ⇐ ↔ ⇔ ∀ ∃ ∄ ∴ ∵ ⊤ ⊥ ⊢ ⊨ ⫤ ⊣
 
 Calculus & Analysis Symbols
 ∫ ∬ ∭ ∮ ∯ ∰ ∇ ∆ δ ∂ ℱ ℒ ℓ
