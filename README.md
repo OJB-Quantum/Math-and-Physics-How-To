@@ -411,7 +411,7 @@ Stimulus–Response Atlas --> “Physics Thesis”
     ├─ FAIR data+code  ├─ Data Availability Statement  └─ Reproducible notebooks
 ```
 
-A practical scaffold for a data-driven physics thesis
+### A practical scaffold for a data-driven physics thesis
 - Chapter 1 - Problem, contributions, claims. State the question, the gap, and exactly what is original. Anchor against the “original contribution” criterion. 
 - Chapter 2 - Methods, calibration, DOE. Define stimuli, responses, states, controlled variables, and geometry. Lay out DOE, replication, and randomization. Document calibration chains and uncertainty budgets.
 - Chapter 3 - Response surfaces and parameter extraction. Present full maps $y=f(x1,x2,…) y=f(x_1,x_2,\dots) y=f(x1​,x2​,…)$, residuals, confidence bands, and parameter-identifiability diagnostics.
@@ -420,12 +420,16 @@ A practical scaffold for a data-driven physics thesis
 - Chapter 6 - Validation and prediction. Predict unseen conditions and compare to new experiments; quantify predictive uncertainty.
 - Chapter 7 - Reuse package. Release data, code, and metadata with a clear Data Availability Statement and FAIR checklist; include a “parameter-extraction recipe.”
 
+---
 
-Practically and systematically, the data-driven physics thesis has four pillars:
-- Originality. Frame a crisp research question and add something the field did not have: a mechanism, a model, a scaling law, a method, or a high-quality, FAIR-ready dataset and codebase. (Universities state “original contribution” as a core requirement.)
-- Rigor in measurement and uncertainty. Report how well you know slopes, thresholds, time-constants, and susceptibilities, using accepted standards such as ISO GUM and NIST TN 1297 to propagate and present uncertainties.
-- Design of experiments (DOE). Use DOE to cover factor space efficiently and defensibly, then model main effects and interactions so your conclusions generalize.
-- Stewardship and reuse. Make your data Findable, Accessible, Interoperable, and Reusable (FAIR), and include a Data Availability Statement aligned with current journal policies (APS and others).
+### Practically and systematically, the data-driven physics thesis has four pillars:
+I. Originality. Frame a crisp research question and add something the field did not have: a mechanism, a model, a scaling law, a method, or a high-quality, FAIR-ready dataset and codebase. (Universities state “original contribution” as a core requirement.)
+
+II. Rigor in measurement and uncertainty. Report how well you know slopes, thresholds, time-constants, and susceptibilities, using accepted standards such as ISO GUM and NIST TN 1297 to propagate and present uncertainties.
+
+III. Design of experiments (DOE). Use DOE to cover factor space efficiently and defensibly, then model main effects and interactions so your conclusions generalize.
+
+IV. Stewardship and reuse. Make your data Findable, Accessible, Interoperable, and Reusable (FAIR), and include a Data Availability Statement aligned with current journal policies (APS and others).
 
 ---
 
