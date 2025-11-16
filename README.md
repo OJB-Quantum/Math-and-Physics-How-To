@@ -78,6 +78,8 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 | Explore graphical, tabulated, or <br> geometric representations | Visual or tabular methods can simplify complex mathematical concepts. |
 | Practice final exam reviews | Mastery in mathematics comes with regular & extensive practice, particularly of exam-style problems. |
 
+---
+
 ### Table of Useful General Assumptions for Abstract Terminology Used in Everyday Life:
 
 | **Term or Concept** | **Description or Note** |
@@ -98,6 +100,8 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 | **By default, it may be better to think of values in terms of ratios or slopes.** | A guiding principle in analyzing systems or problems: scaling relationships, slopes, and derivatives often reveal more insight than absolute numbers. |
 | **Possible alternative name for microwave photon detector** | Microwave photon radiation detector. |
 | **Everything is a transmission line, a capacitor (including self-capacitance), & inductor.** | A broad conceptual notion in electronics and physics, emphasizing that all structures can be modeled as having transmission line properties, inherent capacitance, and inherent inductance. |
+
+---
 
 ### Description of Spins & Spinors:
 
@@ -155,6 +159,8 @@ Inspired by: Ezratty, Understanding Quantum Technologies, 2111.15352 (2024)
 Inspired by: Gisin, Indeterminism in Physics and Intuitionistic Mathematics, Synthese 199, 13345–13371 (2021)  
 <https://doi.org/10.1007/s11229-021-03378-z>  
 <http://creativecommons.org/licenses/by/4.0/>  
+
+---
 
 ### A Variety of Problem-Solving Approaches & Where They Tend to Fall Along the Two Dimensions:
 
@@ -349,6 +355,7 @@ VII. Terminology and parameters.
 VIII. Validation and extrapolation.
   - Design-of-experiments, cross-validation across stimuli and geometries, and the limits where the model fails or needs higher-order terms.
 
+---
 
 ```
 “What’s the physics?”
@@ -433,8 +440,9 @@ Mapping stimuli to responses, with explicit uncertainty, mechanisms, and predict
 - Mechanism \& response theory: you connect the curves to a mechanism, often via linear-response theory (Kubo-style), and you use that structure to predict new conditions.
 - Scientific method: your claims are framed so that an observation could falsify them, therefore they are scientific claims, not irrefutable descriptions.
 
-
 "Doing physics" is the conjunction of measuring, modeling, uncertainty-quantifying, and testing, with an eye toward prediction and explanation. Mapping stimuli to responses, with explicit uncertainty, mechanisms, and predictions, is exactly “doing physics.” It lives in experimental physics and phenomenology, it is scaffolded by metrology and DOE, and it becomes deepest when your response curves are not just described, but explained, constrained, and successfully predicted across new conditions. 
+
+---
 
 ```
 Stimulus --> Response Atlas
@@ -469,7 +477,6 @@ Stimulus --> Response Atlas
 - DOE ensures your map of conditions is efficient and defensible, and it improves the power of any conclusions you generalize. 
 - FAIR stewardship and Data Availability Statements are increasingly required or encouraged by major publishers and societies, including APS, making your thesis more citable and reusable.
 - Response-function formalism (e.g., Kubo, susceptibilities) and causality constraints (Kramers–Kronig) turn curves into physics by enforcing what shapes are physically allowed.
-
 
 ---
 
