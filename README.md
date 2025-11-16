@@ -8,7 +8,9 @@ A repository of publicly-accessible resources for learning & self-teaching mathe
 ---
 
 Physics ← Greek phýsis (“nature”) --> “study of what nature does.”
+
 Parameter ← Greek para (“beside”) + metron (“measure”) --> “a measurable beside the main variables.”
+
 Stimulus ← Latin stimulus (“goad, spur”). Response ← Latin respondēre (“answer”).
 
 --- 
