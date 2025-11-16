@@ -320,24 +320,25 @@ When someone asks for “the physics,” they are asking, in plain terms, “If 
 - The simple rules that tie inputs to outputs: Hooke’s law, Ohm’s law, Beer–Lambert law, the ideal-gas law, and so on.
 - The conditions that matter: size, temperature, environment, and the way the thing is built.
 
+
 “What’s the physics?” usually means assembling eight interlocking pieces:
 Phenomenology (measurable behavior).
- Empirical relations and response surfaces y=f(x; θ)y = f(x;\,\theta)y=f(x;θ) that map stimuli to responses, with uncertainty bands. This includes constitutive relations (e.g., stress–strain), transfer functions in the frequency domain, and susceptibilities χ(ω)\chi(\omega)χ(ω).
+ Empirical relations and response surfaces $y=f(x; θ)y = f(x;\,\theta)y=f(x;θ)$ that map stimuli to responses, with uncertainty bands. This includes constitutive relations (e.g., stress–strain), transfer functions in the frequency domain, and susceptibilities $χ(ω)\chi(\omega)χ(ω)$.
 
 Mechanism (micro to macro).
- The microscopic or mesoscopic model-Hamiltonians, free energies, rate equations, transport equations-from which the phenomenology can be derived or approximated. Examples: Kubo linear-response for χ(ω)\chi(\omega)χ(ω), Landau theory near phase transitions, Boltzmann transport for conductivity.
+ The microscopic or mesoscopic model-Hamiltonians, free energies, rate equations, transport equations-from which the phenomenology can be derived or approximated. Examples: Kubo linear-response for $χ(ω)\chi(\omega)χ(ω)$, Landau theory near phase transitions, Boltzmann transport for conductivity.
 
 Constraints (principles).
  Conservation of energy, momentum, charge; causality; passivity; stability; reciprocity or non-reciprocity; and symmetry requirements (Noether-style thinking). These prune which curves are even allowed.
 
 Scales and nondimensional groups.
- Which length, time, and energy scales dominate; which Reynolds, Peclet, Deborah, or quality-factor QQQ numbers control the regime; what asymptotics apply (low-frequency, high-field, long-time, dilute-limit).
+ Which length, time, and energy scales dominate; which Reynolds, Peclet, Deborah, or quality-factor $QQQ$ numbers control the regime; what asymptotics apply (low-frequency, high-field, long-time, dilute-limit).
 
 Geometry and boundary conditions.
  Shape, topology, interfaces, terminations, fixtures, packaging. Many “curve shapes” are really boundary-condition effects.
 
 Noise and fluctuations (and information).
- Variances, spectral densities S(ω)S(\omega)S(ω), fluctuation–dissipation links, and the signal chain that makes responses observable with finite signal-to-noise ratio.
+ Variances, spectral densities $S(ω)S(\omega)S(ω)$, fluctuation–dissipation links, and the signal chain that makes responses observable with finite signal-to-noise ratio.
 
 Terminology and parameters.
  The controlled vocabulary and symbols, the units and dimensional analysis, and the calibrated parameters with error bars. This is absolutely part of “the physics,” because unambiguous language and parameterization make the model testable and transferable.
@@ -360,10 +361,12 @@ Validation and extrapolation.
 └─ Validation --> DOEs, cross-checks, regime maps, failure modes
 ```
 
+---
+
 When does a stimulus-response study count as physics?
 
-| Activity               | Counts as physics when…                                                                          | Why it qualifies                                                                                              | Typical deliverables                                                                | Where it sits                         |
-| :--------------------- | :----------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------- | :------------------------------------ |
+| Activity               | Counts as physics when…    | Why it qualifies   | Typical deliverables  | Where it sits      |
+| - | - | - | - | - |
 | Curves-only catalog    | …the curves are tied to explicit hypotheses and are reproducible with an uncertainty model.      | Falsifiable claims, replicable procedures, quantified uncertainty. | Raw data, calibration notes, uncertainty budget, curve fits with confidence intervals.               | Experimental physics, metrology.      |
 | Parameter extraction   | …parameters map to physical quantities and predict new data without refitting.                   | From description to mechanism-anchored prediction.                                               | (Q), thresholds, rate constants, susceptibilities ( $\chi(\omega)$ ) with error bars. | Phenomenology, transport, materials.  |
 | Scaling/Universality   | …dimensionless groups collapse many geometries and conditions.                                   | Reveals law-like structure beyond one setup.                                                                  | Master curves, regime maps, similarity rules.                                       | Statistical/condensed-matter physics. |
@@ -371,6 +374,7 @@ When does a stimulus-response study count as physics?
 | DOE-driven exploration | …factorial sweeps and blocking separate main effects from interactions.                          | Efficient, defensible inference.                                                              | Factor effects, interaction plots, power analysis.                                  | Experimental design & analysis.       |
 | Reporting & openness   | …procedures, data, and code permit reproduction.                                                 | Objectivity, community testing.                                    | Reproducible notebooks, data + metadata.                                            | Best practice across physics.         |
 
+---
 
 So, if you provide all of the analyzed data for these responses for a system of interest or set of physical materials, then one could present it as a thesis? 
 
