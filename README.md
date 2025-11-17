@@ -477,7 +477,7 @@ Stimulus --> Response Atlas
 
 | Stimuli (factors) | Responses (observables) | Derived parameters | Uncertainty budget entries | Notes on geometry/BCs |
 | - | - | - | - | - |
-| Amplitude, frequency, temperature, bias/field, geometry, environment | Gain, slope, time-constant, resonance peak ($\omega_0$), linewidth ($\Delta\omega$), hysteresis width, switching rate | ($Q=\omega_0/\Delta\omega$), ($\chi(\omega)$), threshold ($x_\mathrm{th}$), nonlinearity ($k_3$), diffusion ($D$) | Type A: repeatability, drift; Type B: calibration certificates, resolution, model truncation | Include fixtures, terminations, interfaces, packaging; state boundary conditions explicitly |
+| Amplitude, frequency, temperature, bias/field, geometry, environment | Gain, slope, time-constant, resonance peak ($\omega_0$), linewidth ($\Delta\omega$), hysteresis width, switching rate | ( $Q=\omega_0/\Delta\omega$ ), ( $\chi(\omega)$ ), threshold ( $x_\mathrm{th}$ ), nonlinearity ($k_3$), diffusion ($D$) | Type A: repeatability, drift; Type B: calibration certificates, resolution, model truncation | Include fixtures, terminations, interfaces, packaging; state boundary conditions explicitly |
 
 - Original contribution is a universal doctoral criterion across leading universities; relying solely on descriptive compilation is typically not sufficient without a novel, validated insight or resource.
 - Measurement uncertainty should follow recognized metrology standards (GUM, NIST TN 1297), which increases credibility and transferability.
