@@ -416,7 +416,7 @@ Stimulus–Response Atlas --> “Physics Thesis”
 
 - **Chapter 2** - Methods, calibration, DOE. Define stimuli, responses, states, controlled variables, and geometry. Lay out DOE, replication, and randomization. Document calibration chains and uncertainty budgets.
 
-- **Chapter 3** - Response surfaces and parameter extraction. Present full maps $y=f(x1,x2,…) y=f(x_1,x_2,\dots) y=f(x1​,x2​,…)$, residuals, confidence bands, and parameter-identifiability diagnostics.
+- **Chapter 3** - Response surfaces and parameter extraction. Present full maps $y=f(x_1,x_2,\dots)$, residuals, confidence bands, and parameter-identifiability diagnostics.
 
 - **Chapter 4** - Mechanism and constraints. Derive linear- and, where needed, non-linear response. Show that susceptibilities satisfy causality and Kramers–Kronig; explain dispersion/loss trade-offs. 
 
