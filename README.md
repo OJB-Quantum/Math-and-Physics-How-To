@@ -416,7 +416,7 @@ Stimulus–Response Atlas --> “Physics Thesis”
 
 - **Chapter 2** - Methods, calibration, DOE. Define stimuli, responses, states, controlled variables, and geometry. Lay out DOE, replication, and randomization. Document calibration chains and uncertainty budgets.
 
-- **Chapter 3** - Response surfaces and parameter extraction. Present full maps $y=f(x1,x2,…) y=f(x_1,x_2,\dots) y=f(x1​,x2​,…)$, residuals, confidence bands, and parameter-identifiability diagnostics.
+- **Chapter 3** - Response surfaces and parameter extraction. Present full maps $y=f(x_1,x_2,\dots)$, residuals, confidence bands, and parameter-identifiability diagnostics.
 
 - **Chapter 4** - Mechanism and constraints. Derive linear- and, where needed, non-linear response. Show that susceptibilities satisfy causality and Kramers–Kronig; explain dispersion/loss trade-offs. 
 
@@ -477,7 +477,7 @@ Stimulus --> Response Atlas
 
 | Stimuli (factors) | Responses (observables) | Derived parameters | Uncertainty budget entries | Notes on geometry/BCs |
 | - | - | - | - | - |
-| Amplitude, frequency, temperature, bias/field, geometry, environment | Gain, slope, time-constant, resonance peak ($\omega_0$), linewidth ($\Delta\omega$), hysteresis width, switching rate | ($Q=\omega_0/\Delta\omega$), ($\chi(\omega)$), threshold ($x_\mathrm{th}$), nonlinearity ($k_3$), diffusion ($D$) | Type A: repeatability, drift; Type B: calibration certificates, resolution, model truncation | Include fixtures, terminations, interfaces, packaging; state boundary conditions explicitly |
+| Amplitude, frequency, temperature, bias/field, geometry, environment | Gain, slope, time-constant, resonance peak ($\omega_0$), linewidth ($\Delta\omega$), hysteresis width, switching rate | ( $Q=\omega_0/\Delta\omega$ ), ( $\chi(\omega)$ ), threshold ( $x_\mathrm{th}$ ), nonlinearity ($k_3$), diffusion ($D$) | Type A: repeatability, drift; Type B: calibration certificates, resolution, model truncation | Include fixtures, terminations, interfaces, packaging; state boundary conditions explicitly |
 
 - Original contribution is a universal doctoral criterion across leading universities; relying solely on descriptive compilation is typically not sufficient without a novel, validated insight or resource.
 - Measurement uncertainty should follow recognized metrology standards (GUM, NIST TN 1297), which increases credibility and transferability.
