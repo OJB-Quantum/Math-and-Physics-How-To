@@ -183,7 +183,7 @@ Inspired by: Gisin, Indeterminism in Physics and Intuitionistic Mathematics, Syn
 |-|-|-|-|
 | Pure mathematical spaces                  | Hilbert, Banach, Sobolev, manifold  | Math only                  | Foundations, proofs, structures  |
 | Mathematical spaces used in physics       | Phase space, Fock space, Fourier    | Math → adopted by physics  | Quantum mechanics, optics        |
-| Physical spaces expressed mathematically  | Configuration space, QFT field     | Physics → formalized by math | Physical interpretation layers   |
+| Physical spaces expressed mathematically  | Configuration space, Quantum Fourier Transform field     | Physics → formalized by math | Physical interpretation layers   |
 
 | Space Type | Core Structure | Physical Role |
 |-|-|-|
