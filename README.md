@@ -373,7 +373,7 @@ Greek Letters
 ### Example Mathematical Expressions Along with Their Descriptions
 
 | Symbol | Name/ phrase | Meaning |
-|-|-|-|
+| :--- | :--- | :--- |
 | $(a_n)$ | sequence $a_n$ | An infinite list of real numbers: $a_1, a_2, a_3, \dots$ |
 | $a \in \mathbb{R}$ | $a$ is in $\mathbb{R}$ | $a$ is a real number |
 | $\mathbb{R}$ | real numbers | The set of all real numbers |
