@@ -421,6 +421,36 @@ Greek Letters
 
 ---
 
+### Hyperoperations & Tetrations
+
+```
+Hyper-operations
+├─ Level 1: Addition
+│   ├─ Visible: a + 0
+│   └─ Invisible "add 0": a
+├─ Level 2: Multiplication
+│   ├─ Visible: a · 1
+│   └─ Invisible "×1": a
+├─ Level 3: Exponentiation
+│   ├─ Visible: a^1
+│   └─ Invisible exponent: a
+└─ Level 4: Tetration
+    ├─ Visible: {}^1 a   (height 1)
+    ├─ Visible: {}^2 a   (a^a)
+    └─ Invisible tetration:
+        • strict identity choice: a  = {}^1 a
+        • custom default tower: Tet(a) := {}^2 a = a^a
+```
+
+| Level | Operation | Full form | Default parameter made invisible | Invisible form |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Addition | ( $a+b$ ) | Additive identity (0) | ( $a=a+0$ ) |
+| 2 | Multiplication | ( $a \cdot b$ ) | Multiplicative identity (1) | ( $a=a \cdot 1$ ) |
+| 3 | Exponentiation | ( $a^b$ ) | Exponent (1) | ( $a=a^1$ ) |
+| 4 | Tetration | $\left({ }^n a=a \uparrow \uparrow n\right)$ | Height (1) (identity) | $\left(a={ }^1 a\right)$ |
+
+---
+
 ### Below is an Example by (O.J.B.) on How to Substitute with Custom Variables:
 
 <img width="1352" alt="Substitution" src="https://github.com/user-attachments/assets/5ab589ed-02ce-478d-9d6f-20164998bcf0" />
