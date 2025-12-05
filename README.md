@@ -59,34 +59,32 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 
 ---
 
+### A Technique For Training a Large Language Model Strategically on Real Mathematics Resources by (O.J.B.)
 
-## UML diagrams
-
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 
 ```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
+graph TD
+    A[Start: Locate Literature Online] -- Search forums & textbooks --> B[Identify Accessible PDFs]
+    B --> C{Comprehensible?}
+    C -- No --> D(Discard)
+    C -- Yes --> E[Add to List or Tree]
+    E -- Repeat Process --> E
+    E --> F[Compile Best Literature Set]
+    
+    subgraph Optional
+    F -.-> G[Repeat for Dissertations]
+    end
+    
+    F --> H[Save all PDFs in One Folder]
+    G --> H
+    H -- Select Top 10 --> I[Train LLM on PDFs]
+    I --> J[LLM Identifies Math Patterns]
+    J --> K[Generate LaTeX/Markdown Scripts]
+    K --> L[Find Supporting Literature]
+    L --> M((End: Verify Open Access))
 ```
 
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
-
---- 
+---
 
 ### Pro Tips for Solving Mathematical Problems by (O.J.B.):
 
@@ -200,8 +198,8 @@ Inspired by: Gisin, Indeterminism in Physics and Intuitionistic Mathematics, Syn
 |  | **More Intuitionistic**   | **Mixed/Hybrid**   | **More Analytical** |
 |-|-|-|-|
 | **Highly Approximate**<br>(Top)     | **Pure Intuition** <br>- Gut feeling<br>- Instinctive reactions       | **Trial-and-Error/ Rough Guess** <br>- Ad-hoc tinkering<br>- Quick “guess-and-check” attempts                    | **Back-of-the-Envelope Computations** <br>- Rapid mental math or simplified analysis<br>- “Quick and dirty” calculations  |
-| **Moderately Approximate**          | **Educated Guesses/ Analogy** <br>- Intuition guided by analogies<br>- Domain-specific “rules of thumb”    | **Heuristics** <br>- General problem-solving rules of thumb <br>**Metaheuristics** <br>- Genetic algorithms, evolutionary methods, etc. | **Simplified Modeling / Monte Carlo** <br>- Partial modeling or assumptions<br>- Stochastic approximations and simulations |
-| **Moderately Exact**                | **Intuitive Domain Expertise** <br>- Structured “gut sense” from years of practice                          | **Systematic Heuristics** <br>- Deliberately applied heuristic sets <br>**Hybrid Methods** <br>- Combining data + experience for iteration | **Algorithmic / Structured** <br>- Well-defined step-by-step procedures <br>- Many optimization or search algorithms      |
+| **Moderately Approximate**          | **Educated Guesses/ Analogy** <br>- Intuition guided by analogies<br>- Domain-specific “rules of thumb”    | **Heuristics** <br>- General problem-solving rules of thumb <br>**Metaheuristics** <br>- Genetic algorithms, evolutionary methods, etc. | **Simplified Modeling/ Monte Carlo** <br>- Partial modeling or assumptions<br>- Stochastic approximations and simulations |
+| **Moderately Exact**                | **Intuitive Domain Expertise** <br>- Structured “gut sense” from years of practice                          | **Systematic Heuristics** <br>- Deliberately applied heuristic sets <br>**Hybrid Methods** <br>- Combining data + experience for iteration | **Algorithmic/ Structured** <br>- Well-defined step-by-step procedures <br>- Many optimization or search algorithms      |
 | **Highly Exact**<br>(Bottom)        | *(Rare purely “intuitive” exactness-often specialized or self-correcting)*                                 | **Formalized Hybrid Methods** <br>- Constraint programming with heuristic guidance <br>- High-level frameworks that incorporate both data and domain insight | **Formal/ Deductive** <br>- Mathematical proofs <br>- Exhaustive search <br>- Rigorous deductive logic/ derivations    |
 
 --- 
