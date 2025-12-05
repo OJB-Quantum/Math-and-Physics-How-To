@@ -788,6 +788,57 @@ Stimulus --> Response Atlas
 
 Markdown script for the rendered tables above are available: [click here](https://github.com/OJB-Quantum/Math-and-Physics-How-To/blob/main/Critical%20Equations%20Table.md)
 
+```
+Field & potential equations
+├─ Poisson (#1)
+│  ├─ Laplace (#32)  [special case with ρ = 0]
+│  ├─ Poisson–Boltzmann (#2)  [adds nonlinear screening by mobile ions]
+│  └─ Green’s functions (#30)  [invert Poisson/Helmholtz with sources]
+├─ Maxwell’s equations (#28)
+│  ├─ Continuity equation (#35)      [charge conservation]
+│  ├─ Wave equation (#34)            [EM waves in vacuum/ media]
+│  │  └─ Helmholtz equation (#33)    [time-harmonic reduction]
+│  ├─ Poynting theorem (#37)         [energy conservation]
+│  └─ Fourier transform (#29)        [k–ω domain solutions]
+└─ Geometric algebra (#31)
+   └─ Compactly rewrites Maxwell, Dirac, and wave equations
+
+Diffusion/ transport family
+├─ Fick’s 1st law (#5) → Fick’s 2nd law (#6)
+│  └─ Heat equation (#19)  [same PDE with thermal parameters]
+├─ Continuity equation (#35)
+│  └─ Drift–diffusion currents (#36)
+│     └─ Mean free path (#11)  [microscopic origin of transport coefficients]
+└─ Poisson/ Poisson–Boltzmann (#1, #2)
+   └─ Coupled to drift–diffusion in semiconductor device models
+
+Oscillators/ resonances
+├─ Classical oscillators
+│  ├─ Harmonic oscillator (#15)         [linear]
+│  ├─ Anharmonic oscillator (#16)       [nonlinear corrections]
+│  ├─ Resonant frequency (#8)           [ω₀ from parameters]
+│  ├─ Quality factor Q (#12)            [spectral sharpness]
+│  └─ Scattering & transfer matrices (#13, #14)
+├─ Quantum oscillators
+│  ├─ QHO (#17) and anharmonic (#18)
+│  ├─ Time‑dependent Schrödinger (#20)
+│  ├─ Dirac equation (#21)
+│  └─ Green’s functions (#30) in quantum propagation
+└─ Precision & noise
+   ├─ Shot noise (#22)
+   ├─ SQL (#24)
+   ├─ Heisenberg limit (#23)
+   └─ Poynting/ Maxwell (#37, #28) in quantum metrology interferometers
+
+Magnetization dynamics and spintronics
+├─ Effective field H_eff (#27)
+│  └─ LLG equation (#25)
+│      └─ LLGS with STT (#26)
+└─ Coupled to:
+   ├─ Poisson/ Maxwell (#1, #28)      [fields, currents]
+   └─ Drift–diffusion (#36)            [spin‑polarized currents]
+```
+
 ---
 
 Acronyms: 
