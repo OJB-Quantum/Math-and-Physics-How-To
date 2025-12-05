@@ -380,7 +380,7 @@ Greek Letters
 | $\mathbb{N}$ | natural numbers | $\{1, 2, 3, 4, \dots\}$ (positive integers) |
 | $n$ | index | A natural-number index $1, 2, 3, \dots$ |
 | $\lim_{n\to\infty} a_n$ | limit of $a_n$ as $n\to\infty$ | The value $a_n$ approaches as $n$ gets arbitrarily large |
-| $(a_n) \to a$ | “$a_n$ tends to $a$” | Another notation for $\lim_{n\to\infty} a_n = a$ |
+| $(a_n) \to a$ | “ $a_n$ tends to $a$ ” | Another notation for $\lim_{n\to\infty} a_n = a$ |
 | $\forall$ | “for all” / “for every” | Universal quantifier |
 | $\exists$ | “there exists” | Existential quantifier |
 | $\epsilon$ | epsilon | A positive real number that represents an error tolerance |
