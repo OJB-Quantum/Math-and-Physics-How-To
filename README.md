@@ -370,6 +370,29 @@ Greek Letters
 
 --- 
 
+### Example Mathematical Expressions Along with Their Descriptions
+
+| Symbol | Name/ phrase | Meaning |
+|-|-|-|
+| $(a_n)$ | sequence $a_n$ | An infinite list of real numbers: $a_1, a_2, a_3, \dots$ |
+| $a \in \mathbb{R}$ | $a$ is in $\mathbb{R}$ | $a$ is a real number |
+| $\mathbb{R}$ | real numbers | The set of all real numbers |
+| $\mathbb{N}$ | natural numbers | $\{1, 2, 3, 4, \dots\}$ (positive integers) |
+| $n$ | index | A natural-number index $1, 2, 3, \dots$ |
+| $\lim_{n\to\infty} a_n$ | limit of $a_n$ as $n\to\infty$ | The value $a_n$ approaches as $n$ gets arbitrarily large |
+| $(a_n) \to a$ | “$a_n$ tends to $a$” | Another notation for $\lim_{n\to\infty} a_n = a$ |
+| $\forall$ | “for all” / “for every” | Universal quantifier |
+| $\exists$ | “there exists” | Existential quantifier |
+| $\epsilon$ | epsilon | A positive real number that represents an error tolerance |
+| $\epsilon > 0$ | epsilon is positive | We only consider strictly positive tolerances |
+| $N$ | capital $N$ | A natural number beyond which something nice happens in the sequence |
+| $n \ge N$ | $n$ greater than or equal to $N$ | “$n$ is at least $N$” |
+| $\implies$ | implies | Logical implication: if left side holds, then right side must hold |
+| $\lvert x \lvert$ | absolute value of $x$ | Distance from $x$ to $0$ on the real line; $\lvert x \lvert \ge 0$ |
+| $\lvert a_n - a\lvert < \epsilon$ | distance condition | The term $a_n$ is within $\epsilon$ units of the limit $a$ |
+
+---
+
 ### Below is an Example by (O.J.B.) on How to Substitute with Custom Variables:
 
 <img width="1352" alt="Substitution" src="https://github.com/user-attachments/assets/5ab589ed-02ce-478d-9d6f-20164998bcf0" />
