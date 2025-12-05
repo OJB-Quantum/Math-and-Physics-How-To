@@ -49,14 +49,42 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 
 --- 
 
-### Strategic Approach to Solving Mathematical, Physical, & Engineering Problems on Paper by (O.J.B.):  
+### Strategic Approach to Solving Mathematical, Physical, & Engineering Problems Manually by (O.J.B.):  
 
 ![newplot](https://github.com/user-attachments/assets/0077e857-bf88-42dd-85dd-a6b4e36ca7d6)
 
 
 ![Untitled](https://github.com/user-attachments/assets/56b1a67f-ce27-4f0f-b018-2f4145e32af5)
 
---- 
+
+---
+
+### A Technique For Training a Large Language Model Strategically on Real Mathematics Resources by (O.J.B.)
+
+
+```mermaid
+graph TD
+    A[Start: Locate Literature Online] -- Search forums & textbooks --> B[Identify Accessible PDFs]
+    B --> C{Comprehensible?}
+    C -- No --> D(Discard)
+    C -- Yes --> E[Add to List or Tree]
+    E -- Repeat Process --> E
+    E --> F[Compile Best Literature Set]
+    
+    subgraph Optional
+    F -.-> G[Repeat for Dissertations]
+    end
+    
+    F --> H[Save all PDFs in One Folder]
+    G --> H
+    H -- Select Top 10 --> I[Train LLM on PDFs]
+    I --> J[LLM Identifies Math Patterns]
+    J --> K[Generate LaTeX/Markdown Scripts]
+    K --> L[Find Supporting Literature]
+    L --> M((End: Verify Open Access))
+```
+
+---
 
 ### Pro Tips for Solving Mathematical Problems by (O.J.B.):
 
@@ -170,8 +198,8 @@ Inspired by: Gisin, Indeterminism in Physics and Intuitionistic Mathematics, Syn
 |  | **More Intuitionistic**   | **Mixed/Hybrid**   | **More Analytical** |
 |-|-|-|-|
 | **Highly Approximate**<br>(Top)     | **Pure Intuition** <br>- Gut feeling<br>- Instinctive reactions       | **Trial-and-Error/ Rough Guess** <br>- Ad-hoc tinkering<br>- Quick “guess-and-check” attempts                    | **Back-of-the-Envelope Computations** <br>- Rapid mental math or simplified analysis<br>- “Quick and dirty” calculations  |
-| **Moderately Approximate**          | **Educated Guesses/ Analogy** <br>- Intuition guided by analogies<br>- Domain-specific “rules of thumb”    | **Heuristics** <br>- General problem-solving rules of thumb <br>**Metaheuristics** <br>- Genetic algorithms, evolutionary methods, etc. | **Simplified Modeling / Monte Carlo** <br>- Partial modeling or assumptions<br>- Stochastic approximations and simulations |
-| **Moderately Exact**                | **Intuitive Domain Expertise** <br>- Structured “gut sense” from years of practice                          | **Systematic Heuristics** <br>- Deliberately applied heuristic sets <br>**Hybrid Methods** <br>- Combining data + experience for iteration | **Algorithmic / Structured** <br>- Well-defined step-by-step procedures <br>- Many optimization or search algorithms      |
+| **Moderately Approximate**          | **Educated Guesses/ Analogy** <br>- Intuition guided by analogies<br>- Domain-specific “rules of thumb”    | **Heuristics** <br>- General problem-solving rules of thumb <br>**Metaheuristics** <br>- Genetic algorithms, evolutionary methods, etc. | **Simplified Modeling/ Monte Carlo** <br>- Partial modeling or assumptions<br>- Stochastic approximations and simulations |
+| **Moderately Exact**                | **Intuitive Domain Expertise** <br>- Structured “gut sense” from years of practice                          | **Systematic Heuristics** <br>- Deliberately applied heuristic sets <br>**Hybrid Methods** <br>- Combining data + experience for iteration | **Algorithmic/ Structured** <br>- Well-defined step-by-step procedures <br>- Many optimization or search algorithms      |
 | **Highly Exact**<br>(Bottom)        | *(Rare purely “intuitive” exactness-often specialized or self-correcting)*                                 | **Formalized Hybrid Methods** <br>- Constraint programming with heuristic guidance <br>- High-level frameworks that incorporate both data and domain insight | **Formal/ Deductive** <br>- Mathematical proofs <br>- Exhaustive search <br>- Rigorous deductive logic/ derivations    |
 
 --- 
@@ -369,6 +397,29 @@ Greek Letters
 𝛢𝛼 𝛣𝛽 𝛤𝛾 𝛥𝛿 𝛦𝜀𝜖 𝛧𝜁 𝛨𝜂 𝛩𝜃𝜗 𝛪𝜄 𝛫𝜅 𝛬𝜆 𝛭𝜇 𝛮𝜈 𝛯𝜉 𝛰𝜊 𝛱𝜋 𝛲𝜌 𝛴𝜎 𝛵𝜏 𝛶𝜐 𝛷𝜙𝜑 𝛸𝜒 𝛹𝜓 𝛺𝜔
 
 --- 
+
+### Example Mathematical Expressions Along with Their Descriptions
+
+| Symbol | Name/ phrase | Meaning |
+| :--- | :--- | :--- |
+| $(a_n)$ | sequence $a_n$ | An infinite list of real numbers: $a_1, a_2, a_3, \dots$ |
+| $a \in \mathbb{R}$ | $a$ is in $\mathbb{R}$ | $a$ is a real number |
+| $\mathbb{R}$ | real numbers | The set of all real numbers |
+| $\mathbb{N}$ | natural numbers | $\{1, 2, 3, 4, \dots\}$ (positive integers) |
+| $n$ | index | A natural-number index $1, 2, 3, \dots$ |
+| $\lim_{n\to\infty} a_n$ | limit of $a_n$ as $n\to\infty$ | The value $a_n$ approaches as $n$ gets arbitrarily large |
+| $(a_n) \to a$ | “ $a_n$ tends to $a$ ” | Another notation for $\lim_{n\to\infty} a_n = a$ |
+| $\forall$ | “for all” / “for every” | Universal quantifier |
+| $\exists$ | “there exists” | Existential quantifier |
+| $\epsilon$ | epsilon | A positive real number that represents an error tolerance |
+| $\epsilon > 0$ | epsilon is positive | We only consider strictly positive tolerances |
+| $N$ | capital $N$ | A natural number beyond which something nice happens in the sequence |
+| $n \ge N$ | $n$ greater than or equal to $N$ | “$n$ is at least $N$” |
+| $\implies$ | implies | Logical implication: if left side holds, then right side must hold |
+| $\lvert x \lvert$ | absolute value of $x$ | Distance from $x$ to $0$ on the real line; $\lvert x \lvert \ge 0$ |
+| $\lvert a_n - a\lvert < \epsilon$ | distance condition | The term $a_n$ is within $\epsilon$ units of the limit $a$ |
+
+---
 
 ### Below is an Example by (O.J.B.) on How to Substitute with Custom Variables:
 
