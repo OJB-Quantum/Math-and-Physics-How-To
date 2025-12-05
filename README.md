@@ -49,7 +49,7 @@ Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathemati
 
 --- 
 
-### Strategic Approach to Solving Mathematical, Physical, & Engineering Problems on Paper by (O.J.B.):  
+### Strategic Approach to Solving Mathematical, Physical, & Engineering Problems Manually by (O.J.B.):  
 
 ![newplot](https://github.com/user-attachments/assets/0077e857-bf88-42dd-85dd-a6b4e36ca7d6)
 
