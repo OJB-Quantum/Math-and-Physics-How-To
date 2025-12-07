@@ -1,99 +1,46 @@
-Below is a revised version formatted as a GitHub README. In this version the equations and descriptions have been refined to reflect common graduate‐level treatments found in modern engineering literature. (Note that native GitHub Markdown does not render LaTeX by default—if you require rendered mathematics you may consider using a GitHub Pages site with MathJax or another converter.)
-
----
-
-# Graduate-Level Engineering Equations
-
-This document summarizes a set of core equations and gain models frequently encountered in graduate-level engineering. The content has been updated for clarity and accuracy based on standard texts in the field.
-
-## Table of Core Equations
-
-| **Equation Name** | **Formula** | **Description / Context** |
-|-------------------|-------------|---------------------------|
-| **1. Poisson Equation** | $\(\nabla^2 \phi = -\frac{\rho}{\epsilon_0}\)$ | Governs the electrostatic potential \(\phi\) (or gravitational potential by analogy). Here, \(\rho\) is the charge density and \(\epsilon_0\) is the permittivity of free space. <br>**Ref:** Jackson, *Classical Electrodynamics* |
-| **2. Poisson-Boltzmann Equation** | $\(\nabla^2 \psi = \kappa^2 \sinh(\psi)\)$ | A nonlinear equation that appears in the statistical mechanics of electrolytes and colloidal systems. \(\kappa\) is the inverse Debye length and \(\psi\) is a dimensionless potential. <br>**Ref:** Debye–Hückel; Gouy–Chapman theory |
-| **3. Conductivity Equation** | $\(\mathbf{J} = \sigma \mathbf{E}\)$ | Differential form of Ohm’s law relating the current density \(\mathbf{J}\) to the electric field \(\mathbf{E}\) through the conductivity \(\sigma\). <br>**Ref:** Standard continuum electrodynamics texts |
-| **4. Bragg’s Law** | $\(n\lambda = 2d\sin(\theta)\)$ | Describes diffraction from crystal planes (spacing \(d\)); \(n\) is an integer, \(\lambda\) is the wavelength, and \(\theta\) is the diffraction angle. <br>**Ref:** Kittel, *Introduction to Solid State Physics* |
-| **5. Fick’s First Law** | $\(J = -D \nabla c\)$ | Relates the diffusive flux \(J\) to the concentration gradient \(\nabla c\), where \(D\) is the diffusion coefficient. <br>**Ref:** Bird, Stewart, \& Lightfoot, *Transport Phenomena* |
-| **6. Fick’s Second Law** | $\(\frac{\partial c}{\partial t} = D \nabla^2 c\)$ | Governs the time evolution of concentration \(c\); derived from Fick’s first law and conservation of mass. |
-| **7. Optical Gain Equation** | $\(g(N) \approx \sigma \, [N - N_\mathrm{tr}]\)$ | A linearized model for optical gain in laser media; \(\sigma\) is the gain cross section, \(N\) is the carrier (inversion) density, and \(N_\mathrm{tr}\) is the transparency density. <br>**Ref:** Svelto, *Principles of Lasers* |
-| **8. Resonance Frequency** | $\( \omega_0 = \sqrt{\frac{k}{m}} \)$ (mechanical) <br> $\(\omega_0 = \frac{1}{\sqrt{LC}}\)$ (electrical) | The natural frequency of a harmonic oscillator. The mechanical version uses the spring constant \(k\) and mass \(m\); the electrical version applies to LC circuits. |
-| **9. Tunneling Probability** | $\(T(E) \approx e^{-2\kappa a}, \quad \kappa = \frac{\sqrt{2m\,(V_0 - E)}}{\hbar}\)$ | Approximate transmission probability (WKB approximation) for a particle of energy \(E\) through a potential barrier of width \(a\) and height \(V_0\). <br>**Ref:** Griffiths, *Introduction to Quantum Mechanics* |
-| **10. Efficiency Equation** | $\(\eta = \frac{P_\mathrm{out}}{P_\mathrm{in}}\)$ | A generic definition of efficiency as the ratio of output power to input power. <br>**Ref:** Standard thermodynamics/engineering texts |
-| **11. Mean Free Path** | $\(\ell = \frac{1}{n\,\sigma_\mathrm{sc}}\)$ | The average distance \(\ell\) a particle travels between collisions; \(n\) is the number density of scatterers and \(\sigma_\mathrm{sc}\) is the scattering cross section. <br>**Ref:** Ashcroft \& Mermin, *Solid State Physics* |
-| **12. Quality Factor** | $\(Q = \frac{\omega_0}{\Delta \omega}\)$ | A dimensionless measure of the sharpness of a resonance, with \(\omega_0\) the resonant frequency and \(\Delta \omega\) the bandwidth. |
-| **13. Scattering Parameters** | $ \mathbf{b}=S\,\mathbf{a}$<br>For 2-port networks: $ \begin{pmatrix}b_1\\b_2\end{pmatrix}=\begin{pmatrix}S_{11}&S_{12}\\S_{21}&S_{22}\end{pmatrix}\begin{pmatrix}a_1\\a_2\end{pmatrix}$ | Used in RF/microwave engineering to characterize reflection and transmission through networks.<br>**Ref:** Pozar, *Microwave Engineering* |
-| **14. Transfer (ABCD) Parameters** | $ \begin{pmatrix}V_1\\I_1\end{pmatrix}=\begin{pmatrix}A&B\\C&D\end{pmatrix}\begin{pmatrix}V_2\\-I_2\end{pmatrix}$ | Characterizes two-port networks by relating input and output voltages/currents. |
-| **15. Harmonic Oscillator** | $\(\frac{d^2 x}{dt^2} + \omega_0^2 x = 0\)$ | The classical equation of motion for a mass–spring system (or its analogs). |
-| **16. Anharmonic Oscillator** | $\(\frac{d^2 x}{dt^2} + \omega_0^2 x + \alpha x^3 = 0\)$ | A model incorporating a nonlinear (e.g., cubic) correction to the harmonic oscillator, capturing deviations seen in real systems. <br>**Ref:** Landau \& Lifshitz, *Mechanics* |
-| **17. Quantum Harmonic Oscillator** | $\(\hat{H}\psi = \Bigl[-\frac{\hbar^2}{2m}\frac{d^2}{dx^2} + \frac{1}{2} m\,\omega^2 x^2\Bigr]\psi = E\psi\)$ | A solvable model in quantum mechanics with energy levels \(E_n = \hbar\omega \left(n+\tfrac{1}{2}\right)\). <br>**Refs:** Sakurai; Griffiths |
-| **18. Quantum Anharmonic Oscillator** | $\(\hat{H}\psi = \Bigl[-\frac{\hbar^2}{2m}\frac{d^2}{dx^2} + \frac{1}{2} m\,\omega^2 x^2 + \lambda x^n \Bigr]\psi = E\psi\)$ | Extends the harmonic oscillator with a nonlinear potential term, typically analyzed via perturbation or numerical methods. |
-| **19. Heat Equation** | $\(\frac{\partial u}{\partial t} = \alpha \nabla^2 u\)$ | Describes heat (or mass) diffusion with \(\alpha\) as the thermal diffusivity. <br>**Ref:** Evans, *Partial Differential Equations* |
-| **20. Time-Dependent Schrödinger Equation** | $\(i \hbar \frac{\partial \Psi(\mathbf{r},t)}{\partial t} = \hat{H}\Psi(\mathbf{r},t)\)$ | Fundamental equation governing the time evolution of quantum systems. |
-| **21. Dirac Equation** | $\(\bigl(i\gamma^\mu \partial_\mu - m \bigr)\psi = 0\)$ | A relativistic wave equation for spin-\(\tfrac{1}{2}\) particles; \(\gamma^\mu\) are the gamma matrices. <br>**Refs:** Peskin \& Schroeder; Bjorken \& Drell |
-| **22. Shot Noise Limit** | $\(\Delta I = \sqrt{2q I\,\Delta f}\)$ | Describes the quantum (statistical) noise in an electrical current, where \(q\) is the elementary charge and \(\Delta f\) is the measurement bandwidth. |
-| **23. Heisenberg Limit** | $\(\Delta \phi \sim \frac{1}{N}\)$ | In interferometry, the phase uncertainty scales as \(1/N\) for \(N\) particles, representing the ultimate sensitivity limit. <br>**Ref:** Quantum metrology literature (e.g., Caves, *Phys. Rev. D*, 1981) |
-| **24. Standard Quantum Limit (SQL)** | $\(\Delta x_{\text{SQL}}(\omega) \sim \sqrt{\frac{\hbar}{2m\omega}}\)$ | Represents a measurement limit that balances measurement backaction and quantum noise. <br>**Ref:** Braginsky \& Khalili, *Quantum Measurement* |
-| **25. LLG Equation** (Landau–Lifshitz–Gilbert) | $\(\frac{d\mathbf{M}}{dt} = -\gamma\,\mathbf{M}\times \mathbf{H}_\mathrm{eff} + \frac{\alpha}{M_s}\,\mathbf{M}\times \frac{d\mathbf{M}}{dt}\)$ | Describes the dynamics of magnetization \(\mathbf{M}\) in ferromagnets; \(\gamma\) is the gyromagnetic ratio and \(\alpha\) the damping constant. <br>**Refs:** Landau \& Lifshitz; Gilbert (1955) |
-| **26. LLGS Equation** (Landau–Lifshitz–Gilbert–Slonczewski) | $\(\frac{d\mathbf{M}}{dt} = -\gamma\,\mathbf{M}\times \mathbf{H}_\mathrm{eff} + \frac{\alpha}{M_s}\,\mathbf{M}\times \frac{d\mathbf{M}}{dt} + \boldsymbol{\tau}_\mathrm{STT}\)$ | Extends the LLG model to include spin-transfer torque \(\boldsymbol{\tau}_\mathrm{STT}\) effects. <br>**Ref:** Slonczewski, *J. Magn. Magn. Mater.* (1996) |
-| **27. Effective Field (for LLGS)** | $\(\mathbf{H}_\mathrm{eff} = -\frac{1}{\mu_0 M_s}\frac{\partial F}{\partial \mathbf{M}} + \mathbf{H}_\mathrm{applied} + \dots\)$ | The net effective magnetic field including contributions from anisotropy, exchange, demagnetization, and externally applied fields. <br>**Ref:** Stiles \& Miltat, *Topics in Applied Physics* (2006) |
-| **28. Maxwell’s Equations** | <pre> 
-∇·E = ρ/ε₀  
-∇·B = 0  
-∇×E = -∂B/∂t  
-∇×B = μ₀J + μ₀ε₀ ∂E/∂t  
-</pre> | The four differential equations governing classical electromagnetism. <br>**Ref:** Jackson, *Classical Electrodynamics* |
-| **29. Fourier Transform** | $\(\hat{f}(k) = \int_{-\infty}^{\infty} f(x)e^{-2\pi i k x}\,dx\)$ | Decomposes a function \(f(x)\) into its constituent frequency components. (Note: Various normalization conventions exist.) <br>**Ref:** Arfken \& Weber, *Mathematical Methods* |
-| **30. Green’s Function** | $\(L\,G(\mathbf{r}, \mathbf{r}') = \delta(\mathbf{r}-\mathbf{r}')\)$ | Represents the impulse response for a linear differential operator \(L\) and is widely used to solve partial differential equations. <br>**Ref:** Morse \& Feshbach, *Methods of Theoretical Physics* |
-| **31. Geometric Algebra Identities** | - **Geometric Product:** $\(\mathbf{a}\,\mathbf{b} = \mathbf{a}\cdot\mathbf{b} + \mathbf{a}\wedge\mathbf{b}\)$ <br> - **Basis Vectors:** $\(e_i e_j + e_j e_i = 2\delta_{ij}\)$ | Fundamental identities in geometric (Clifford) algebra, which unifies various algebraic systems and is useful in advanced physics formulations. <br>**Refs:** Hestenes, *New Foundations for Classical Mechanics*; Doran \& Lasenby, *Geometric Algebra* |
-
----
-
-## Table of Gain Equations
-
-| **Type of Gain** | **Definition (Linear Scale)** | **Definition (dB Scale)** | **Notes / Context** |
-|------------------|-------------------------------|---------------------------|---------------------|
-| **Power Gain (RF/Microwave)** | $\(G_p = \frac{P_\mathrm{out}}{P_\mathrm{in}}\)$ | $\(G_{p,\mathrm{dB}} = 10\log_{10}\Bigl(\frac{P_\mathrm{out}}{P_\mathrm{in}}\Bigr)\)$ | Widely used in RF/microwave systems with matched impedances (e.g., 50 Ω). The factor 10 is used because power is proportional to voltage squared. |
-| **Voltage Gain (Low-Frequency/General Amplifier)** | $\(G_v = \frac{V_\mathrm{out}}{V_\mathrm{in}}\)$ | $\(G_{v,\mathrm{dB}} = 20\log_{10}\Bigl(\frac{V_\mathrm{out}}{V_\mathrm{in}}\Bigr)\)$ | Common in audio and instrumentation where voltage is the primary measure. The factor 20 arises since power scales with the square of voltage. |
-| **Current Gain** | $\(G_i = \frac{I_\mathrm{out}}{I_\mathrm{in}}\)$ | $\(G_{i,\mathrm{dB}} = 20\log_{10}\Bigl(\frac{I_\mathrm{out}}{I_\mathrm{in}}\Bigr)\)$ | Relevant for devices like transimpedance amplifiers where current amplification is key. |
-| **Transimpedance Gain** | $\(Z_t = \frac{V_\mathrm{out}}{I_\mathrm{in}}\)$ | $\(Z_{t,\mathrm{dB}} = 20\log_{10}\Bigl(\frac{V_\mathrm{out}}{I_\mathrm{in}}\Bigr)\)$ | Often used for photodiode amplifiers and sensor front-ends converting current to voltage. |
-
----
-
-## Additional Context on Gain
-
-- **RF Power Gain:**  
-  Typically expressed in decibels as  
-  \[
-    G_{p,\mathrm{dB}} = 10\log_{10}\left(\frac{P_\mathrm{out}}{P_\mathrm{in}}\right)
-  \]  
-  and is crucial in antenna design and link-budget analyses.
-
-- **Voltage vs. Power Gain:**  
-  In low-frequency electronics (e.g., audio systems), voltage gain is more directly relevant. Converting a voltage ratio to decibels uses a factor of 20 since \(P \propto V^2\).
-
-- **Application Considerations:**  
-  - Use **power gain** (10 log scale) for systems where power transfer is central and impedances are matched.  
-  - Use **voltage gain** (20 log scale) when the emphasis is on voltage levels or when the load impedance is fixed and known.
-
-Understanding these distinctions is critical for accurate design and characterization in electronic amplifier design, signal chain analysis, and communications system engineering.
-
----
-
-## References
-
-1. **Classical Electrodynamics** – J. D. Jackson  
-2. **Introduction to Quantum Mechanics** – D. J. Griffiths  
-3. **Modern Quantum Mechanics** – J. J. Sakurai  
-4. **Principles of Lasers** – O. Svelto  
-5. **Microwave Engineering** – D. Pozar  
-6. **Solid State Physics** – N. W. Ashcroft and N. D. Mermin  
-7. **Mechanics** – L. D. Landau and E. M. Lifshitz  
-8. **Quantum Measurement** – V. B. Braginsky and F. Y. Khalili  
-9. Hestenes, *New Foundations for Classical Mechanics*  
-10. Caves, *Phys. Rev. D* **23**, 1693 (1981)  
-11. Slonczewski, *J. Magn. Magn. Mater.* **159**, L1 (1996)  
-
----
-
-*Note:* For proper LaTeX rendering on GitHub, consider using tools or workflows that enable MathJax or KaTeX processing on your pages.
+| # | Equation name | Equation (LaTeX) | Category/ context | Key symbols/ notes |
+|---|---|---|---|---|
+| 1 | Classical harmonic oscillator | $\dfrac{d^2 x}{dt^2} + \omega_0^2 x = 0$ | Second‑order linear ODE; mechanics, circuits, fields | Undamped motion with angular frequency $\omega_0$. Damping adds term $2\zeta\omega_0\,dx/dt$. |
+| 2 | Wave (d’Alembert) equation | $\dfrac{\partial^2 u}{\partial t^2} = v^2 \nabla^2 u$ | Hyperbolic PDE; propagation of waves | $u$ displacement, field, or potential; $v$ wave speed. In electromagnetism, $v=c$ in vacuum. |
+| 3 | Laplace’s equation | $\nabla^2 \phi = 0$ | Source‑free limit of Poisson; potential theory | Describes steady‑state fields with no local sources (electrostatics in charge‑free regions, incompressible flow streamfunctions, gravitational potential in vacuum). |
+| 4 | Heat (diffusion) equation | $\dfrac{\partial u}{\partial t} = \alpha \nabla^2 u$ | Parabolic PDE; heat flow, diffusion, probability densities | $u$ temperature or concentration, $\alpha = k/(\rho c_p)$ thermal diffusivity. |
+| 5 | Poisson equation | $\nabla^2 \phi(\mathbf{r}) = -\rho(\mathbf{r}) / \varepsilon_0$ | Elliptic PDE; electrostatics, gravitation | $\phi$ potential, $\rho$ charge density, $\varepsilon_0$ vacuum permittivity. In inhomogeneous media: $\nabla\cdot(\varepsilon \nabla\phi) = -\rho$. |
+| 6 | Fourier transform (one common convention) | $F(k) = \displaystyle\int_{-\infty}^{\infty} f(x)\,e^{-ikx}\,dx,\quad f(x) = \dfrac{1}{2\pi}\int_{-\infty}^{\infty} F(k)\,e^{ikx}\,dk$ | Spectral decomposition; signals, PDEs, quantum mechanics | Other conventions move the $2\pi$ factors or change the exponent sign. Choice must be consistent between transform and inverse. |
+| 7 | Power conversion efficiency | $\eta = P_{\mathrm{out}} / P_{\mathrm{in}}$ | Figure of merit; energy and power devices | $\eta$ dimensionless efficiency; often expressed as a percentage. Can also be defined for energies, work, photons, etc. |
+| 8 | Ohmic conductivity (Ohm’s law, differential form) | $\mathbf{J} = \boldsymbol{\sigma} \mathbf{E}$ | Constitutive relation; transport, electronics | $\mathbf{J}$ current density, $\mathbf{E}$ electric field, $\boldsymbol{\sigma}$ conductivity (scalar or tensor, often frequency dependent). |
+| 9 | Green’s function definition | $L\,G(\mathbf{r},\mathbf{r}') = \delta(\mathbf{r}-\mathbf{r}')$ | Impulse response of linear differential operator $L$ | Once $G$ is known, solution of $L u = f$ with given boundaries is $u(\mathbf{r}) = \int G(\mathbf{r},\mathbf{r}') f(\mathbf{r}')\,d\mathbf{r}'$ (plus homogeneous solution). |
+|10 | Navier–Stokes equation (incompressible Newtonian fluid) | $\rho\!\left(\dfrac{\partial \mathbf{u}}{\partial t} + \mathbf{u}\cdot\nabla\mathbf{u}\right) = -\nabla p + \mu \nabla^2\mathbf{u} + \mathbf{f},\quad \nabla\cdot\mathbf{u}=0$ | Continuum momentum balance for viscous fluids | $\mathbf{u}$ velocity, $p$ pressure, $\rho$ density, $\mu$ dynamic viscosity, $\mathbf{f}$ body force density (e.g., gravity). Derived from conservation of momentum plus constitutive law for Newtonian stress. |
+|11 | Fick’s first law of diffusion | $\mathbf{J} = -D \nabla c$ | Constitutive law; mass transport, random‑walk limit | $\mathbf{J}$ diffusive flux, $D$ diffusion coefficient, $c$ concentration. Minus sign gives flux from high to low $c$. |
+|12 | Fick’s second law (diffusion equation) | $\dfrac{\partial c}{\partial t} = D \nabla^2 c$ | Parabolic PDE; diffusion, random walks, probability | For constant $D$. More generally: $\partial c/\partial t = \nabla\cdot(D\nabla c)$. |
+|13 | Mean free path | $\ell = 1 /(n \sigma_{\mathrm{sc}})$ | Kinetic theory; transport in gases, solids | $\ell$ average distance between scattering events, $n$ number density of scatterers, $\sigma_{\mathrm{sc}}$ scattering cross section. For hard spheres in a gas, $\ell = 1/(\sqrt{2} n \sigma)$. |
+|14 | Maxwell’s equations (microscopic, SI, differential form) | $\nabla\cdot\mathbf{E} = \rho/\varepsilon_0,\;\nabla\cdot\mathbf{B} = 0,\;\nabla\times\mathbf{E} = -\dfrac{\partial\mathbf{B}}{\partial t},\;\nabla\times\mathbf{B} = \mu_0\mathbf{J} + \mu_0\varepsilon_0\dfrac{\partial\mathbf{E}}{\partial t}$ | Classical electromagnetism | $\mathbf{E}$ electric field, $\mathbf{B}$ magnetic flux density, $\rho$ charge density, $\mathbf{J}$ current density, $\varepsilon_0,\mu_0$ vacuum permittivity and permeability. |
+|15 | Continuity equation (conserved scalar) | $\dfrac{\partial \rho}{\partial t} + \nabla\cdot\mathbf{J} = 0$ | Local conservation of charge, mass, probability, etc. | $\rho$ density of conserved quantity, $\mathbf{J}$ corresponding flux or current density. In EM, follows from Maxwell’s equations. |
+|16 | Resonant angular frequency | $\omega_0 = \sqrt{k/m}$ (mechanical), $\;\omega_0 = 1/\sqrt{LC}$ (electrical) | Simple harmonic oscillator, LC resonator | $k$ spring constant, $m$ mass; $L$ inductance, $C$ capacitance. Gives natural oscillation frequency in radians per second. |
+|17 | Geometric (Clifford) algebra identities | $ab = a\cdot b + a\wedge b,\quad e_i e_j + e_j e_i = 2\delta_{ij}$ | Unified algebra of vectors, bivectors, spinors | Geometric product decomposes into symmetric inner product and antisymmetric exterior product. Basis vectors $e_i$ generate the metric via $e_i^2 = 1$ (Euclidean) or $\pm 1$ (general signatures). |
+|18 | Helmholtz equation | $(\nabla^2 + k^2)\psi(\mathbf{r}) = 0$ | Time‑harmonic wave fields | $k = \omega/c$ wavenumber. Appears after separation of variables in the wave equation for sinusoidal time dependence. |
+|19 | Poynting vector and Poynting theorem (local EM energy conservation) | $\mathbf{S} = \mathbf{E}\times\mathbf{H},\quad \dfrac{\partial u_{\mathrm{EM}}}{\partial t} + \nabla\cdot\mathbf{S} = -\mathbf{J}\cdot\mathbf{E}$ | Electromagnetic energy flow and power dissipation | $\mathbf{S}$ energy flux density, $\mathbf{H}$ magnetic field strength, $u_{\mathrm{EM}}$ EM energy density. Right‑hand term is power delivered to charges per unit volume. |
+|20 | Quality factor of a resonance | $Q = \omega_0 / \Delta\omega$ | Dimensionless resonance sharpness; oscillators, cavities, filters | $\Delta\omega$ full width at half maximum. Equivalent definition: $Q = 2\pi \times (\text{energy stored} / \text{energy lost per cycle})$. |
+|21 | Poisson–Boltzmann equation (dimensionless, symmetric electrolyte) | $\nabla^2 \psi = \kappa^2 \sinh \psi$ | Nonlinear elliptic PDE; screened Coulomb potentials in electrolytes, plasmas, semiconductors | $\psi = ze\phi/(k_{\mathrm{B}}T)$ dimensionless potential, $\kappa^{-1}$ Debye length. For general ionic mixtures: $\nabla^2\phi = -\rho_f/\varepsilon - \dfrac{1}{\varepsilon}\sum_i z_i e n_{i0} e^{-z_i e\phi/(k_\mathrm{B}T)}$. |
+|22 | Bragg’s law | $n\lambda = 2 d \sin\theta$ | Wave interference; x‑ray, neutron, electron diffraction | $n$ integer order, $\lambda$ wavelength, $d$ lattice plane spacing, $\theta$ glancing angle between beam and planes. |
+|23 | Classical anharmonic oscillator (cubic example) | $\dfrac{d^2 x}{dt^2} + \omega_0^2 x + \alpha x^3 = 0$ | Nonlinear oscillator; perturbation theory, nonlinear dynamics | $\alpha$ controls strength of nonlinearity. Corresponds to potential $V(x) = \tfrac{1}{2}m\omega_0^2 x^2 + \tfrac{1}{4}\alpha x^4$. |
+|24 | Shot‑noise current (RMS in bandwidth $\Delta f$) | $\Delta I_{\mathrm{rms}} = \sqrt{2 q I\,\Delta f}$ | Electronic/ photon counting noise; Poisson statistics | $I$ average current, $q$ elementary charge, $\Delta f$ measurement bandwidth. Current spectral density $S_I = 2 q I$. |
+|25 | Time‑dependent Schrödinger equation | $i\hbar\,\dfrac{\partial \psi(\mathbf{r},t)}{\partial t} = \hat{H}\,\psi(\mathbf{r},t)$ | Fundamental quantum evolution law | $\hat{H}$ Hamiltonian operator (kinetic + potential). For one nonrelativistic particle: $\hat{H} = -\hbar^2\nabla^2/(2m) + V(\mathbf{r},t)$. |
+|26 | Quantum harmonic oscillator (1D) | $\Big[-\dfrac{\hbar^2}{2m}\dfrac{d^2}{dx^2} + \tfrac{1}{2}m\omega_0^2 x^2\Big]\psi_n(x) = E_n \psi_n(x)$, $E_n = \hbar\omega_0 (n + \tfrac{1}{2})$ | Exactly solvable model; quantized vibrations, modes | $n=0,1,2,\dots$; ladder operators connect eigenstates. Central in quantization of fields and cavity modes. |
+|27 | Time‑independent Schrödinger equation (TISE) | $\Big[-\dfrac{\hbar^2}{2m}\nabla^2 + V(\mathbf{r})\Big]\psi(\mathbf{r}) = E\,\psi(\mathbf{r})$ | Stationary states; eigenvalue problem for $\hat{H}$ | Separation of variables with $\psi(\mathbf{r},t) = \psi(\mathbf{r})e^{-iEt/\hbar}$ reduces the TDSE to this eigenproblem. Discrete $E_n$ give bound states, continuous $E$ scattering states. |
+|28 | Ehrenfest’s theorem (general operator form) | $\dfrac{d}{dt}\langle \hat{A} \rangle = \dfrac{1}{i\hbar}\,\langle[\hat{A},\hat{H}]\rangle + \left\langle \dfrac{\partial \hat{A}}{\partial t}\right\rangle$ | Bridge between quantum and classical averages | For position and momentum, this gives $m\,d^2\langle \hat{x}\rangle/dt^2 = -\langle \nabla V(\hat{x})\rangle$. When $V$ is sufficiently smooth over the wavepacket, the expectation values approximately obey Newton’s laws. |
+|29 | Dirac equation — αβ Hamiltonian (Dirac‑αβ) form | $i\hbar\,\dfrac{\partial \psi}{\partial t} = \Big(c\,\boldsymbol{\alpha}\cdot\hat{\mathbf{p}} + \beta m c^2 + V\Big)\psi$ | Relativistic Hamiltonian for spin‑½ particles | $\psi$ 4‑component spinor, $\hat{\mathbf{p}} = -i\hbar\nabla$, $m$ rest mass, $c$ speed of light. $\alpha_i$ and $\beta$ are $4\times 4$ Dirac matrices obeying $\{\alpha_i,\alpha_j\}=2\delta_{ij}$, $\{\alpha_i,\beta\}=0$, $\beta^2=1$. Reduces to free‑particle case when $V=0$. |
+|30 | Dirac equation — manifestly covariant form | $(i\hbar \gamma^\mu \partial_\mu - mc)\,\psi(x) = 0$ | Lorentz‑covariant relativistic wave equation for spin‑½ fields | $\gamma^\mu$ Dirac gamma matrices satisfying $\{\gamma^\mu,\gamma^\nu\} = 2 g^{\mu\nu}$, $\partial_\mu = (\tfrac{1}{c}\partial_t,\nabla)$, $g^{\mu\nu}$ metric tensor. Relates to αβ form via $\gamma^0 = \beta$, $\gamma^i = \beta \alpha^i$. Often written as $(i\partial\!\!\!/ - m)\psi=0$. |
+|31 | Quantum tunneling probability (rectangular barrier, WKB limit) | $T(E) \approx \exp(-2\kappa a),\;\kappa = \sqrt{2m(V_0 - E)}/\hbar$ | Approximate 1D barrier transmission; quantum devices, STM | Valid for $E<V_0$ and thick barrier $\kappa a \gg 1$. Prefactors from matching wavefunctions are omitted. |
+|32 | Quantum anharmonic oscillator | $\Big[-\dfrac{\hbar^2}{2m}\dfrac{d^2}{dx^2} + \tfrac{1}{2}m\omega_0^2 x^2 + \lambda x^n\Big]\psi(x) = E\psi(x)$ | Model for weakly nonlinear quantum systems | $\lambda$ coupling strength, $n\ge 3$ (often $n=3$ or $4$). Requires perturbation theory or numerics in general. |
+|33 | Landau–Lifshitz–Gilbert (LLG) equation | $\dfrac{\partial \mathbf{m}}{\partial t} = -\gamma\,\mathbf{m}\times\mathbf{H}_{\mathrm{eff}} + \alpha\,\mathbf{m}\times\dfrac{\partial \mathbf{m}}{\partial t}$ | Magnetization dynamics in ferromagnets | $\mathbf{m} = \mathbf{M}/M_s$ unit magnetization, $\gamma$ gyromagnetic ratio (often negative for electrons), $\alpha$ Gilbert damping. $\mathbf{H}_{\mathrm{eff}}$ includes external, anisotropy, exchange, demagnetizing, and other effective fields. |
+|34 | ABCD/ transfer parameters | $\begin{bmatrix} V_1 \\ I_1 \end{bmatrix} = \begin{bmatrix} A & B \\ C & D \end{bmatrix} \begin{bmatrix} V_2 \\ -I_2 \end{bmatrix}$ | Two‑port networks; cascaded microwave/ optical components | Transfer (ABCD) matrix converts port‑2 voltage and current to port‑1. Cascaded networks multiply ABCD matrices. |
+|35 | Drift–diffusion current in semiconductors | $J_n = q n \mu_n E + q D_n\,\dfrac{dn}{dx},\quad J_p = q p \mu_p E - q D_p\,\dfrac{dp}{dx}$ | Carrier transport in semiconductor devices | $J_n,J_p$ electron and hole current densities, $q$ elementary charge, $n,p$ carrier densities, $\mu_{n,p}$ mobilities, $D_{n,p}$ diffusion coefficients, $E$ electric field. Signs reflect negative electron and positive hole charge. |
+|36 | Effective field for LLG/ LLGS | $\mathbf{H}_{\mathrm{eff}} = -\dfrac{1}{\mu_0 M_s}\,\dfrac{\delta F}{\delta \mathbf{m}} + \mathbf{H}_{\mathrm{applied}} + \mathbf{H}_{\mathrm{demag}} + \cdots$ | Micromagnetics; variational derivative of free energy | $F[\mathbf{m}]$ magnetic free‑energy functional (exchange, anisotropy, Zeeman, demagnetizing, etc.), $\mu_0$ vacuum permeability, $M_s$ saturation magnetization. |
+|37 | Scattering parameters (S‑parameters) | $\mathbf{b} = S\,\mathbf{a}$, with $\mathbf{a} = (a_1,a_2)^{\mathsf{T}},\;\mathbf{b} = (b_1,b_2)^{\mathsf{T}}$ | Linear network characterization; RF, microwave, photonics | $S$ is $2\times 2$ matrix with elements $S_{ij}$ relating incident ($a_i$) and reflected/transmitted ($b_j$) wave amplitudes at ports. |
+|38 | Linear optical gain vs carrier density | $g(N) \approx \sigma_g (N - N_{\mathrm{tr}})$ | Approximate constitutive relation; semiconductor lasers | $g$ modal gain, $N$ carrier density, $N_{\mathrm{tr}}$ transparency density, $\sigma_g$ differential gain or gain cross section. Valid near $N\approx N_{\mathrm{tr}}$. |
+|39 | Standard quantum limit (SQL) for position | $\Delta x_{\mathrm{SQL}}(\omega) \approx \sqrt{\hbar/(2 m \omega)}$ | Measurement limit for linear, unsqueezed probes | For a harmonic oscillator of mass $m$ at angular frequency $\omega$. For a free mass measured over time $\tau$: $\Delta x_{\mathrm{SQL}} \gtrsim \sqrt{\hbar \tau /(2m)}$. Advanced schemes (squeezing, QND) can beat the SQL but not the Heisenberg limit. |
+|40 | Lattice Boltzmann equation (single‑relaxation BGK form) | $f_i(\mathbf{x}+\mathbf{c}_i \Delta t, t+\Delta t) - f_i(\mathbf{x}, t) = -\dfrac{\Delta t}{\tau}\,\big[f_i(\mathbf{x}, t) - f_i^{(eq)}(\mathbf{x}, t)\big]$ | Mesoscopic fluid/ transport solver on discrete lattice | $f_i$ particle distribution along discrete velocity $\mathbf{c}_i$, $\tau$ relaxation time, $f_i^{(eq)}$ local equilibrium (typically low‑Mach expansion of Maxwell–Boltzmann). Macroscopic density and velocity follow from velocity moments and recover Navier–Stokes in the continuum limit. |
+|41 | Heisenberg limit for phase estimation | $\Delta\phi \gtrsim 1/N$ | Ultimate quantum scaling for phase sensitivity | $N$ number of entangled particles, photons, or quanta in probe state. Beats shot‑noise limit $\Delta\phi \sim 1/\sqrt{N}$ using nonclassical states (e.g., N00N states). |
+|42 | LLGS equation with spin‑transfer torque | $\dfrac{\partial \mathbf{m}}{\partial t} = -\gamma\,\mathbf{m}\times\mathbf{H}_{\mathrm{eff}} + \alpha\,\mathbf{m}\times\dfrac{\partial \mathbf{m}}{\partial t} + \boldsymbol{\tau}_{\mathrm{STT}}$ | Spintronics; current‑driven magnetization switching | Typical Slonczewski torque: $\boldsymbol{\tau}_{\mathrm{STT}} \propto \mathbf{m}\times(\mathbf{m}\times\mathbf{p})$, where $\mathbf{p}$ is spin‑polarization direction and the prefactor depends on current density, layer thickness, and material parameters. |
+|43 | Quantum lattice Boltzmann equation (QLB, schematic) | $\psi_i(\mathbf{x}+\mathbf{c}_i \Delta t, t+\Delta t) = \sum_j U_{ij}(\mathbf{x},t)\,\psi_j(\mathbf{x},t)$ | Lattice‑based quantum evolution; discrete real‑space solver for Schrödinger/ Dirac | $\psi_i$ quantum amplitudes associated with discrete velocities or internal states, $U_{ij}$ unitary “collision” operator constructed so that the continuum limit reproduces Schrödinger or Dirac equations. Implementable on classical hardware and naturally suited to quantum computers as a quantum walk/ quantum circuit. |
+|44 | Fermi’s Golden Rule | $W_{i\to f} = \dfrac{2\pi}{\hbar}\,\big \lvert \langle f \lvert \hat{H}' \lvert i\rangle\big \lvert ^2\,\rho(E_f)$ | Transition rate in time‑dependent perturbation theory; quantum scattering, emission, absorption | $W_{i\to f}$ transition rate from initial state $\lvert i \rangle$ to final states near energy $E_f$, $\hat{H}'$ perturbing Hamiltonian, $\rho(E_f)$ density of final states at $E_f$. Assumes weak perturbation, long times, and quasi‑continuous spectrum. |
