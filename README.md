@@ -957,17 +957,22 @@ Magnetization dynamics and spintronics
 
 Acronyms: 
 
-DOE - Design of Experiments. 
-
-GUM - Guide to the Expression of Uncertainty in Measurement. 
-
-LRT - Linear Response Theory. 
-
-CI - Confidence Interval (statistical coverage for an estimate). 
-
-PSD/SNR - Power Spectral Density/Signal-to-Noise Ratio (for noise-aware measurements).
-
-BC - Boundary Conditions (geometry, constraints that shape curves).
+DOE = Design of Experiments. 
+GUM = Guide to the Expression of Uncertainty in Measurement. 
+LRT = Linear Response Theory. 
+CI = Confidence Interval (statistical coverage for an estimate). 
+PSD/SNR = Power Spectral Density/Signal-to-Noise Ratio (for noise-aware measurements).
+BC = Boundary Conditions (geometry, constraints that shape curves).
+PSD  = Positive semidefinite
+QFI  = Quantum Fisher information
+CPTP = Completely positive trace-preserving
+RKHS = Reproducing kernel Hilbert space
+QML  = Quantum machine learning
+QFT  = Quantum field theory
+GR   = General relativity
+SU(n) = Special unitary group of degree n
+SO(n) = Special orthogonal group of degree n
+U(1)  = Unitary group of degree 1 (phase rotations)
 
 ---
 
