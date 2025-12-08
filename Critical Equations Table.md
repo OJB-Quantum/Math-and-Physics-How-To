@@ -52,6 +52,7 @@
 ---
 
 | Type of Gain | Definition (Linear Scale) | Definition (dB Scale) | Notes/ Context |
+|-|-|-|-|
 | Power Gain (RF/ Microwave)                       | $(G_p = \dfrac{P_\text{out}}{P_\text{in}})$      | $(G_{p,\text{dB}} = 10\log_{10}(G_p) = 10\log_{10}\!\left(\dfrac{P_\text{out}}{P_\text{in}}\right))$ | Used when power flow is the key quantity (RF, microwave, link budgets). Factor 10 because dB is defined on power. |
 | Voltage Gain (Low‑Frequency/ General Amplifier)  | $(G_v = \dfrac{V_\text{out}}{V_\text{in}})$      | $(G_{v,\text{dB}} = 20\log_{10}\!\left \lvert G_v\right \lvert = 20\log_{10}\!\left \lvert \dfrac{V_\text{out}}{V_\text{in}}\right \lvert )$ | Common in audio and low‑frequency instrumentation. Factor 20 because $(P \propto \lvert V \lvert ^2)$ for fixed load impedance. |
 | Current Gain                                      | $(G_i = \dfrac{I_\text{out}}{I_\text{in}})$      | $(G_{i,\text{dB}} = 20\log_{10}\!\left \lvert G_i\right \lvert = 20\log_{10}\!\left \lvert \dfrac{I_\text{out}}{I_\text{in}}\right \lvert )$ | For true current amplifiers (current‑in, current‑out). Not used for transimpedance stages.                       |
