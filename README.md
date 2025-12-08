@@ -1188,8 +1188,7 @@ U(1)  = Unitary group of degree 1 (phase rotations)
 
 References
 
-
-Here is the same content with reorganized, globally consistent numbering, while keeping all URLs unchanged.
+### 0. Initial aspects
 
 1. Hepburn, B. and Andersen, H., 2015. *Scientific method*. In: E.N. Zalta (ed.) *The Stanford Encyclopedia of Philosophy* (Fall 2015 ed.). Stanford, CA: Metaphysics Research Lab, Stanford University. Available at: [https://plato.stanford.edu/entries/scientific-method/](https://plato.stanford.edu/entries/scientific-method/). ([Stanford Encyclopedia of Philosophy][1])
 
@@ -1203,105 +1202,105 @@ Here is the same content with reorganized, globally consistent numbering, while 
 
 ### 1. Field & potential equations
 
-6. **Stanford University, Department of Mathematics, n.d.** *Green’s functions.* Math 220B course notes, Stanford University. Available at: [https://web.stanford.edu/class/math220b/handouts/greensfcns.pdf](https://web.stanford.edu/class/math220b/handouts/greensfcns.pdf) (Accessed 8 December 2025). ([Stanford University][1])
+6. Stanford University, Department of Mathematics, n.d. *Green’s functions.* Math 220B course notes, Stanford University. Available at: [https://web.stanford.edu/class/math220b/handouts/greensfcns.pdf](https://web.stanford.edu/class/math220b/handouts/greensfcns.pdf) (Accessed 8 December 2025). ([Stanford University][1])
    – Covers Green’s functions for Poisson, Laplace, Helmholtz and related PDEs → Poisson (#5), Laplace (#3), Green’s functions (#9), Helmholtz (#18).
 
-7. **Gray, F., 2018.** ‘Nonlinear electrostatics: the Poisson–Boltzmann equation.’ *European Journal of Physics*, 39(5), 053001. Preprint available at: [https://arxiv.org/abs/1808.08338](https://arxiv.org/abs/1808.08338) (Accessed 8 December 2025).
+7. Gray, F., 2018. ‘Nonlinear electrostatics: the Poisson–Boltzmann equation.’ *European Journal of Physics*, 39(5), 053001. Preprint available at: [https://arxiv.org/abs/1808.08338](https://arxiv.org/abs/1808.08338) (Accessed 8 December 2025).
    – Focused on Poisson–Boltzmann theory and screening, with clear derivation and physical interpretation → Poisson–Boltzmann (#21), coupling to Poisson (#5).
 
-8. **Wikipedia, 2024.** ‘Poisson’s equation.’ *Wikipedia, the free encyclopedia.* Available at: [https://en.wikipedia.org/wiki/Poisson%27s_equation](https://en.wikipedia.org/wiki/Poisson%27s_equation) (Accessed 8 December 2025). ([DAMP][2])
+8. Wikipedia, 2024. ‘Poisson’s equation.’ *Wikipedia, the free encyclopedia.* Available at: [https://en.wikipedia.org/wiki/Poisson%27s_equation](https://en.wikipedia.org/wiki/Poisson%27s_equation) (Accessed 8 December 2025). ([DAMP][2])
    – Concise summary of Poisson’s equation, boundary conditions, and applications → Poisson (#5) and links to Laplace and Green’s‑function solutions.
 
-9. **Wikipedia, 2024.** ‘Maxwell’s equations.’ *Wikipedia, the free encyclopedia.* Available at: [https://en.wikipedia.org/wiki/Maxwell%27s_equations](https://en.wikipedia.org/wiki/Maxwell%27s_equations) (Accessed 8 December 2025).
+9. Wikipedia, 2024. ‘Maxwell’s equations.’ *Wikipedia, the free encyclopedia.* Available at: [https://en.wikipedia.org/wiki/Maxwell%27s_equations](https://en.wikipedia.org/wiki/Maxwell%27s_equations) (Accessed 8 December 2025).
    – Good overview of the differential and integral forms, wave equation, and Poynting vector → Maxwell (#14), wave equation (#2), Poynting vector & theorem (#19).
 
-10. **Hestenes, D., 2003.** ‘Oersted Medal Lecture 2002: Reforming the mathematical language of physics.’ *American Journal of Physics*, 71(2), pp.104–121. Author’s OA version available at: [http://geocalc.clas.asu.edu/pdf/OerstedMedalLecture.pdf](http://geocalc.clas.asu.edu/pdf/OerstedMedalLecture.pdf) (Accessed 8 December 2025).
+10. Hestenes, D., 2003. ‘Oersted Medal Lecture 2002: Reforming the mathematical language of physics.’ *American Journal of Physics*, 71(2), pp.104–121. Author’s OA version available at: [http://geocalc.clas.asu.edu/pdf/OerstedMedalLecture.pdf](http://geocalc.clas.asu.edu/pdf/OerstedMedalLecture.pdf) (Accessed 8 December 2025).
     – Introduces geometric (Clifford) algebra as a unifying language for Maxwell, Dirac, and wave equations → Geometric algebra (#17), Maxwell (#14), Dirac (#29, #30).
 
 ---
 
-### 2. Diffusion / transport family
+### 2. Diffusion/ transport family
 
-11. **Wikipedia, 2024.** ‘Fick’s laws of diffusion.’ *Wikipedia, the free encyclopedia.* Available at: [https://en.wikipedia.org/wiki/Fick%27s_laws_of_diffusion](https://en.wikipedia.org/wiki/Fick%27s_laws_of_diffusion) (Accessed 8 December 2025). ([Wikipedia][3])
+11. Wikipedia, 2024. ‘Fick’s laws of diffusion.’ *Wikipedia, the free encyclopedia.* Available at: [https://en.wikipedia.org/wiki/Fick%27s_laws_of_diffusion](https://en.wikipedia.org/wiki/Fick%27s_laws_of_diffusion) (Accessed 8 December 2025). ([Wikipedia][3])
     – Standard reference for Fick’s first and second laws, diffusion equation, and relation to random walks → Fick’s laws (#11, #12), heat/diffusion equation (#4).
 
-12. **Gentle introduction via PDEs:** **Stanford University, Department of Mathematics, n.d.** *The heat equation.* Course notes (Math PDE sequence). Available at: [https://web.stanford.edu/class/math220b/handouts/HeatEqn.pdf](https://web.stanford.edu/class/math220b/handouts/HeatEqn.pdf) (Accessed 8 December 2025). ([arXiv][4])
+12. Gentle introduction via PDEs: Stanford University, Department of Mathematics, n.d. *The heat equation.* Course notes (Math PDE sequence). Available at: [https://web.stanford.edu/class/math220b/handouts/HeatEqn.pdf](https://web.stanford.edu/class/math220b/handouts/HeatEqn.pdf) (Accessed 8 December 2025). ([arXiv][4])
     – Derives the heat equation as a prototype parabolic PDE and links it to diffusion → Heat equation (#4) and general diffusion/transport perspective.
 
-13. **Jung, I. & Selberherr, S., 2013.** ‘Determination of drift–diffusion parameters for semiconductor device simulation.’ *Journal of Computational Electronics*, 12(4), pp.701–708. Author OA version: [https://arxiv.org/abs/1305.4861](https://arxiv.org/abs/1305.4861) (Accessed 8 December 2025).
+13. Jung, I. & Selberherr, S., 2013. ‘Determination of drift–diffusion parameters for semiconductor device simulation.’ *Journal of Computational Electronics*, 12(4), pp.701–708. Author OA version: [https://arxiv.org/abs/1305.4861](https://arxiv.org/abs/1305.4861) (Accessed 8 December 2025).
     – Gives a device‑physics take on drift–diffusion transport and parameter extraction → Drift–diffusion currents (#35), mean free path and transport coefficients (#13).
 
-14. **Wikipedia, 2024.** ‘Navier–Stokes equations.’ *Wikipedia, the free encyclopedia.* Available at: [https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations) (Accessed 8 December 2025).
+14. Wikipedia, 2024. ‘Navier–Stokes equations.’ *Wikipedia, the free encyclopedia.* Available at: [https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations) (Accessed 8 December 2025).
     – High‑level description of Navier–Stokes, derivation from conservation laws, and various limits → Navier–Stokes (#10), connection to diffusion and continuity (#15).
 
-15. **Hosseini, S.A., Boivin, P., Thévenin, D. & Karlin, I.V., 2024.** ‘Lattice Boltzmann methods for combustion applications.’ *Progress in Energy and Combustion Science*, 102, 101140. Open‑access article at: [https://doi.org/10.1016/j.pecs.2023.101140](https://doi.org/10.1016/j.pecs.2023.101140) (Accessed 8 December 2025).
+15. Hosseini, S.A., Boivin, P., Thévenin, D. & Karlin, I.V., 2024. ‘Lattice Boltzmann methods for combustion applications.’ *Progress in Energy and Combustion Science*, 102, 101140. Open‑access article at: [https://doi.org/10.1016/j.pecs.2023.101140](https://doi.org/10.1016/j.pecs.2023.101140) (Accessed 8 December 2025).
     – Broad review including fundamentals of the lattice Boltzmann method and its continuum (Navier–Stokes) limit → Lattice Boltzmann (#43) and its relation to Navier–Stokes (#10).
 
 ---
 
 ### 3. Oscillators, quantum fields & tunneling
 
-16. **Essler, F.H.L., 2023.** *Lecture Notes for Quantum Mechanics.* University of Oxford. Available at: [https://www-thphys.physics.ox.ac.uk/people/FabianEssler/QM/QM2022.pdf](https://www-thphys.physics.ox.ac.uk/people/FabianEssler/QM/QM2022.pdf) (Accessed 8 December 2025).
+16. Essler, F.H.L., 2023. *Lecture Notes for Quantum Mechanics.* University of Oxford. Available at: [https://www-thphys.physics.ox.ac.uk/people/FabianEssler/QM/QM2022.pdf](https://www-thphys.physics.ox.ac.uk/people/FabianEssler/QM/QM2022.pdf) (Accessed 8 December 2025).
     – Systematic derivation of time‑dependent and time‑independent Schrödinger equations, harmonic oscillator, and perturbation theory → TDSE (#25), TISE (#27), QHO (#26), anharmonic oscillator (#32).
 
-17. **Chew, W.C., 2013.** *Quantum Mechanics Made Simple: Lecture Notes.* Purdue University. Available at: [https://engineering.purdue.edu/wcchew/course/QMAll20130917.pdf](https://engineering.purdue.edu/wcchew/course/QMAll20130917.pdf) (Accessed 8 December 2025).
+17. Chew, W.C., 2013. *Quantum Mechanics Made Simple: Lecture Notes.* Purdue University. Available at: [https://engineering.purdue.edu/wcchew/course/QMAll20130917.pdf](https://engineering.purdue.edu/wcchew/course/QMAll20130917.pdf) (Accessed 8 December 2025).
     – Gentle yet thorough notes emphasizing physical intuition and simple models such as harmonic and anharmonic oscillators → QHO (#26), anharmonic potentials (#32), Ehrenfest connections (#28).
 
-18. **Williams, B., 2017.** ‘Quantum harmonic oscillator and generalized Hermite polynomials.’ *arXiv preprint* arXiv:1701.02767. Available at: [https://arxiv.org/abs/1701.02767](https://arxiv.org/abs/1701.02767) (Accessed 8 December 2025). ([arXiv][5])
+18. Williams, B., 2017. ‘Quantum harmonic oscillator and generalized Hermite polynomials.’ *arXiv preprint* arXiv:1701.02767. Available at: [https://arxiv.org/abs/1701.02767](https://arxiv.org/abs/1701.02767) (Accessed 8 December 2025). ([arXiv][5])
     – Focuses mathematically on QHO eigenfunctions and generalizations → Deepens QHO (#26) and connects to more exotic oscillator models (#32).
 
-19. **Haouam, I., 2023.** ‘Ehrenfest’s theorem for the Dirac equation in curved spacetime.’ *arXiv preprint* arXiv:2309.16360. Available at: [https://arxiv.org/abs/2309.16360](https://arxiv.org/abs/2309.16360) (Accessed 8 December 2025).
+19. Haouam, I., 2023. ‘Ehrenfest’s theorem for the Dirac equation in curved spacetime.’ *arXiv preprint* arXiv:2309.16360. Available at: [https://arxiv.org/abs/2309.16360](https://arxiv.org/abs/2309.16360) (Accessed 8 December 2025).
     – Explicitly treats Ehrenfest’s theorem in relativistic quantum mechanics → Ehrenfest’s theorem (#28), Dirac equations (#29, #30).
 
-20. **Makris, N., 2024.** ‘A real‑valued description of quantum mechanics with classical channels.’ *arXiv preprint* arXiv:2406.05484. Available at: [https://arxiv.org/abs/2406.05484](https://arxiv.org/abs/2406.05484) (Accessed 8 December 2025).
+20. Makris, N., 2024. ‘A real‑valued description of quantum mechanics with classical channels.’ *arXiv preprint* arXiv:2406.05484. Available at: [https://arxiv.org/abs/2406.05484](https://arxiv.org/abs/2406.05484) (Accessed 8 December 2025).
     – Re‑derives Schrödinger‑type dynamics in a real‑valued framework and discusses classical/quantum correspondence → Conceptual support around Schrödinger equations (#25, #27) and quantum–classical links near Ehrenfest’s theorem (#28).
 
-21. **Dereziński, J. & Gérard, C., 2017.** *Mathematics of Quantization and Quantum Fields.* Lecture Notes in Physics 2157 (open version). Chapter on perturbation theory and Fermi’s Golden Rule. OA PDF: [https://ndl.ethernet.edu.et/bitstream/123456789/63327/1/157.pdf](https://ndl.ethernet.edu.et/bitstream/123456789/63327/1/157.pdf) (Accessed 8 December 2025).
+21. Dereziński, J. & Gérard, C., 2017. *Mathematics of Quantization and Quantum Fields.* Lecture Notes in Physics 2157 (open version). Chapter on perturbation theory and Fermi’s Golden Rule. OA PDF: [https://ndl.ethernet.edu.et/bitstream/123456789/63327/1/157.pdf](https://ndl.ethernet.edu.et/bitstream/123456789/63327/1/157.pdf) (Accessed 8 December 2025).
     – Rigorous treatment of quantum fields and Fermi’s Golden Rule → Fermi’s Golden Rule (#47), Green’s functions in quantum propagation (#9).
 
-22. **Schmeissner, R., Thiel, V., Jacquard, C., Fabre, C. & Treps, N., 2014.** ‘Analysis and filtering of phase noise in an optical frequency comb at the quantum limit to improve timing measurements.’ *Optics Letters*, 39(12), pp.3603–3606. OA arXiv version: [https://arxiv.org/abs/1401.3528](https://arxiv.org/abs/1401.3528) (Accessed 8 December 2025).
+22. Schmeissner, R., Thiel, V., Jacquard, C., Fabre, C. & Treps, N., 2014. ‘Analysis and filtering of phase noise in an optical frequency comb at the quantum limit to improve timing measurements.’ *Optics Letters*, 39(12), pp.3603–3606. OA arXiv version: [https://arxiv.org/abs/1401.3528](https://arxiv.org/abs/1401.3528) (Accessed 8 December 2025).
     – Real experimental context where quantum‑limited noise, oscillators, and comb modes meet → Oscillators/resonances, precision & noise branch, especially optical shot‑noise SQL (#39).
 
-23. **Wang, K. et al., 2019.** *Multidimensional photonics in synthetic lattices.* PhD thesis, Australian National University. OA thesis: [https://openresearch-repository.anu.edu.au/bitstreams/29581b51-042a-4d07-ab86-132b92be082a/download](https://openresearch-repository.anu.edu.au/bitstreams/29581b51-042a-4d07-ab86-132b92be082a/download) (Accessed 8 December 2025).
+23. Wang, K. et al., 2019. *Multidimensional photonics in synthetic lattices.* PhD thesis, Australian National University. OA thesis: [https://openresearch-repository.anu.edu.au/bitstreams/29581b51-042a-4d07-ab86-132b92be082a/download](https://openresearch-repository.anu.edu.au/bitstreams/29581b51-042a-4d07-ab86-132b92be082a/download) (Accessed 8 December 2025).
     – Explores photonic lattices, band structures and synthetic dimensions, with tight links to wave equations, resonances and quantum walks → Bridges oscillator / resonator networks to lattice models and QLB (#46).
 
-24. **Succi, S., 2015.** ‘Lattice Boltzmann 2038.’ *EPL (Europhysics Letters)*, 109, 50001. OA version: [https://doi.org/10.1209/0295-5075/109/50001](https://doi.org/10.1209/0295-5075/109/50001) (Accessed 8 December 2025).
+24. Succi, S., 2015. ‘Lattice Boltzmann 2038.’ *EPL (Europhysics Letters)*, 109, 50001. OA version: [https://doi.org/10.1209/0295-5075/109/50001](https://doi.org/10.1209/0295-5075/109/50001) (Accessed 8 December 2025).
     – Visionary overview of lattice Boltzmann and its quantum variants → Connects classical LBM (#43) and quantum lattice Boltzmann (#46) to future quantum simulators.
 
 ---
 
 ### 4. Precision, quantum noise & measurement limits
 
-25. **Caves, C.M., 1981.** ‘Quantum‑mechanical noise in an interferometer.’ *Physical Review D*, 23(8), pp.1693–1708. OA copy: [https://www.rle.mit.edu/cua_pub/8.422/Reading%20Material/caves_PRD.pdf](https://www.rle.mit.edu/cua_pub/8.422/Reading%20Material/caves_PRD.pdf) (Accessed 8 December 2025).
+25. Caves, C.M., 1981. ‘Quantum‑mechanical noise in an interferometer.’ *Physical Review D*, 23(8), pp.1693–1708. OA copy: [https://www.rle.mit.edu/cua_pub/8.422/Reading%20Material/caves_PRD.pdf](https://www.rle.mit.edu/cua_pub/8.422/Reading%20Material/caves_PRD.pdf) (Accessed 8 December 2025).
     – Classic derivation of the interferometric standard quantum limit and introduction of squeezed states → Free‑mass SQL (#41), optical shot‑noise SQL (#39), Heisenberg vs. SQL in interferometers (#44).
 
-26. **Clerk, A.A., Devoret, M.H., Girvin, S.M., Marquardt, F. & Schoelkopf, R.J., 2010.** ‘Introduction to quantum noise, measurement, and amplification.’ *Reviews of Modern Physics*, 82(2), pp.1155–1208. OA PDF: [https://clerkgroup.uchicago.edu/PDFfiles/RMP2010.pdf](https://clerkgroup.uchicago.edu/PDFfiles/RMP2010.pdf) (Accessed 8 December 2025).
+26. Clerk, A.A., Devoret, M.H., Girvin, S.M., Marquardt, F. & Schoelkopf, R.J., 2010. ‘Introduction to quantum noise, measurement, and amplification.’ *Reviews of Modern Physics*, 82(2), pp.1155–1208. OA PDF: [https://clerkgroup.uchicago.edu/PDFfiles/RMP2010.pdf](https://clerkgroup.uchicago.edu/PDFfiles/RMP2010.pdf) (Accessed 8 December 2025).
     – Canonical modern review on quantum noise spectra, linear response, and amplifier limits → Amplifier SQL (#40), measurement‑noise product SQL (#42), Heisenberg limit (#44).
 
-27. **King, S.K., 1996.** ‘Quantum mechanical noise in a Michelson interferometer.’ NASA Technical Memorandum 107585. OA report: [https://ntrs.nasa.gov/api/citations/19960025005/downloads/19960025005.pdf](https://ntrs.nasa.gov/api/citations/19960025005/downloads/19960025005.pdf) (Accessed 8 December 2025).
+27. King, S.K., 1996. ‘Quantum mechanical noise in a Michelson interferometer.’ NASA Technical Memorandum 107585. OA report: [https://ntrs.nasa.gov/api/citations/19960025005/downloads/19960025005.pdf](https://ntrs.nasa.gov/api/citations/19960025005/downloads/19960025005.pdf) (Accessed 8 December 2025).
     – Applies quantum‑noise ideas to real interferometer design → Practical elaboration of free‑mass displacement SQL (#41) and optical shot noise (#39).
 
-28. **Braginsky, V.B. & Khalili, F.Y., 1992.** *Quantum Measurement.* Cambridge University Press. OA individual chapters collected in: *Measurements in Quantum Mechanics* (InTechOpen). See, e.g.,: Summarized OA volume *Measurements in Quantum Mechanics*, 2012. Available at: [https://www.issp.ac.ru/ebooks/books/open/Measurements_in_Quantum_Mechanics.pdf](https://www.issp.ac.ru/ebooks/books/open/Measurements_in_Quantum_Mechanics.pdf) (Accessed 8 December 2025).
+28. Braginsky, V.B. & Khalili, F.Y., 1992. *Quantum Measurement.* Cambridge University Press. OA individual chapters collected in: *Measurements in Quantum Mechanics* (InTechOpen). See, e.g.,: Summarized OA volume *Measurements in Quantum Mechanics*, 2012. Available at: [https://www.issp.ac.ru/ebooks/books/open/Measurements_in_Quantum_Mechanics.pdf](https://www.issp.ac.ru/ebooks/books/open/Measurements_in_Quantum_Mechanics.pdf) (Accessed 8 December 2025).
     – Foundational monograph on quantum measurements, back‑action, and SQL in oscillators and interferometers → Deep background for all SQL entries (#39–#42) and Heisenberg limit (#44).
 
-29. **Balmaseda, A., 2022.** *Quantum Control at the Boundary.* PhD dissertation (preprint). *arXiv preprint* arXiv:2201.05480. Available at: [https://arxiv.org/abs/2201.05480](https://arxiv.org/abs/2201.05480) (Accessed 8 December 2025).
+29. Balmaseda, A., 2022. *Quantum Control at the Boundary.* PhD dissertation (preprint). *arXiv preprint* arXiv:2201.05480. Available at: [https://arxiv.org/abs/2201.05480](https://arxiv.org/abs/2201.05480) (Accessed 8 December 2025).
     – Dissertational perspective on controlling quantum systems via boundary conditions; discusses limits to control and measurement → Conceptual complement to your “precision & noise” subtree and quantum‑limited control schemes.
 
 ---
 
 ### 5. Magnetization dynamics and spintronics
 
-30. **Lakshmanan, M., 2011.** ‘The fascinating world of the Landau–Lifshitz–Gilbert equation: an overview.’ In: *Nonlinear Dynamics: Integrability, Chaos and Patterns.* OA version: [https://arxiv.org/pdf/1101.1005.pdf](https://arxiv.org/pdf/1101.1005.pdf) (Accessed 8 December 2025).
+30. Lakshmanan, M., 2011. ‘The fascinating world of the Landau–Lifshitz–Gilbert equation: an overview.’ In: *Nonlinear Dynamics: Integrability, Chaos and Patterns.* OA version: [https://arxiv.org/pdf/1101.1005.pdf](https://arxiv.org/pdf/1101.1005.pdf) (Accessed 8 December 2025).
     – Pedagogical overview of LLG, solitons, and nonlinear dynamics → Effective field (H_\mathrm{eff}) (#36), LLG equation (#33), links to nonlinear oscillators (#23).
 
-31. **Xu, F. et al., 2023.** ‘Unified framework of the microscopic Landau–Lifshitz–Gilbert equation and its application to skyrmion dynamics.’ *arXiv preprint* arXiv:2310.08807. Available at: [https://arxiv.org/abs/2310.08807](https://arxiv.org/abs/2310.08807) (Accessed 8 December 2025).
+31. Xu, F. et al., 2023. ‘Unified framework of the microscopic Landau–Lifshitz–Gilbert equation and its application to skyrmion dynamics.’ *arXiv preprint* arXiv:2310.08807. Available at: [https://arxiv.org/abs/2310.08807](https://arxiv.org/abs/2310.08807) (Accessed 8 December 2025).
     – Derives LLG from nonequilibrium Green’s functions, giving microscopic expressions for damping and torques → Refines effective‑field and damping structure for LLG/LLGS (#33, #36, #45).
 
-32. **Ralph, D.C. & Stiles, M.D., 2008.** ‘Spin transfer torques.’ *Journal of Magnetism and Magnetic Materials*, 320(7), pp.1190–1216. OA arXiv version: [https://arxiv.org/abs/0711.4608](https://arxiv.org/abs/0711.4608) (Accessed 8 December 2025).
+32. Ralph, D.C. & Stiles, M.D., 2008. ‘Spin transfer torques.’ *Journal of Magnetism and Magnetic Materials*, 320(7), pp.1190–1216. OA arXiv version: [https://arxiv.org/abs/0711.4608](https://arxiv.org/abs/0711.4608) (Accessed 8 December 2025).
     – Tutorial review of spin‑transfer torque physics in multilayers → LLGS with STT (#45), coupling of drift–diffusion (#35) to magnetization dynamics (#33).
 
-33. **Saradzhev, F.M., Khanna, F.C., Kim, S.P. & de Montigny, M., 2006.** ‘General form of magnetization damping: magnetization dynamics of a spin system evolving nonadiabatically and out of equilibrium.’ *arXiv preprint* arXiv:cond-mat/0609431. Available at: [https://arxiv.org/abs/cond-mat/0609431](https://arxiv.org/abs/cond-mat/0609431) (Accessed 8 December 2025).
+33. Saradzhev, F.M., Khanna, F.C., Kim, S.P. & de Montigny, M., 2006. ‘General form of magnetization damping: magnetization dynamics of a spin system evolving nonadiabatically and out of equilibrium.’ *arXiv preprint* arXiv:cond-mat/0609431. Available at: [https://arxiv.org/abs/cond-mat/0609431](https://arxiv.org/abs/cond-mat/0609431) (Accessed 8 December 2025).
     – Extends LLG to more general damping forms using quantum density‑matrix methods → Links your effective‑field and damping functionals (#36) to quantum open‑system models.
 
-34. **Wikipedia, 2024.** ‘Landau–Lifshitz–Gilbert equation.’ *Wikipedia, the free encyclopedia.* Available at: [https://en.wikipedia.org/wiki/Landau%E2%80%93Lifshitz%E2%80%93Gilbert_equation](https://en.wikipedia.org/wiki/Landau%E2%80%93Lifshitz%E2%80%93Gilbert_equation) (Accessed 8 December 2025).
+34. Wikipedia, 2024. ‘Landau–Lifshitz–Gilbert equation.’ *Wikipedia, the free encyclopedia.* Available at: [https://en.wikipedia.org/wiki/Landau%E2%80%93Lifshitz%E2%80%93Gilbert_equation](https://en.wikipedia.org/wiki/Landau%E2%80%93Lifshitz%E2%80%93Gilbert_equation) (Accessed 8 December 2025).
     – Compact overview of LLG, LLGS and spin‑torque extensions, with references to original literature → LLG (#33), LLGS with STT (#45), effective field construction (#36).
