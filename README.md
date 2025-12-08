@@ -27,6 +27,27 @@ Stimulus <-- Latin stimulus (“goad, spur”). Response <-- Latin respondēre (
 
 ---
 
+### Recommended Textbook Resources for Non-Relativistic Quantum Topics: 
+
+```
+Quantum Mechanics Library
+├── Theoretical Foundations
+│   ├── Principles of Quantum Mechanics (Shankar)
+│   ├── Quantum Mechanics: Concepts and Applications (Zettili)
+│   └── Quantum Mechanics Vol I, II, and III (Various)
+│
+├── Engineering & Device Physics
+│   ├── Quantum Mechanics for Scientists and Engineers (Miller)
+│   └── Quantum Mechanics for Device Engineers and Physicists (Ferry)
+│
+├── Quantum Information & Measurement
+│   ├── Quantum Information Science (Manenti/Motta)
+│   └── Quantum Measurement: Theory and Practice (Siddiqui)
+│
+└── Study Aids
+    └── Problem Solving in Quantum Mechanics
+```
+
 ### In Case You Want Some Fun Open Access Interactive Tools to Try:
 - [Free Education](https://ojb-quantum.github.io/Free-Education)
 
@@ -687,6 +708,7 @@ Hyper-operations
 | Differential Geometric Algebra | [Crucial Flow Research](https://youtu.be/7hlDRLEhc8o?si=fShumaSE7mZhBJTU) |
 | Advanced Mathematics | [The Bright Side of Mathematics](https://www.youtube.com/@brightsideofmaths/playlists) |
 | More Advanced Mathematics | [Cofiber](https://www.youtube.com/@cofiber/videos) |
+| Lessons on Prerequisitcs for Quantum & Related Topcs | [XylyXylyX](https://www.youtube.com/@XylyXylyX/playlists) |
 | Spinors Playlist | [eigenchris](https://youtube.com/playlist?list=PLJHszsWbB6hoOo_wMb0b6T44KM_ABZtBs&si=RvKpojxj7defv5SQ) |
 | Weinberg's Lectures on Quantum Mechanics Playlist | [Physics Daemon](https://youtube.com/playlist?list=PLy8F8dLvbGgAzZOng2Gc5OLpU1VRLh9jL&si=FEdUbLUEUK-UKnHi) |
 | Thermodynamics & Statistical Physics Playlist | [Pazzy Boardman](https://youtube.com/playlist?list=PLVjZPwRzdu40ZWkRxvwjan9ZyIbVexzOK&si=EtjiJQyTwqjiolas) |
@@ -695,6 +717,8 @@ Hyper-operations
 | QuTech360 Seminars | [QuTech Academy](https://youtube.com/playlist?list=PL5jmbd6SJYnOyp8OP-ZME8GgTlLFXbrqO&si=Dsfc8N0bf5hbIQbx) |
 | Quantum Playlists  | [Nick Heumann University](https://www.youtube.com/@NickHeumannUniversity/playlists) |
 | STEM Full Course Playlists | [Academic Lesson](https://www.youtube.com/@AcademicLesson/playlists) |
+
+## Shortcuts in Mathematics and Physics: 
 
 |  |
 |-|
@@ -1152,11 +1176,16 @@ U(1)  = Unitary group of degree 1 (phase rotations)
 
 References
 
-1.  Hepburn, B. and Andersen, H. (2015). *Scientific Method - Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/scientific-method>
-2.  Jacob, S.L. and Goold, J. (2025). *The response of a quantum system to a collision: an autonomous derivation of Kubo's formula*. [Preprint]. <https://arxiv.org/pdf/2505.03686>
-3.  Watson, A.B., Margetis, D. and Luskin, M. (2023). *Mathematical aspects of the Kubo formula for electrical conductivity with dissipation*. [Preprint]. <https://arxiv.org/pdf/2304.04303>
-4.  NIST/SEMATECH (2022). *4.3.1. What is design of experiments (DOE)?*. NIST/SEMATECH e-Handbook of Statistical Methods. <https://www.itl.nist.gov/div898/handbook/pmd/section3/pmd31.htm>
-5.  Reiss, J. and Sprenger, J. (2020). *Scientific Objectivity - Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/scientific-objectivity/>
+
+1. Hepburn, B. and Andersen, H., 2015. *Scientific method*. In: E.N. Zalta (ed.) *The Stanford Encyclopedia of Philosophy* (Fall 2015 ed.). Stanford, CA: Metaphysics Research Lab, Stanford University. Available at: <[https://plato.stanford.edu/entries/scientific-method/\>](https://plato.stanford.edu/entries/scientific-method/\>). ([Stanford Encyclopedia of Philosophy][1])
+
+2. Jacob, S.L. and Goold, J., 2025. *The response of a quantum system to a collision: an autonomous derivation of Kubo’s formula*. *Journal of Physics A: Mathematical and Theoretical* (in press). Preprint available at: <[https://arxiv.org/abs/2505.03686\>](https://arxiv.org/abs/2505.03686\>). ([arXiv][2])
+
+3. Watson, A.B., Margetis, D. and Luskin, M., 2023. *Mathematical aspects of the Kubo formula for electrical conductivity with dissipation*. *Japan Journal of Industrial and Applied Mathematics*, 40(3), pp.1765–1795. Preprint available at: <[https://arxiv.org/abs/2304.04303\>](https://arxiv.org/abs/2304.04303\>). ([SpringerLink][3])
+
+4. NIST/SEMATECH, 2013. *4.3.1. What is design of experiments (DOE)?* In: *NIST/SEMATECH e‑Handbook of Statistical Methods*. Gaithersburg, MD: National Institute of Standards and Technology. Available at: <[https://www.itl.nist.gov/div898/handbook/pmd/section3/pmd31.htm\>](https://www.itl.nist.gov/div898/handbook/pmd/section3/pmd31.htm\>). ([NIST ITL][4])
+
+5. Reiss, J. and Sprenger, J., 2020. *Scientific objectivity*. In: E.N. Zalta (ed.) *The Stanford Encyclopedia of Philosophy* (Winter 2020 ed.). Stanford, CA: Metaphysics Research Lab, Stanford University. Available at: <[https://plato.stanford.edu/entries/scientific-objectivity/\>](https://plato.stanford.edu/entries/scientific-objectivity/\>). ([Stanford Encyclopedia of Philosophy][5])
 
 
 ### 1. Field & potential equations
