@@ -27,6 +27,27 @@ Stimulus <-- Latin stimulus (“goad, spur”). Response <-- Latin respondēre (
 
 ---
 
+### Recommended Textbook Resources for Non-Relativistic Quantum Topics: 
+
+```
+Quantum Mechanics Library
+├── Theoretical Foundations
+│   ├── Principles of Quantum Mechanics (Shankar)
+│   ├── Quantum Mechanics: Concepts and Applications (Zettili)
+│   └── Quantum Mechanics Vol I, II, and III (Various)
+│
+├── Engineering & Device Physics
+│   ├── Quantum Mechanics for Scientists and Engineers (Miller)
+│   └── Quantum Mechanics for Device Engineers and Physicists (Ferry)
+│
+├── Quantum Information & Measurement
+│   ├── Quantum Information Science (Manenti/Motta)
+│   └── Quantum Measurement: Theory and Practice (Siddiqui)
+│
+└── Study Aids
+    └── Problem Solving in Quantum Mechanics (Cahay and Bandyopadhyay)
+```
+
 ### In Case You Want Some Fun Open Access Interactive Tools to Try:
 - [Free Education](https://ojb-quantum.github.io/Free-Education)
 
@@ -42,19 +63,141 @@ Stimulus <-- Latin stimulus (“goad, spur”). Response <-- Latin respondēre (
 
 ### Map of Mathematics & Their Prerequisites:
 
-![image](https://github.com/user-attachments/assets/833be6b8-6a9d-4602-a69c-63096bb91dac)
+```mermaid
+graph TD
+    A[Start Learning Mathematics]
+    B[Logic]
+    C[Sets and Maps]
+    D[Numbers]
+    E[Real Numbers]
+    F[Complex Numbers]
+    G[Real Analysis]
+    H[Linear Algebra]
+    I[Algebra]
+    J[Abstract Linear Algebra]
+    K[Multivariable Calculus]
+    L[Ordinary Differential Equations]
+    M[Complex Analysis]
+    N[Functional Analysis]
+    O[Measure Theory]
+    P[Multidimensional Integration]
+    Q[Probability Theory]
+    R[Fourier Transform]
+    S[Unbounded Operators]
+    T[Hilbert Spaces]
+    U[Distributions]
+    V[Manifolds]
 
-Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathematics (2023)  
+    A --> B
+    A --> C
+    A --> D
+    B --> G
+    C --> G
+    D --> E
+    D --> F
+    E --> G
+    F --> M
+    G --> H
+    H --> G
+    G --> K
+    G --> L
+    G --> M
+    H --> I
+    H --> J
+    H --> K
+    K --> N
+    K --> O
+    K --> P
+    L --> Q
+    M --> R
+    N --> S
+    N --> T
+    N --> U
+    O --> Q
+    P --> Q
+    P --> V
+    Q --> V
+    R --> Q
+
+    %% Group 1: Formerly Yellow (Foundation) - Now Medium Blue
+    style B fill:#2E64FE,stroke:#153E7E,stroke-width:2px,color:#FFFFFF
+    style C fill:#2E64FE,stroke:#153E7E,stroke-width:2px,color:#FFFFFF
+    style D fill:#2E64FE,stroke:#153E7E,stroke-width:2px,color:#FFFFFF
+    style E fill:#2E64FE,stroke:#153E7E,stroke-width:2px,color:#FFFFFF
+    style F fill:#2E64FE,stroke:#153E7E,stroke-width:2px,color:#FFFFFF
+
+    %% Group 2: Formerly Light Green (Core) - Now Dark Blue
+    style A fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+    style G fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+    style H fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+    style I fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+    style J fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+    style K fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+    style L fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+    style M fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+
+    %% Group 3: Formerly Dark Green (Advanced) - Now Very Dark/Navy Blue
+    style N fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+    style O fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+    style P fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+    style Q fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+    style R fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+    style S fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+    style T fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+    style U fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+    style V fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+```
+
+Adapted from: *Learn with the Map of Mathematics*, The Bright Side of Mathematics (2023)  
 <https://youtu.be/ljGSId-uHw8?si=xKNup3hOVsWC6uTv&t=200>
 
 --- 
 
 ### Strategic Approach to Solving Mathematical, Physical, & Engineering Problems Manually by (O.J.B.):  
 
-![newplot](https://github.com/user-attachments/assets/0077e857-bf88-42dd-85dd-a6b4e36ca7d6)
-
 
 ![Untitled](https://github.com/user-attachments/assets/56b1a67f-ce27-4f0f-b018-2f4145e32af5)
+
+
+```mermaid
+graph TD
+    A[Highlight Key Terms]
+    B[Record Linguistic Definitions]
+    C[Locate Required Equations]
+    D[Convert Units & Formulas]
+    E[List or Tabulate Assumed/Ignored Terms]
+    F[Script into LaTeX/Markdown]
+    G[Import the LaTeX Script in Google Colab]
+    H[Solve Problems Sequentially with Python]
+    I[Double-check with Textbooks]
+    J[Validate with Research Literature]
+
+    %% Connections
+    A --> B
+    A --> C
+    C --> D
+    C --> E
+    E --> F
+    F --> G
+    G --> H
+    H --> I
+    H --> J
+
+    %% Define Blue Classes (Medium, Dark, Navy)
+    classDef mediumBlue fill:#2E64FE,stroke:#153E7E,stroke-width:2px,color:#FFFFFF
+    classDef darkBlue fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+    classDef navyBlue fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+
+    %% Apply Styles based on flow depth
+    %% Top Level: Initial Analysis
+    class A,B,C mediumBlue
+    
+    %% Middle Level: Formatting & Setup
+    class D,E,F,G darkBlue
+    
+    %% Bottom Level: Execution & Verification
+    class H,I,J navyBlue
+```
 
 
 ---
@@ -82,6 +225,21 @@ graph TD
     J --> K[Generate LaTeX/Markdown Scripts]
     K --> L[Find Supporting Literature]
     L --> M((End: Verify Open Access))
+
+    %% Define Blue Classes (Medium, Dark, Navy)
+    classDef mediumBlue fill:#2E64FE,stroke:#153E7E,stroke-width:2px,color:#FFFFFF
+    classDef darkBlue fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+    classDef navyBlue fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+
+    %% Apply Styles
+    %% Phase 1: Search & Filter (Medium Blue)
+    class A,B,C,D,G mediumBlue
+    
+    %% Phase 2: Organization (Dark Blue)
+    class E,F,H darkBlue
+    
+    %% Phase 3: AI Processing & Output (Navy Blue)
+    class I,J,K,L,M navyBlue
 ```
 
 ---
@@ -341,6 +499,16 @@ Mathematical & Physical Spaces
         └─ Topological quantum computation (anyons)
 ```
 
+> Acronyms
+> 
+> SU(n) = Special unitary group of degree n
+>
+> SO(n) = Special orthogonal group of degree n
+>
+> U(1)  = Unitary group of degree 1 (phase rotations)
+
+
+
 ### How the Categorized Mathematical Spaces Connect
 
 ```
@@ -550,6 +718,7 @@ Hyper-operations
 | Differential Geometric Algebra | [Crucial Flow Research](https://youtu.be/7hlDRLEhc8o?si=fShumaSE7mZhBJTU) |
 | Advanced Mathematics | [The Bright Side of Mathematics](https://www.youtube.com/@brightsideofmaths/playlists) |
 | More Advanced Mathematics | [Cofiber](https://www.youtube.com/@cofiber/videos) |
+| Lessons on Prerequisitcs for Quantum & Related Topcs | [XylyXylyX](https://www.youtube.com/@XylyXylyX/playlists) |
 | Spinors Playlist | [eigenchris](https://youtube.com/playlist?list=PLJHszsWbB6hoOo_wMb0b6T44KM_ABZtBs&si=RvKpojxj7defv5SQ) |
 | Weinberg's Lectures on Quantum Mechanics Playlist | [Physics Daemon](https://youtube.com/playlist?list=PLy8F8dLvbGgAzZOng2Gc5OLpU1VRLh9jL&si=FEdUbLUEUK-UKnHi) |
 | Thermodynamics & Statistical Physics Playlist | [Pazzy Boardman](https://youtube.com/playlist?list=PLVjZPwRzdu40ZWkRxvwjan9ZyIbVexzOK&si=EtjiJQyTwqjiolas) |
@@ -558,6 +727,8 @@ Hyper-operations
 | QuTech360 Seminars | [QuTech Academy](https://youtube.com/playlist?list=PL5jmbd6SJYnOyp8OP-ZME8GgTlLFXbrqO&si=Dsfc8N0bf5hbIQbx) |
 | Quantum Playlists  | [Nick Heumann University](https://www.youtube.com/@NickHeumannUniversity/playlists) |
 | STEM Full Course Playlists | [Academic Lesson](https://www.youtube.com/@AcademicLesson/playlists) |
+
+## Shortcuts in Mathematics and Physics: 
 
 |  |
 |-|
@@ -572,6 +743,8 @@ Hyper-operations
 | [Integration Using The Substitution Rule](https://youtu.be/sci1pls4Lc8) |
 | [Partial Derivatives - Multivariable Calculus](https://youtu.be/JAf_aSIJryg) |
 | [Vector Fields, Divergence, and Curl](https://youtu.be/2qxxd68fZng) |
+| [Mathematical Foundations of Quantum Mechanics](https://youtube.com/playlist?list=PLfpEutbbtVF_nyv6F03uPxWhyV7j2-2dN&si=SHkQuQ_gwtRXDMRp) |
+| [Mastering Quantum Mechanics Through Problems](https://youtube.com/playlist?list=PLfpEutbbtVF_LXu14cOz8f7Jd08gz73El&si=3rVG7JCdqw_hctbj) |
 
 --- 
 
@@ -1015,8 +1188,119 @@ U(1)  = Unitary group of degree 1 (phase rotations)
 
 References
 
-1.  Hepburn, B. and Andersen, H. (2015). *Scientific Method - Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/scientific-method>
-2.  Jacob, S.L. and Goold, J. (2025). *The response of a quantum system to a collision: an autonomous derivation of Kubo's formula*. [Preprint]. <https://arxiv.org/pdf/2505.03686>
-3.  Watson, A.B., Margetis, D. and Luskin, M. (2023). *Mathematical aspects of the Kubo formula for electrical conductivity with dissipation*. [Preprint]. <https://arxiv.org/pdf/2304.04303>
-4.  NIST/SEMATECH (2022). *4.3.1. What is design of experiments (DOE)?*. NIST/SEMATECH e-Handbook of Statistical Methods. <https://www.itl.nist.gov/div898/handbook/pmd/section3/pmd31.htm>
-5.  Reiss, J. and Sprenger, J. (2020). *Scientific Objectivity - Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/scientific-objectivity/>
+### 0. Initial aspects
+
+1. Hepburn, B. and Andersen, H., 2015. *Scientific method*. In: E.N. Zalta (ed.) *The Stanford Encyclopedia of Philosophy* (Fall 2015 ed.). Stanford, CA: Metaphysics Research Lab, Stanford University. Available at: [https://plato.stanford.edu/entries/scientific-method/](https://plato.stanford.edu/entries/scientific-method/). ([Stanford Encyclopedia of Philosophy][1])
+
+2. Jacob, S.L. and Goold, J., 2025. *The response of a quantum system to a collision: an autonomous derivation of Kubo’s formula*. *Journal of Physics A: Mathematical and Theoretical* (in press). Preprint available at: [https://arxiv.org/abs/2505.03686](https://arxiv.org/abs/2505.03686). ([arXiv][2])
+
+3. Watson, A.B., Margetis, D. and Luskin, M., 2023. *Mathematical aspects of the Kubo formula for electrical conductivity with dissipation*. *Japan Journal of Industrial and Applied Mathematics*, 40(3), pp.1765–1795. Preprint available at: [https://arxiv.org/abs/2304.04303](https://arxiv.org/abs/2304.04303). ([SpringerLink][3])
+
+4. NIST/SEMATECH, 2013. *4.3.1. What is design of experiments (DOE)?* In: *NIST/SEMATECH e‑Handbook of Statistical Methods*. Gaithersburg, MD: National Institute of Standards and Technology. Available at: [https://www.itl.nist.gov/div898/handbook/pmd/section3/pmd31.htm](https://www.itl.nist.gov/div898/handbook/pmd/section3/pmd31.htm). ([NIST ITL][4])
+
+5. Reiss, J. and Sprenger, J., 2020. *Scientific objectivity*. In: E.N. Zalta (ed.) *The Stanford Encyclopedia of Philosophy* (Winter 2020 ed.). Stanford, CA: Metaphysics Research Lab, Stanford University. Available at: [https://plato.stanford.edu/entries/scientific-objectivity/](https://plato.stanford.edu/entries/scientific-objectivity/). ([Stanford Encyclopedia of Philosophy][5])
+
+### 1. Field & potential equations
+
+6. Stanford University, Department of Mathematics, n.d. *Green’s functions.* Math 220B course notes, Stanford University. Available at: [https://web.stanford.edu/class/math220b/handouts/greensfcns.pdf](https://web.stanford.edu/class/math220b/handouts/greensfcns.pdf) (Accessed 8 December 2025). ([Stanford University][1])
+   – Covers Green’s functions for Poisson, Laplace, Helmholtz and related PDEs → Poisson (#5), Laplace (#3), Green’s functions (#9), Helmholtz (#18).
+
+7. Gray, F., 2018. ‘Nonlinear electrostatics: the Poisson–Boltzmann equation.’ *European Journal of Physics*, 39(5), 053001. Preprint available at: [https://arxiv.org/abs/1808.08338](https://arxiv.org/abs/1808.08338) (Accessed 8 December 2025).
+   – Focused on Poisson–Boltzmann theory and screening, with clear derivation and physical interpretation → Poisson–Boltzmann (#21), coupling to Poisson (#5).
+
+8. Wikipedia, 2024. ‘Poisson’s equation.’ *Wikipedia, the free encyclopedia.* Available at: [https://en.wikipedia.org/wiki/Poisson%27s_equation](https://en.wikipedia.org/wiki/Poisson%27s_equation) (Accessed 8 December 2025). ([DAMP][2])
+   – Concise summary of Poisson’s equation, boundary conditions, and applications → Poisson (#5) and links to Laplace and Green’s‑function solutions.
+
+9. Wikipedia, 2024. ‘Maxwell’s equations.’ *Wikipedia, the free encyclopedia.* Available at: [https://en.wikipedia.org/wiki/Maxwell%27s_equations](https://en.wikipedia.org/wiki/Maxwell%27s_equations) (Accessed 8 December 2025).
+   – Good overview of the differential and integral forms, wave equation, and Poynting vector → Maxwell (#14), wave equation (#2), Poynting vector & theorem (#19).
+
+10. Hestenes, D., 2003. ‘Oersted Medal Lecture 2002: Reforming the mathematical language of physics.’ *American Journal of Physics*, 71(2), pp.104–121. Author’s OA version available at: [http://geocalc.clas.asu.edu/pdf/OerstedMedalLecture.pdf](http://geocalc.clas.asu.edu/pdf/OerstedMedalLecture.pdf) (Accessed 8 December 2025).
+    – Introduces geometric (Clifford) algebra as a unifying language for Maxwell, Dirac, and wave equations → Geometric algebra (#17), Maxwell (#14), Dirac (#29, #30).
+
+---
+
+### 2. Diffusion/ transport family
+
+11. Wikipedia, 2024. ‘Fick’s laws of diffusion.’ *Wikipedia, the free encyclopedia.* Available at: [https://en.wikipedia.org/wiki/Fick%27s_laws_of_diffusion](https://en.wikipedia.org/wiki/Fick%27s_laws_of_diffusion) (Accessed 8 December 2025). ([Wikipedia][3])
+    – Standard reference for Fick’s first and second laws, diffusion equation, and relation to random walks → Fick’s laws (#11, #12), heat/diffusion equation (#4).
+
+12. Gentle introduction via PDEs: Stanford University, Department of Mathematics, n.d. *The heat equation.* Course notes (Math PDE sequence). Available at: [https://web.stanford.edu/class/math220b/handouts/HeatEqn.pdf](https://web.stanford.edu/class/math220b/handouts/HeatEqn.pdf) (Accessed 8 December 2025). ([arXiv][4])
+    – Derives the heat equation as a prototype parabolic PDE and links it to diffusion → Heat equation (#4) and general diffusion/transport perspective.
+
+13. Jung, I. & Selberherr, S., 2013. ‘Determination of drift–diffusion parameters for semiconductor device simulation.’ *Journal of Computational Electronics*, 12(4), pp.701–708. Author OA version: [https://arxiv.org/abs/1305.4861](https://arxiv.org/abs/1305.4861) (Accessed 8 December 2025).
+    – Gives a device‑physics take on drift–diffusion transport and parameter extraction → Drift–diffusion currents (#35), mean free path and transport coefficients (#13).
+
+14. Wikipedia, 2024. ‘Navier–Stokes equations.’ *Wikipedia, the free encyclopedia.* Available at: [https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations) (Accessed 8 December 2025).
+    – High‑level description of Navier–Stokes, derivation from conservation laws, and various limits → Navier–Stokes (#10), connection to diffusion and continuity (#15).
+
+15. Hosseini, S.A., Boivin, P., Thévenin, D. & Karlin, I.V., 2024. ‘Lattice Boltzmann methods for combustion applications.’ *Progress in Energy and Combustion Science*, 102, 101140. Open‑access article at: [https://doi.org/10.1016/j.pecs.2023.101140](https://doi.org/10.1016/j.pecs.2023.101140) (Accessed 8 December 2025).
+    – Broad review including fundamentals of the lattice Boltzmann method and its continuum (Navier–Stokes) limit → Lattice Boltzmann (#43) and its relation to Navier–Stokes (#10).
+
+---
+
+### 3. Oscillators, quantum fields & tunneling
+
+16. Essler, F.H.L., 2023. *Lecture Notes for Quantum Mechanics.* University of Oxford. Available at: [https://www-thphys.physics.ox.ac.uk/people/FabianEssler/QM/QM2022.pdf](https://www-thphys.physics.ox.ac.uk/people/FabianEssler/QM/QM2022.pdf) (Accessed 8 December 2025).
+    – Systematic derivation of time‑dependent and time‑independent Schrödinger equations, harmonic oscillator, and perturbation theory → TDSE (#25), TISE (#27), QHO (#26), anharmonic oscillator (#32).
+
+17. Chew, W.C., 2013. *Quantum Mechanics Made Simple: Lecture Notes.* Purdue University. Available at: [https://engineering.purdue.edu/wcchew/course/QMAll20130917.pdf](https://engineering.purdue.edu/wcchew/course/QMAll20130917.pdf) (Accessed 8 December 2025).
+    – Gentle yet thorough notes emphasizing physical intuition and simple models such as harmonic and anharmonic oscillators → QHO (#26), anharmonic potentials (#32), Ehrenfest connections (#28).
+
+18. Williams, B., 2017. ‘Quantum harmonic oscillator and generalized Hermite polynomials.’ *arXiv preprint* arXiv:1701.02767. Available at: [https://arxiv.org/abs/1701.02767](https://arxiv.org/abs/1701.02767) (Accessed 8 December 2025). ([arXiv][5])
+    – Focuses mathematically on QHO eigenfunctions and generalizations → Deepens QHO (#26) and connects to more exotic oscillator models (#32).
+
+19. Haouam, I., 2023. ‘Ehrenfest’s theorem for the Dirac equation in curved spacetime.’ *arXiv preprint* arXiv:2309.16360. Available at: [https://arxiv.org/abs/2309.16360](https://arxiv.org/abs/2309.16360) (Accessed 8 December 2025).
+    – Explicitly treats Ehrenfest’s theorem in relativistic quantum mechanics → Ehrenfest’s theorem (#28), Dirac equations (#29, #30).
+
+20. Makris, N., 2024. ‘A real‑valued description of quantum mechanics with classical channels.’ *arXiv preprint* arXiv:2406.05484. Available at: [https://arxiv.org/abs/2406.05484](https://arxiv.org/abs/2406.05484) (Accessed 8 December 2025).
+    – Re‑derives Schrödinger‑type dynamics in a real‑valued framework and discusses classical/quantum correspondence → Conceptual support around Schrödinger equations (#25, #27) and quantum–classical links near Ehrenfest’s theorem (#28).
+
+21. Dereziński, J. & Gérard, C., 2017. *Mathematics of Quantization and Quantum Fields.* Lecture Notes in Physics 2157 (open version). Chapter on perturbation theory and Fermi’s Golden Rule. OA PDF: [https://ndl.ethernet.edu.et/bitstream/123456789/63327/1/157.pdf](https://ndl.ethernet.edu.et/bitstream/123456789/63327/1/157.pdf) (Accessed 8 December 2025).
+    – Rigorous treatment of quantum fields and Fermi’s Golden Rule → Fermi’s Golden Rule (#47), Green’s functions in quantum propagation (#9).
+
+22. Schmeissner, R., Thiel, V., Jacquard, C., Fabre, C. & Treps, N., 2014. ‘Analysis and filtering of phase noise in an optical frequency comb at the quantum limit to improve timing measurements.’ *Optics Letters*, 39(12), pp.3603–3606. OA arXiv version: [https://arxiv.org/abs/1401.3528](https://arxiv.org/abs/1401.3528) (Accessed 8 December 2025).
+    – Real experimental context where quantum‑limited noise, oscillators, and comb modes meet → Oscillators/resonances, precision & noise branch, especially optical shot‑noise SQL (#39).
+
+23. Wang, K. et al., 2019. *Multidimensional photonics in synthetic lattices.* PhD thesis, Australian National University. OA thesis: [https://openresearch-repository.anu.edu.au/bitstreams/29581b51-042a-4d07-ab86-132b92be082a/download](https://openresearch-repository.anu.edu.au/bitstreams/29581b51-042a-4d07-ab86-132b92be082a/download) (Accessed 8 December 2025).
+    – Explores photonic lattices, band structures and synthetic dimensions, with tight links to wave equations, resonances and quantum walks → Bridges oscillator / resonator networks to lattice models and QLB (#46).
+
+24. Succi, S., 2015. ‘Lattice Boltzmann 2038.’ *EPL (Europhysics Letters)*, 109, 50001. OA version: [https://doi.org/10.1209/0295-5075/109/50001](https://doi.org/10.1209/0295-5075/109/50001) (Accessed 8 December 2025).
+    – Visionary overview of lattice Boltzmann and its quantum variants → Connects classical LBM (#43) and quantum lattice Boltzmann (#46) to future quantum simulators.
+
+---
+
+### 4. Precision, quantum noise & measurement limits
+
+25. Caves, C.M., 1981. ‘Quantum‑mechanical noise in an interferometer.’ *Physical Review D*, 23(8), pp.1693–1708. OA copy: [https://www.rle.mit.edu/cua_pub/8.422/Reading%20Material/caves_PRD.pdf](https://www.rle.mit.edu/cua_pub/8.422/Reading%20Material/caves_PRD.pdf) (Accessed 8 December 2025).
+    – Classic derivation of the interferometric standard quantum limit and introduction of squeezed states → Free‑mass SQL (#41), optical shot‑noise SQL (#39), Heisenberg vs. SQL in interferometers (#44).
+
+26. Clerk, A.A., Devoret, M.H., Girvin, S.M., Marquardt, F. & Schoelkopf, R.J., 2010. ‘Introduction to quantum noise, measurement, and amplification.’ *Reviews of Modern Physics*, 82(2), pp.1155–1208. OA PDF: [https://clerkgroup.uchicago.edu/PDFfiles/RMP2010.pdf](https://clerkgroup.uchicago.edu/PDFfiles/RMP2010.pdf) (Accessed 8 December 2025).
+    – Canonical modern review on quantum noise spectra, linear response, and amplifier limits → Amplifier SQL (#40), measurement‑noise product SQL (#42), Heisenberg limit (#44).
+
+27. King, S.K., 1996. ‘Quantum mechanical noise in a Michelson interferometer.’ NASA Technical Memorandum 107585. OA report: [https://ntrs.nasa.gov/api/citations/19960025005/downloads/19960025005.pdf](https://ntrs.nasa.gov/api/citations/19960025005/downloads/19960025005.pdf) (Accessed 8 December 2025).
+    – Applies quantum‑noise ideas to real interferometer design → Practical elaboration of free‑mass displacement SQL (#41) and optical shot noise (#39).
+
+28. Braginsky, V.B. & Khalili, F.Y., 1992. *Quantum Measurement.* Cambridge University Press. OA individual chapters collected in: *Measurements in Quantum Mechanics* (InTechOpen). See, e.g.,: Summarized OA volume *Measurements in Quantum Mechanics*, 2012. Available at: [https://www.issp.ac.ru/ebooks/books/open/Measurements_in_Quantum_Mechanics.pdf](https://www.issp.ac.ru/ebooks/books/open/Measurements_in_Quantum_Mechanics.pdf) (Accessed 8 December 2025).
+    – Foundational monograph on quantum measurements, back‑action, and SQL in oscillators and interferometers → Deep background for all SQL entries (#39–#42) and Heisenberg limit (#44).
+
+29. Balmaseda, A., 2022. *Quantum Control at the Boundary.* PhD dissertation (preprint). *arXiv preprint* arXiv:2201.05480. Available at: [https://arxiv.org/abs/2201.05480](https://arxiv.org/abs/2201.05480) (Accessed 8 December 2025).
+    – Dissertational perspective on controlling quantum systems via boundary conditions; discusses limits to control and measurement → Conceptual complement to your “precision & noise” subtree and quantum‑limited control schemes.
+
+---
+
+### 5. Magnetization dynamics and spintronics
+
+30. Lakshmanan, M., 2011. ‘The fascinating world of the Landau–Lifshitz–Gilbert equation: an overview.’ In: *Nonlinear Dynamics: Integrability, Chaos and Patterns.* OA version: [https://arxiv.org/pdf/1101.1005.pdf](https://arxiv.org/pdf/1101.1005.pdf) (Accessed 8 December 2025).
+    – Pedagogical overview of LLG, solitons, and nonlinear dynamics → Effective field (H_\mathrm{eff}) (#36), LLG equation (#33), links to nonlinear oscillators (#23).
+
+31. Xu, F. et al., 2023. ‘Unified framework of the microscopic Landau–Lifshitz–Gilbert equation and its application to skyrmion dynamics.’ *arXiv preprint* arXiv:2310.08807. Available at: [https://arxiv.org/abs/2310.08807](https://arxiv.org/abs/2310.08807) (Accessed 8 December 2025).
+    – Derives LLG from nonequilibrium Green’s functions, giving microscopic expressions for damping and torques → Refines effective‑field and damping structure for LLG/LLGS (#33, #36, #45).
+
+32. Ralph, D.C. & Stiles, M.D., 2008. ‘Spin transfer torques.’ *Journal of Magnetism and Magnetic Materials*, 320(7), pp.1190–1216. OA arXiv version: [https://arxiv.org/abs/0711.4608](https://arxiv.org/abs/0711.4608) (Accessed 8 December 2025).
+    – Tutorial review of spin‑transfer torque physics in multilayers → LLGS with STT (#45), coupling of drift–diffusion (#35) to magnetization dynamics (#33).
+
+33. Saradzhev, F.M., Khanna, F.C., Kim, S.P. & de Montigny, M., 2006. ‘General form of magnetization damping: magnetization dynamics of a spin system evolving nonadiabatically and out of equilibrium.’ *arXiv preprint* arXiv:cond-mat/0609431. Available at: [https://arxiv.org/abs/cond-mat/0609431](https://arxiv.org/abs/cond-mat/0609431) (Accessed 8 December 2025).
+    – Extends LLG to more general damping forms using quantum density‑matrix methods → Links your effective‑field and damping functionals (#36) to quantum open‑system models.
+
+34. Wikipedia, 2024. ‘Landau–Lifshitz–Gilbert equation.’ *Wikipedia, the free encyclopedia.* Available at: [https://en.wikipedia.org/wiki/Landau%E2%80%93Lifshitz%E2%80%93Gilbert_equation](https://en.wikipedia.org/wiki/Landau%E2%80%93Lifshitz%E2%80%93Gilbert_equation) (Accessed 8 December 2025).
+    – Compact overview of LLG, LLGS and spin‑torque extensions, with references to original literature → LLG (#33), LLGS with STT (#45), effective field construction (#36).
