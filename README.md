@@ -957,6 +957,10 @@ Magnetization dynamics and spintronics
 
 Acronyms: 
 
+dB = decibel
+
+NF = Noise Figure
+
 PDE = Partial differential equation
 
 EM = Electromagnetic / electromagnetism
