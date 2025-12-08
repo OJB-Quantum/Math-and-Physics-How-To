@@ -48,7 +48,6 @@
 |46 | Quantum lattice Boltzmann equation (QLB, schematic) | $\psi_i(\mathbf{x}+\mathbf{c}_i \Delta t, t+\Delta t) = \sum_j U_{ij}(\mathbf{x},t)\,\psi_j(\mathbf{x},t)$ | Lattice‑based quantum evolution; discrete real‑space solver for Schrödinger/ Dirac | $\psi_i$ quantum amplitudes associated with discrete velocities or internal states, $U_{ij}$ unitary “collision” operator constructed so that the continuum limit reproduces Schrödinger or Dirac equations. Implementable on classical hardware and naturally suited to quantum computers as a quantum walk/ quantum circuit. |
 |47 | Fermi’s Golden Rule | $W_{i\to f} = \dfrac{2\pi}{\hbar}\,\big \lvert \langle f \lvert \hat{H}' \lvert i\rangle\big \lvert ^2\,\rho(E_f)$ | Transition rate in time‑dependent perturbation theory; quantum scattering, emission, absorption | $W_{i\to f}$ transition rate from initial state $\lvert i \rangle$ to final states near energy $E_f$, $\hat{H}'$ perturbing Hamiltonian, $\rho(E_f)$ density of final states at $E_f$. Assumes weak perturbation, long times, and quasi‑continuous spectrum. |
 
-
 ---
 
 | Type of Gain | Definition (Linear Scale) | Definition (dB Scale) | Notes/ Context |
@@ -57,3 +56,69 @@
 | Voltage Gain (Low‑Frequency/ General Amplifier)  | $(G_v = \dfrac{V_\text{out}}{V_\text{in}})$      | $(G_{v,\text{dB}} = 20\log_{10}\!\left \lvert G_v\right \lvert = 20\log_{10}\!\left \lvert \dfrac{V_\text{out}}{V_\text{in}}\right \lvert )$ | Common in audio and low‑frequency instrumentation. Factor 20 because $(P \propto \lvert V \lvert ^2)$ for fixed load impedance. |
 | Current Gain                                      | $(G_i = \dfrac{I_\text{out}}{I_\text{in}})$      | $(G_{i,\text{dB}} = 20\log_{10}\!\left \lvert G_i\right \lvert = 20\log_{10}\!\left \lvert \dfrac{I_\text{out}}{I_\text{in}}\right \lvert )$ | For true current amplifiers (current‑in, current‑out). Not used for transimpedance stages.                       |
 | Transimpedance (Transresistance) Gain             | $(Z_t = \dfrac{V_\text{out}}{I_\text{in}})$      | $(Z_{t,\text{dB}\,\Omega} = 20\log_{10}\!\left(\dfrac{ \lvert Z_t \lvert}{1~\Omega}\right) \approx 20\log_{10}\!\left \lvert \dfrac{V_\text{out}}{I_\text{in}}\right \lvert)$ | Key metric for photodiode and sensor front‑ends (current‑in, voltage‑out). Sometimes reported in dBΩ.            |
+
+1. RF Power Gain
+
+   * Typically expressed in decibels (dB):
+
+     $$G_{p,\mathrm{dB}} = 10 \log_{10}!\left(\frac{P_{\mathrm{out}}}{P_{\mathrm{in}}}\right).$$
+
+   * Here $P_{\mathrm{out}}$ and $P_{\mathrm{in}}$ are average powers at the defined reference impedance (often $50~\Omega$ in RF systems).
+
+   * Widely used in radio-frequency and microwave engineering, antenna design, and link-budget calculations, where actual power transfer is the main concern.
+
+2. Voltage Gain vs. Power Gain
+
+   * In low-frequency electronics (audio, instrumentation, op-amp circuits), voltage gain is often the primary specification, because signals are sensed as voltages.
+   * When the source and load impedances are equal and fixed,
+
+     $$P \propto V^{2},$$
+
+     so the decibel expression for voltage gain becomes
+
+     $$G_{v,\mathrm{dB}} = 20 \log_{10}!\left(\frac{V_{\mathrm{out}}}{V_{\mathrm{in}}}\right),$$
+
+     and this 20-log relationship is consistent with the 10-log power ratio under the equal-impedance assumption.
+   * If the impedances at input and output are different, $20 \log_{10}(V_{\mathrm{out}}/V_{\mathrm{in}})$ does *not* directly equal the power gain in dB; the impedance change must be accounted for if power gain is what you care about.
+
+3. When to Use Which Formula
+
+   * **Power-based gain (10 log):** Use
+
+     $$G_{\mathrm{dB}} = 10 \log_{10}!\left(\frac{P_{\mathrm{out}}}{P_{\mathrm{in}}}\right)$$
+
+     whenever you are comparing *powers* (e.g., RF power transfer, link budgets, amplifier power gain), regardless of the actual impedance values.
+   * **Voltage-based gain (20 log):** Use
+
+     $$G_{\mathrm{dB}} = 20 \log_{10}!\left(\frac{V_{\mathrm{out}}}{V_{\mathrm{in}}}\right)$$
+
+     when you are comparing voltage amplitudes (e.g., op-amp voltage gain, sensor front-ends), typically under the assumption that input and output are referred to the same characteristic impedance if you want the dB value to correspond to a power ratio.
+   * A similar 20-log rule applies for current gain:
+
+     $$G_{i,\mathrm{dB}} = 20 \log_{10}!\left(\frac{I_{\mathrm{out}}}{I_{\mathrm{in}}}\right).$$
+
+4. Alternate Notations
+
+   * In many textbooks and datasheets, you may see:
+
+     * $G$ or $G_p$ for power gain,
+     * $A_v$ for voltage gain,
+     * $A_i$ for current gain,
+     * $Z_t$ for transimpedance gain.
+   * The dB conversion always follows the same rule:
+
+     * $10 \log_{10}$ for *power* ratios,
+     * $20 \log_{10}$ for *field* or *amplitude* ratios (voltage, current), with attention to impedance if you want to interpret them as power ratios.
+   * Always check the context (what quantity is being compared, and at what impedance) to decide whether 10-log or 20-log is appropriate.
+
+### Wrap-up context
+
+These gain definitions underpin electronic amplifier design, signal-chain analysis, and communications-system engineering. Correctly distinguishing between voltage, current, and power gain—and applying the proper dB formula with the right impedance assumptions—is essential for accurate specification and comparison of amplifiers.
+
+### Other key RF-amplifier parameters
+
+* **Noise Figure (NF):** Quantifies how much an amplifier degrades the signal-to-noise ratio; formally, NF is the ratio of input SNR to output SNR, often expressed in dB.
+* **Bandwidth:** The range of frequencies over which the amplifier meets its specified gain and performance (often defined between the $-3~\text{dB}$ gain points).
+* **Linearity:** Describes how well the amplifier preserves the proportionality between input and output; poor linearity leads to distortion and intermodulation products.
+
+RF amplifiers are further categorized by operating class (Class A, B, AB, C, etc.) and by role (low-noise amplifier, driver amplifier, power amplifier, etc.), but all use these same gain and dB conventions.
