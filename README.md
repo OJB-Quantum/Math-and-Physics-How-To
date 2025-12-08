@@ -741,8 +741,7 @@ Stimulus --> Response Atlas
 
 ### Table of Critical Equations to Know:
 
-<img width="6306" height="auto" alt="mathpix 2025-12-07 12-55-30" src="https://github.com/user-attachments/assets/a3c9abbb-db06-4372-85ff-9be17bb0072a" />
-
+<img width="6306" height="auto" alt="mathpix 2025-12-07 20-08-28" src="https://github.com/user-attachments/assets/2ffcbf6e-139a-43b2-915e-4f062b171b11" />
 
 ![mathpix 2025-01-31 08-10-54](https://github.com/user-attachments/assets/51407e67-ac04-47b7-a4a5-08f4336c8dd2)
 
