@@ -134,10 +134,49 @@ Adapted from: *Learn with the Map of Mathematics*, The Bright Side of Mathematic
 
 ### Strategic Approach to Solving Mathematical, Physical, & Engineering Problems Manually by (O.J.B.):  
 
-![newplot](https://github.com/user-attachments/assets/0077e857-bf88-42dd-85dd-a6b4e36ca7d6)
-
 
 ![Untitled](https://github.com/user-attachments/assets/56b1a67f-ce27-4f0f-b018-2f4145e32af5)
+
+
+```mermaid
+graph TD
+    A[Highlight Key Terms]
+    B[Record Linguistic Definitions]
+    C[Locate Required Equations]
+    D[Convert Units & Formulas]
+    E[List or Tabulate Assumed/Ignored Terms]
+    F[Script into LaTeX/Markdown]
+    G[Import the LaTeX Script in Google Colab]
+    H[Solve Problems Sequentially with Python]
+    I[Double-check with Textbooks]
+    J[Validate with Research Literature]
+
+    %% Connections
+    A --> B
+    A --> C
+    C --> D
+    C --> E
+    E --> F
+    F --> G
+    G --> H
+    H --> I
+    H --> J
+
+    %% Define Blue Classes (Medium, Dark, Navy)
+    classDef mediumBlue fill:#2E64FE,stroke:#153E7E,stroke-width:2px,color:#FFFFFF
+    classDef darkBlue fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+    classDef navyBlue fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+
+    %% Apply Styles based on flow depth
+    %% Top Level: Initial Analysis
+    class A,B,C mediumBlue
+    
+    %% Middle Level: Formatting & Setup
+    class D,E,F,G darkBlue
+    
+    %% Bottom Level: Execution & Verification
+    class H,I,J navyBlue
+```
 
 
 ---
