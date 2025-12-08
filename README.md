@@ -45,7 +45,7 @@ Quantum Mechanics Library
 │   └── Quantum Measurement: Theory and Practice (Siddiqui)
 │
 └── Study Aids
-    └── Problem Solving in Quantum Mechanics
+    └── Problem Solving in Quantum Mechanics (Cahay and Bandyopadhyay)
 ```
 
 ### In Case You Want Some Fun Open Access Interactive Tools to Try:
