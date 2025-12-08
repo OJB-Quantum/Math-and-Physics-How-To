@@ -210,11 +210,13 @@ Inspired by: Gisin, Indeterminism in Physics and Intuitionistic Mathematics, Syn
 | Category | Examples | Origin | Usage |
 |-|-|-|-|
 | Pure mathematical spaces                  | Hilbert, Banach, Sobolev, manifold  | Math only                  | Foundations, proofs, structures  |
-| Mathematical spaces used in physics       | Phase space, Fock space, Fourier    | Math → adopted by physics  | Quantum mechanics, optics        |
-| Physical spaces expressed mathematically  | Configuration space, Quantum Fourier Transform field     | Physics → formalized by math | Physical interpretation layers   |
+| Mathematical spaces used in physics       | Phase space, Fock space, Fourier, Minkowski spacetime    | Math → adopted by physics  | Quantum mechanics, optics, relativity        |
+| Physical spaces expressed mathematically  | Configuration space, Quantum Fourier Transform field, spacetime manifolds (Minkowski, de Sitter, anti-de Sitter)     | Physics → formalized by math | Physical interpretation layers   |
+
 
 | Space Type | Core Structure | Physical Role |
 |-|-|-|
+| Euclidean space ℝⁿ          | Flat metric space with positive-definite inner product | Classical geometry, nonrelativistic configurations |
 | Hilbert space               | Inner-product, complete                   | Quantum states, unitaries, measurements         |
 | Phase space                 | Symplectic manifold (x,p)                 | Classical & quasi-quantum dynamics              |
 | Fourier space               | Dual frequency/momentum domain            | Spectra, band structure, transforms             |
@@ -226,6 +228,8 @@ Inspired by: Gisin, Indeterminism in Physics and Intuitionistic Mathematics, Syn
 | Tensor-product space        | Composite quantum system                  | Multiqubit states and correlations              |
 | k-space/Reciprocal space    | Momentum lattice                          | Crystalline solids, phonons, electrons          |
 | Path-integral space         | Functional trajectories                   | Quantum field theory                            |
+| Minkowski spacetime         | 4D pseudo-Riemannian manifold with metric signature (−,+,+,+) | Special relativity, flat-space quantum field theory |
+
 
 
 ```
@@ -274,7 +278,8 @@ Mathematical & Physical Spaces
 │   ├─ 3.4 Symplectic Vector Spaces
 │   │   └─ Sp(2n) transformations (Gaussian optics, bosonic modes)
 │   └─ 3.5 Riemannian & Pseudo-Riemannian Manifolds
-│       ├─ Curved space-time
+│       ├─ Minkowski spacetime (flat special-relativistic space-time)
+│       ├─ Curved space-time (general relativity)
 │       └─ Quantum fields in curved backgrounds
 │
 ├─ 4. Statistical, Information, & Probability Spaces
@@ -309,7 +314,8 @@ Mathematical & Physical Spaces
 │   │   └─ Quantum gates, rotations
 │   ├─ 6.2 Representation Spaces
 │   │   ├─ Irreducible representations (irreps)
-│   │   └─ Angular momentum, Clebsch-Gordan
+│   │   ├─ Angular momentum, Clebsch-Gordan
+│   │   └─ Poincaré group representations on Minkowski spacetime
 │   ├─ 6.3 Projective Hilbert Space
 │   │   └─ Physical states modulo global phase
 │   └─ 6.4 Fock Space
@@ -327,7 +333,7 @@ Mathematical & Physical Spaces
     │   ├─ Sum over histories
     │   └─ Field trajectories as points in function space
     ├─ 7.4 Quantum Field Configuration Space
-    │   ├─ Fields φ(x) as infinite-dimensional points
+    │   ├─ Fields φ(x) on Minkowski or curved space-time as infinite-dimensional points
     │   └─ Renormalization flow spaces
     └─ 7.5 Category-Theoretic State Spaces
         ├─ Monoidal categories
@@ -369,6 +375,12 @@ Lie Group/Representation Spaces
 ├─ connects to Hilbert Space via unitary reps
 ├─ connects to Quantum Circuits via SU(2ⁿ)
 └─ connects to Geometry through SU(2)/SO(3) isomorphisms
+
+Minkowski Spacetime / Space-Time Manifolds
+├─ connects to Quantum Field Configuration Space as the flat background manifold
+├─ connects to Hilbert Space via relativistic quantum state spaces
+├─ connects to Lie Group/Representation Spaces through Poincaré group symmetries
+└─ connects to Fiber Bundles via gauge fields defined over space-time
 ```
 
 
