@@ -165,6 +165,21 @@ graph TD
     J --> K[Generate LaTeX/Markdown Scripts]
     K --> L[Find Supporting Literature]
     L --> M((End: Verify Open Access))
+
+    %% Define Blue Classes (Medium, Dark, Navy)
+    classDef mediumBlue fill:#2E64FE,stroke:#153E7E,stroke-width:2px,color:#FFFFFF
+    classDef darkBlue fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+    classDef navyBlue fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+
+    %% Apply Styles
+    %% Phase 1: Search & Filter (Medium Blue)
+    class A,B,C,D,G mediumBlue
+    
+    %% Phase 2: Organization (Dark Blue)
+    class E,F,H darkBlue
+    
+    %% Phase 3: AI Processing & Output (Navy Blue)
+    class I,J,K,L,M navyBlue
 ```
 
 ---
