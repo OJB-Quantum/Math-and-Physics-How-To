@@ -743,7 +743,8 @@ Stimulus --> Response Atlas
 
 <img width="6306" height="auto" alt="mathpix 2025-12-07 20-08-28" src="https://github.com/user-attachments/assets/2ffcbf6e-139a-43b2-915e-4f062b171b11" />
 
-![mathpix 2025-01-31 08-10-54](https://github.com/user-attachments/assets/51407e67-ac04-47b7-a4a5-08f4336c8dd2)
+<img width="6306" height="auto" alt="mathpix 2025-12-07 20-41-35" src="https://github.com/user-attachments/assets/95450996-7731-4d4b-9295-8872882e9f27" />
+
 
 Markdown script for the rendered tables above are available: [click here](https://github.com/OJB-Quantum/Math-and-Physics-How-To/blob/main/Critical%20Equations%20Table.md)
 
