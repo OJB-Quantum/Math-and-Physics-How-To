@@ -42,6 +42,86 @@ Stimulus <-- Latin stimulus (“goad, spur”). Response <-- Latin respondēre (
 
 ### Map of Mathematics & Their Prerequisites:
 
+```mermaid
+graph TD
+    A[Start Learning Mathematics]
+    B[Logic]
+    C[Sets and Maps]
+    D[Numbers]
+    E[Real Numbers]
+    F[Complex Numbers]
+    G[Real Analysis]
+    H[Linear Algebra]
+    I[Algebra]
+    J[Abstract Linear Algebra]
+    K[Multivariable Calculus]
+    L[Ordinary Differential Equations]
+    M[Complex Analysis]
+    N[Functional Analysis]
+    O[Measure Theory]
+    P[Multidimensional Integration]
+    Q[Probability Theory]
+    R[Fourier Transform]
+    S[Unbounded Operators]
+    T[Hilbert Spaces]
+    U[Distributions]
+    V[Manifolds]
+
+    A --> B
+    A --> C
+    A --> D
+    B --> G
+    C --> G
+    D --> E
+    D --> F
+    E --> G
+    F --> M
+    G --> H
+    H --> G
+    G --> K
+    G --> L
+    G --> M
+    H --> I
+    H --> J
+    H --> K
+    K --> N
+    K --> O
+    K --> P
+    L --> Q
+    M --> R
+    N --> S
+    N --> T
+    N --> U
+    O --> Q
+    P --> Q
+    P --> V
+    Q --> V
+    R --> Q
+
+    style A fill:#9ACD32,stroke:#333,stroke-width:2px
+    style B fill:#FFFF99,stroke:#333,stroke-width:2px
+    style C fill:#FFFF99,stroke:#333,stroke-width:2px
+    style D fill:#FFFF99,stroke:#333,stroke-width:2px
+    style E fill:#FFFF99,stroke:#333,stroke-width:2px
+    style F fill:#FFFF99,stroke:#333,stroke-width:2px
+    style G fill:#9ACD32,stroke:#333,stroke-width:2px
+    style H fill:#9ACD32,stroke:#333,stroke-width:2px
+    style I fill:#9ACD32,stroke:#333,stroke-width:2px
+    style J fill:#9ACD32,stroke:#333,stroke-width:2px
+    style K fill:#9ACD32,stroke:#333,stroke-width:2px
+    style L fill:#9ACD32,stroke:#333,stroke-width:2px
+    style M fill:#9ACD32,stroke:#333,stroke-width:2px
+    style N fill:#556B2F,stroke:#333,stroke-width:2px
+    style O fill:#556B2F,stroke:#333,stroke-width:2px
+    style P fill:#556B2F,stroke:#333,stroke-width:2px
+    style Q fill:#556B2F,stroke:#333,stroke-width:2px
+    style R fill:#556B2F,stroke:#333,stroke-width:2px
+    style S fill:#556B2F,stroke:#333,stroke-width:2px
+    style T fill:#556B2F,stroke:#333,stroke-width:2px
+    style U fill:#556B2F,stroke:#333,stroke-width:2px
+    style V fill:#556B2F,stroke:#333,stroke-width:2px
+```
+
 ![image](https://github.com/user-attachments/assets/833be6b8-6a9d-4602-a69c-63096bb91dac)
 
 Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathematics (2023)  
