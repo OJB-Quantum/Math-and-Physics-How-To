@@ -499,6 +499,16 @@ Mathematical & Physical Spaces
         └─ Topological quantum computation (anyons)
 ```
 
+> Acronyms
+> 
+> SU(n) = Special unitary group of degree n
+>
+> SO(n) = Special orthogonal group of degree n
+>
+> U(1)  = Unitary group of degree 1 (phase rotations)
+
+
+
 ### How the Categorized Mathematical Spaces Connect
 
 ```
