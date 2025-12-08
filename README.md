@@ -957,6 +957,24 @@ Magnetization dynamics and spintronics
 
 Acronyms: 
 
+PDE = Partial differential equation
+
+EM = Electromagnetic / electromagnetism
+
+LLG = Landau–Lifshitz–Gilbert equation
+
+LLGS = Landau–Lifshitz–Gilbert–Slonczewski (LLG with spin‑transfer torque)
+
+STT = Spin‑transfer torque
+
+SQL = Standard quantum limit
+
+QLB = Quantum lattice Boltzmann
+
+QHO = Quantum harmonic oscillator
+
+RF = Radio frequency
+
 DOE = Design of Experiments.
 
 GUM = Guide to the Expression of Uncertainty in Measurement. 
