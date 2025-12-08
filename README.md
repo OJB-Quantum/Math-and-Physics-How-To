@@ -127,9 +127,7 @@ graph TD
     style V fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
 ```
 
-![image](https://github.com/user-attachments/assets/833be6b8-6a9d-4602-a69c-63096bb91dac)
-
-Borrowed from: *Learn with the Map of Mathematics*, The Bright Side of Mathematics (2023)  
+Adapted from: *Learn with the Map of Mathematics*, The Bright Side of Mathematics (2023)  
 <https://youtu.be/ljGSId-uHw8?si=xKNup3hOVsWC6uTv&t=200>
 
 --- 
