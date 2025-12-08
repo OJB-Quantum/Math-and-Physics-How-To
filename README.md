@@ -98,28 +98,33 @@ graph TD
     Q --> V
     R --> Q
 
-    style A fill:#9ACD32,stroke:#333,stroke-width:2px
-    style B fill:#FFFF99,stroke:#333,stroke-width:2px
-    style C fill:#FFFF99,stroke:#333,stroke-width:2px
-    style D fill:#FFFF99,stroke:#333,stroke-width:2px
-    style E fill:#FFFF99,stroke:#333,stroke-width:2px
-    style F fill:#FFFF99,stroke:#333,stroke-width:2px
-    style G fill:#9ACD32,stroke:#333,stroke-width:2px
-    style H fill:#9ACD32,stroke:#333,stroke-width:2px
-    style I fill:#9ACD32,stroke:#333,stroke-width:2px
-    style J fill:#9ACD32,stroke:#333,stroke-width:2px
-    style K fill:#9ACD32,stroke:#333,stroke-width:2px
-    style L fill:#9ACD32,stroke:#333,stroke-width:2px
-    style M fill:#9ACD32,stroke:#333,stroke-width:2px
-    style N fill:#556B2F,stroke:#333,stroke-width:2px
-    style O fill:#556B2F,stroke:#333,stroke-width:2px
-    style P fill:#556B2F,stroke:#333,stroke-width:2px
-    style Q fill:#556B2F,stroke:#333,stroke-width:2px
-    style R fill:#556B2F,stroke:#333,stroke-width:2px
-    style S fill:#556B2F,stroke:#333,stroke-width:2px
-    style T fill:#556B2F,stroke:#333,stroke-width:2px
-    style U fill:#556B2F,stroke:#333,stroke-width:2px
-    style V fill:#556B2F,stroke:#333,stroke-width:2px
+    %% Group 1: Formerly Yellow (Foundation) - Now Medium Blue
+    style B fill:#2E64FE,stroke:#153E7E,stroke-width:2px,color:#FFFFFF
+    style C fill:#2E64FE,stroke:#153E7E,stroke-width:2px,color:#FFFFFF
+    style D fill:#2E64FE,stroke:#153E7E,stroke-width:2px,color:#FFFFFF
+    style E fill:#2E64FE,stroke:#153E7E,stroke-width:2px,color:#FFFFFF
+    style F fill:#2E64FE,stroke:#153E7E,stroke-width:2px,color:#FFFFFF
+
+    %% Group 2: Formerly Light Green (Core) - Now Dark Blue
+    style A fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+    style G fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+    style H fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+    style I fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+    style J fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+    style K fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+    style L fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+    style M fill:#0033CC,stroke:#001F7A,stroke-width:2px,color:#FFFFFF
+
+    %% Group 3: Formerly Dark Green (Advanced) - Now Very Dark/Navy Blue
+    style N fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+    style O fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+    style P fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+    style Q fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+    style R fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+    style S fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+    style T fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+    style U fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
+    style V fill:#000066,stroke:#000033,stroke-width:2px,color:#FFFFFF
 ```
 
 ![image](https://github.com/user-attachments/assets/833be6b8-6a9d-4602-a69c-63096bb91dac)
