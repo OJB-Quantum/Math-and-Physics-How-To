@@ -122,3 +122,74 @@ These gain definitions underpin electronic amplifier design, signal-chain analys
 * **Linearity:** Describes how well the amplifier preserves the proportionality between input and output; poor linearity leads to distortion and intermodulation products.
 
 RF amplifiers are further categorized by operating class (Class A, B, AB, C, etc.) and by role (low-noise amplifier, driver amplifier, power amplifier, etc.), but all use these same gain and dB conventions.
+
+
+---
+
+```
+Field & potential equations
+├─ Poisson (#5)
+│  ├─ Laplace (#3)                [special case with ρ = 0]
+│  ├─ Poisson–Boltzmann (#21)     [adds nonlinear screening by mobile ions]
+│  └─ Green’s functions (#9)      [invert Poisson/Helmholtz with sources]
+├─ Maxwell’s equations (#14)
+│  ├─ Continuity equation (#15)           [charge/ probability conservation]
+│  ├─ Wave equation (#2)                  [EM waves in vacuum/ media]
+│  │  └─ Helmholtz equation (#18)         [time‑harmonic reduction of waves]
+│  ├─ Poynting vector & theorem (#19)     [energy flow and conservation]
+│  └─ Fourier transform (#6)              [k–ω domain solutions, dispersion]
+└─ Geometric algebra (#17)
+   └─ Compactly rewrites Maxwell (#14), Dirac (#29, #30), and wave (#2, #18) equations
+
+Diffusion/ transport family
+├─ Fick’s 1st law (#11) → Fick’s 2nd law (#12)
+│  └─ Heat equation (#4)                  [same PDE with thermal parameters]
+├─ Continuity equation (#15)
+│  └─ Drift–diffusion currents (#35)
+│     └─ Mean free path (#13)             [microscopic origin of transport coefficients]
+├─ Navier–Stokes equation (#10)
+│  └─ Lattice Boltzmann equation (#43)    [mesoscopic solver recovering Navier–Stokes]
+└─ Poisson / Poisson–Boltzmann (#5, #21)
+   └─ Coupled to drift–diffusion (#35) in semiconductor and electrolyte device models
+
+Oscillators/ resonances
+├─ Classical oscillators
+│  ├─ Harmonic oscillator (#1)            [linear restoring force]
+│  ├─ Anharmonic oscillator (#23)         [nonlinear corrections]
+│  ├─ Resonant angular frequency (#16)    [ω₀ from parameters k, m or L, C]
+│  ├─ Quality factor Q (#20)              [spectral sharpness/ damping]
+│  └─ Scattering & transfer matrices (#37, #34)
+│        [S‑parameters and ABCD matrices for resonant networks]
+├─ Quantum oscillators & fields
+│  ├─ Quantum harmonic oscillator (#26) and quantum anharmonic (#32)
+│  ├─ Time‑dependent Schrödinger equation (#25)
+│  │  └─ Time‑independent Schrödinger equation (#27) [eigenproblem for stationary states]
+│  ├─ Dirac equations (#29, #30)          [relativistic spin‑½ dynamics]
+│  ├─ Quantum tunneling probability (#31) [barrier penetration]
+│  ├─ Quantum lattice Boltzmann (QLB) (#46)
+│  │    [discrete streaming–collision realization of Schrödinger/ Dirac]
+│  └─ Green’s functions (#9) in quantum propagation and scattering
+│       └─ Fermi’s Golden Rule (#47)      [transition rates between eigenstates]
+└─ Precision & noise (quantum limits)
+   ├─ Shot‑noise current (#24)            [Poisson counting noise of charge/ photons]
+   ├─ Optical shot‑noise SQL (#39)
+   │    [vacuum‑fluctuation limit of coherent light, amplitude & phase quadratures]
+   ├─ Amplifier SQL (#40)
+   │    [phase‑preserving linear amplifier: n_add ≥ 1/2, T_n ≥ ħω/(2k_B)]
+   ├─ Free‑mass SQL for displacement (#41)
+   │    [Δx_SQL(τ) ≳ √(ħτ/ (2m)) for continuous tracking of a free mass]
+   ├─ Measurement‑noise SQL product (#42)
+   │    [S_xx^imp(ω) · S_FF^ba(ω) ≥ ħ²/4, imprecision–back‑action tradeoff]
+   ├─ Heisenberg limit for phase estimation (#44)
+   │    [Δφ ≳ 1/N, ultimate scaling with entangled probes]
+   └─ Poynting/ Maxwell (#19, #14)
+        [optical power flow and field dynamics in quantum‑limited interferometers]
+
+Magnetization dynamics and spintronics
+├─ Effective field H_eff (#36)
+│  └─ LLG equation (#33)
+│      └─ LLGS with spin‑transfer torque (STT) (#45)
+└─ Coupled to:
+   ├─ Poisson/ Maxwell (#5, #14)         [fields, currents, spin‑orbit torques]
+   └─ Drift–diffusion (#35)               [spin‑polarized carrier transport]
+```
