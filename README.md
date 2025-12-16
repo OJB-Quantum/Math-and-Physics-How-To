@@ -204,9 +204,7 @@ graph TD
 
 ### A Technique For Training a Large Language Model Strategically on Real Mathematics Resources by (O.J.B.)
 
-<img width="1052" height="auto" alt="Screenshot 2025-12-15 202551" src="https://github.com/user-attachments/assets/e9cb9b5e-0d8e-4140-80d4-1754c96df385" />
-
-
+![Physics_Literature_for_LLMs_Figure_page-0001](https://github.com/user-attachments/assets/10730276-b298-453d-8211-27d573d2e8c5)
 
 ```mermaid
 graph TD
