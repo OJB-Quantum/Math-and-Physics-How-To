@@ -73,7 +73,7 @@ This edition targets **rigor level 5 of 5** as defined in the accompanying asses
 
 ## Rigor standard
 
-### High-school framing
+### Intuitive explanation/ framing
 
 In math and physics, rigor mainly means that, because assumptions are stated and steps are shown, a second reader can reproduce the result and can also tell when it stops being valid.
 
@@ -247,49 +247,14 @@ Proof emulation and rigor graph
 
 ---
 
-## Upgrade map implemented in this edition
+## Upgrades that can be implemented as needed
 
-The upgrades below are implemented pattern-by-pattern:
-
+Pattern-by-pattern: 
 - explicit hypotheses and theorem statements where the prior text was proof-sketch-like,
 - a standard error certificate clause generalized from the P6 style,
 - per-pattern primary sources for citation locality,
 - copyable formulas and redundant plain-text expressions for auditability,
 - and executable numerical checks embedded as short scripts.
-
-### Pattern-by-pattern rigor upgrade table
-
-| Pattern   | Mnemonic   | Baseline typical rigor   | Main upgrade lever from assessment                                                          | Implementation in this edition                                                                                      |
-|:----------|:-----------|:-------------------------|:--------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
-| P0        | DLT        | 4.5 / 5                  | Add more explicit quantifiers/space assumptions in statement                                | Added explicit inner-product theorem statement, equality condition, and executable inequality check.                |
-| P1        | MGSI       | 4.0 / 5                  | Add systematic unit checks and error bounds when approximating components                   | Added tolerance-based uncertainty propagation for τ=RC and an executable step-response check.                       |
-| P2        | SCALE      | 4.0 / 5                  | Add a regime map template: inequalities that define regimes explicitly                      | Added explicit Fourier-number regime map inequalities and an executable regime classifier.                          |
-| P3        | SYM        | 3.5 / 5                  | State Noether hypotheses more explicitly (smoothness, boundary terms)                       | Added cyclic-coordinate proposition plus a full Noether statement including boundary-term form.                     |
-| P4        | VAR        | 4.0 / 5                  | Add stability/second variation note when relevant                                           | Added stability commentary, model-error certificate for nonlinear springs, and executable frequency check.          |
-| P5        | EIG        | 4.0 / 5                  | Add orthonormalization and modal expansion reconstruction explicitly                        | Added M-orthonormal mode reconstruction formulas and executable eigenfrequency check.                               |
-| P6        | PERT       | 4.5 / 5                  | Generalize “error certificate” template to other approximations                             | Generalized the Taylor remainder certificate into a reusable template and executable error check.                   |
-| P7        | LR         | 4.0 / 5                  | Add causality/Kramers–Kronig note where appropriate                                         | Added causality analyticity and Kramers–Kronig relations, plus executable susceptibility magnitude check.           |
-| P8        | NOISE      | 4.0 / 5                  | Add explicit measurement chain example (noise figure → referred noise)                      | Added noise-figure and noise-temperature chain example with executable RMS noise check.                             |
-| P9        | IO         | 4.0 / 5                  | Add complex Z0 case and causality/passivity constraints                                     | Added complex-Z0 and passivity discussion with executable return-loss computation.                                  |
-| P10       | CIRC       | 3.5 / 5                  | Add explicit conditions for dependent sources and AC (Z_th(ω))                              | Added dependent-source test-source rule and small-signal linearization identity shift, plus executable check.       |
-| P11       | DDP        | 3.5 / 5                  | Add explicit link to full drift–diffusion–Poisson and boundary-layer logic                  | Explicitly reconnected to the drift–diffusion–Poisson closure and added a quantitative diode current check.         |
-| P12       | BAND       | 3.5 / 5                  | Add Fermi–Dirac integral form and a “degeneracy threshold” criterion                        | Added Fermi–Dirac integral form and degeneracy thresholds, plus executable degeneracy classifier.                   |
-| P13       | SC         | 3.5 / 5                  | Add explicit gauge-invariant phase definition and environment modeling note                 | Added gauge-invariant phase definition and the RCSJ environment model, plus executable f–V conversion.              |
-| P14       | MAG        | 3.5 / 5                  | Add Kittel formula connection and demagnetizing geometry example                            | Added Kittel-formula connection and demagnetizing-geometry assumptions, plus executable ω=γB check.                 |
-| P15       | SPIN       | 3.0 / 5                  | Add diffusion + interface transparency model (θ_eff derivation)                             | Added a diffusion and interface-transparency effective-angle model, plus executable θ_eff evaluation.               |
-| P16       | FORMS      | 4.0 / 5                  | Add moving-boundary (motional EMF) derivation as a worked extension                         | Added moving-boundary Faraday law and motional EMF example, plus executable Bℓv check.                              |
-| P17       | GA         | 3.5 / 5                  | Add explicit bivector sign conventions and a worked “matrix equivalence” check              | Added rotor sign-convention validation via matrix equivalence, plus executable Rodrigues check.                     |
-| P18       | GAUGE      | 3.5 / 5                  | Add explicit adiabatic condition estimate (gap vs. protocol speed)                          | Added quantitative adiabatic condition and executable Berry-phase computation.                                      |
-| P19       | INFO       | 4.0 / 5                  | Add equality conditions and relation to log-sum inequality explicitly                       | Added equality conditions and log-sum inequality linkage, plus executable KL check.                                 |
-| P20       | CRYPTO     | 3.5 / 5                  | Add precise game definition, adversary resource bounds, and tight collision accounting      | Added explicit IND-CPA game statement and tight collision accounting, plus executable birthday bound.               |
-| P21       | EXP        | 4.0 / 5                  | Add full covariance example and nonlinearity (second-order) caveat quantification           | Added full covariance propagation example and second-order caveat, plus executable correlated-uncertainty check.    |
-| P22       | QFI        | 4.0 / 5                  | Add quantum Fisher information example and measurement saturation condition                 | Added worked qubit quantum-Fisher example and saturation discussion, plus executable Fisher computation.            |
-| P23       | MEAS       | 4.0 / 5                  | Add a “checklist” to verify complete positivity and trace preservation in general           | Added CPTP verification checklist and executable Kraus completeness test.                                           |
-| P24       | QFT        | 3.5 / 5                  | Add units/ℏ,c conventions explicitly and show interacting/renormalized modification example | Added natural-unit conventions and interacting φ^4 identity shift, plus executable dispersion check.                |
-| P25       | TM         | 4.0 / 5                  | Add incoherent limit and oblique incidence TE/TM split as companion patterns                | Added oblique-incidence TE/TM Fresnel coefficients and incoherent limit pointer, plus executable reflectance check. |
-| P26       | NUM        | 4.0 / 5                  | Add consistency + convergence note (Lax equivalence: consistency + stability → convergence) | Added Lax–Richtmyer consistency–stability–convergence framing, plus executable r-stability check.                   |
-| P27       | STAT       | 4.0 / 5                  | Add grand canonical and a non-equilibrium “maximum caliber” pointer as a worked extension   | Added grand canonical extension and maximum caliber pointer, plus executable partition check.                       |
-
 
 ## Classification Tree by Primary Use
 
