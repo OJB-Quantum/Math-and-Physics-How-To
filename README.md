@@ -602,10 +602,15 @@ Greek Letters
 
 ---
 
-### Hyperoperations & Tetrations
+### Hyperoperations, Zeration, & Tetrations
 
 ```
 Hyper-operations
+├─ Level 0: Zeration (Successor/ Increment)
+│   ├─ Visible (unary view): S(b) = b + 1
+│   ├─ Visible (hyperop view): H_0(a,b) = a[0]b = b + 1   (a is ignored)
+│   └─ Invisible “dummy base a”:
+│       • write it without the unused left operand: b + 1
 ├─ Level 1: Addition
 │   ├─ Visible: a + 0
 │   └─ Invisible "add 0": a
@@ -625,6 +630,7 @@ Hyper-operations
 
 | Level | Operation | Full form | Default parameter made invisible | Invisible form |
 | :--- | :--- | :--- | :--- | :--- |
+| 0 | Zeration (successor/increment) | ( $H_0(a,b)=a[0]b=b+1$ ) | Left operand $a$ (ignored / dummy base) | ( $b+1$ ) |
 | 1 | Addition | ( $a+b$ ) | Additive identity (0) | ( $a=a+0$ ) |
 | 2 | Multiplication | ( $a \cdot b$ ) | Multiplicative identity (1) | ( $a=a \cdot 1$ ) |
 | 3 | Exponentiation | ( $a^b$ ) | Exponent (1) | ( $a=a^1$ ) |
