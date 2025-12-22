@@ -217,32 +217,36 @@ The patterns are designed to be composable. The compositional interfaces are:
 - response functions and spectra, such as susceptibilities and power spectral densities,
 - and transfer operators, such as scattering matrices, transfer matrices, or completely positive maps.
 
-A compact mind map that makes those interfaces visible:
+A compact tree that makes those interfaces visible:
 
 ```
 Proof emulation and rigor graph
-├─ Proof structure patterns
-│  ├─ P0 DLT inequalities, convexity, definitions
-│  ├─ P4 VAR and P3 SYM action, stationarity, Noether currents
-│  └─ P5 EIG and P6 PERT spectra and approximation hierarchies
-├─ Linear systems backbone
-│  ├─ P1 MGSI ODE response and time constants
-│  ├─ P7 LR susceptibilities χ(ω) and Green functions
-│  ├─ P8 NOISE spectral density conventions, bandwidth, and limits
-│  ├─ P9 IO ports, mismatch, and reflection constraints
-│  └─ P25 TM composition laws for layered scattering
-├─ Device physics pipelines
-│  ├─ P11 DDP transport equations → reduced device laws
-│  ├─ P12 BAND statistics and degeneracy thresholds
-│  ├─ P13 SC phase dynamics → frequency–voltage conversion
-│  ├─ P14 MAG LLG → resonance relations
-│  └─ P15 SPIN conversion + diffusion + interfaces
-└─ Inference and computation
-   ├─ P21 EXP uncertainty budgets and covariance propagation
-   ├─ P22 QFI Fisher bounds, quantum limits, optimal readout
-   ├─ P23 MEAS CPTP maps, Kraus operators, Lindblad limits
-   ├─ P26 NUM stability, consistency, convergence
-   └─ P27 STAT maximum entropy and ensemble logic, plus maximum caliber extensions
+
+|-- Proof structure patterns
+|   |-- P0 DLT inequalities, convexity, definitions
+|   |-- P4 VAR and P3 SYM action, stationarity, Noether currents
+|   |-- P5 EIG and P6 PERT spectra and approximation hierarchies
+|
+|-- Linear systems backbone
+|   |-- P1 MGSI ODE response and time constants
+|   |-- P7 LR susceptibilities chi(omega) and Green functions
+|   |-- P8 NOISE spectral density conventions, bandwidth, and limits
+|   |-- P9 IO ports, mismatch, and reflection constraints
+|   |-- P25 TM composition laws for layered scattering
+|
+|-- Device physics pipelines
+|   |-- P11 DDP transport equations -> reduced device laws
+|   |-- P12 BAND statistics and degeneracy thresholds
+|   |-- P13 SC phase dynamics -> frequency-voltage conversion
+|   |-- P14 MAG LLG -> resonance relations
+|   |-- P15 SPIN conversion + diffusion + interfaces
+|
+|-- Inference and computation
+|   |-- P21 EXP uncertainty budgets and covariance propagation
+|   |-- P22 QFI Fisher bounds, quantum limits, optimal readout
+|   |-- P23 MEAS CPTP maps, Kraus operators, Lindblad limits
+|   |-- P26 NUM stability, consistency, convergence
+|   |-- P27 STAT maximum entropy and ensemble logic, plus maximum caliber extensions
 ```
 
 ---
@@ -259,113 +263,115 @@ Pattern-by-pattern:
 ## Classification Tree by Primary Use
 
 ```text
-Pattern Library Corpus (Onri) — Classification Tree by Primary Use
-└─ Root
-   ├─ Mathematics, Geometry, and Algebra (coordinate-free) (11 sources)
-   │  ├─ A Covariant Approach to Geometry using Geometric Algebra_Lasenby_Lasenby_Wareham
-   │  ├─ Calculus on Manifolds_Spivak
-   │  ├─ Introduction to Differential Geometry_Robbin_Salamon
-   │  ├─ Abel’s Theorem in Problems and Solutions_Arnold_Alekseev
-   │  ├─ Clifford Algebra, Geometric Algebra, and Applications_Lundholm_Svensson
-   │  ├─ Clifford Algebras and Spinors_Freedman_Van Proeyen
-   │  ├─ Geometric Algebra as a Unifying Language for Physics and Engineering_Lasenby 
-   │  ├─ Geometric Algebra for Physicists_Lasenby
-   │  ├─ Geometric Algebra for Electrical and Electronic Engineers_Chappell et al.
-   │  ├─ Application of Geometric Algebra to Electromagnetic Scattering_Seagar
-   │  ├─ Applications of Conformal Geometric Algebra to Transmission Line Theory_Arsenovic
-   │
-   ├─ Semiconductors and Solid-State Electronic Devices (7 sources)
-   │  ├─ Solid-State Devices_Streetman
-   │  ├─ Semiconductor Physics and Devices_Neaman
-   │  ├─ Semiconductor and Device Physics_Goldsman_Darmody
-   │  ├─ Semiconductor Devices_Fiore
-   │  ├─ Solid-State Physics_Epifanov
-   │  ├─ Electric Circuits, Volume III -- Semiconductors_Kuphaldt
-   │  ├─ Quantum Nanostructures_Kumar_Kumar_Mahesh
-   │
-   ├─ Magnetism and Spintronics (9 sources)
-   │  ├─ Introduction to Magnetic Materials_Cullity
-   │  ├─ Modern Magnetic Materials_Principles and Applications_O'Handley
-   │  ├─ Handbook of Magnetism and Magnetic Materials_Parkin
-   │  ├─ Experimental Techniques in Magnetism and Magnetic Materials_Roy
-   │  ├─ Magnetic and Spin Devices_Sverdlov_Jutong
-   │  ├─ Brandon Zink PhD Thesis
-   │  ├─ Tom Peterson PhD Thesis
-   │  ├─ Yifei Yang PhD Thesis
-   │  ├─ Abhinav Kandala PhD Thesis
-   │
-   ├─ Superconductivity, Cryogenics, and Superconducting Devices (9 sources)
-   │  ├─ Introduction to Superconductivity_Tinkham
-   │  ├─ Superconductor Electronics_Hinken
-   │  ├─ Cryogenic Engineering_Timmerhaus_Reed
-   │  ├─ Heleen Dausy PhD Thesis
-   │  ├─ Janka Biznárová PhD Thesis 
-   │  ├─ Omid Noroozian PhD Thesis
-   │  ├─ Luca Planat PhD Thesis
-   │  ├─ Christopher Axline PhD Thesis
-   │  ├─ Jiansong Gao PhD Thesis
-   │
-   ├─ Quantum Mechanics Core (textbooks + problem technique) (8 sources)
-   │  ├─ Quantum Mechanics (vol. I, II and III, 2nd ed.)_Cohen-Tannoudji_Diu_Laloë
-   │  ├─ Quantum Mechanics Concepts and Applications_Zettili
-   │  ├─ Quantum Mechanics for Scientists and Engineers_Miller
-   │  ├─ Quantum Mechanics Made Simple_Lecture Notes_Chew
-   │  ├─ Quantum Mechanics_An Introduction for Device Physicists and Electrical Engineers_Ferry
-   │  ├─ Quantum Mechanics_Shoshany
-   │  ├─ Problem Solving in Quantum Mechanics_From Basics to Real-World Applications_Cahay_Bandyopadhyay
-   │  ├─ Quantum Mechanical Phase and Time Operator_Susskind_Glogower
-   │
-   ├─ Circuit Quantum Electrodynamics, Microwave Engineering, and Circuits (6 sources)
-   │  ├─ Circuit QED_Superconducting Qubits Coupled to Microwave Photons_Girvin
-   │  ├─ David Isaac Schuster PhD Thesis
-   │  ├─ Quantum Electrical Circuits_Lecture Notes_Ciani_DiVincenzo
-   │  ├─ Planar Microwave Engineering_Lee
-   │  ├─ Electric Circuits, Volume I -- DC_Kuphaldt
-   │  ├─ Electric Circuits, Volume II -- AC_Kuphaldt
-   │
-   ├─ Quantum Measurement, Noise, Optomechanics, and Metrology (19 sources)
-   │  ├─ Measurements in Quantum Mechanics_Pahlavani
-   │  ├─ Quantum Measurement_Braginsky_Khalili
-   │  ├─ Quantum Measurement_Theory and Practice_Jordan_Siddiqi
-   │  ├─ Quantum Measurement Theory and its Applications_Jacobs
-   │  ├─ Introduction to Quantum Noise, Measurement, and Amplification_Clerk_Devoret_Girvin_Marquardt_Schoelkopf
-   │  ├─ Quantum Mechanical Noise in an Interferometer_Caves
-   │  ├─ Quantum Optomechanics_Bowen_Milburn
-   │  ├─ Quantum Noise in Mesoscopic Physics_Nazarov
-   │  ├─ Shiyuan Zhao PhD Thesis
-   │  ├─ Vivishek Sudhir PhD Thesis 
-   │  ├─ Ronald Pagano PhD Thesis
-   │  ├─ Roman Schmeissner PhD Thesis
-   │  ├─ Applications and Metrology at Nanometer Scale 2_Dahoo_Pougnet_El Hami
-   │  ├─ Quantum Interferometry in Phase Space_Suda
-   │  ├─ Generalized Measure of Quantum Fisher Information_Sone_Cerezo_Beckey_Coles
-   │  ├─ Quantum Fisher Information and its Dynamical Nature_Scandi_Abiuso_Surace_De Santis
-   │  ├─ Introduction to Quantum Fisher Information_Petz_Ghinea
-   │  ├─ Sub-Quantum Fisher Information_Cerezo_Sone_Beckey_Coles
-   │  ├─ Quantum Optics in Phase Space_Schleich
-   │
-   ├─ Quantum Information, Computation, and Cryptography (9 sources)
-   │  ├─ A Mini Introduction to Information Theory_Witten
-   │  ├─ A Group Theoretic Approach to Quantum Information_Hayashi
-   │  ├─ Quantum Information Theory_Wilde
-   │  ├─ Quantum Shannon Theory_Wilde
-   │  ├─ Quantum Information Processing_Bergou_Hillery_Saffman
-   │  ├─ Quantum Information Science_Manenti_Motta
-   │  ├─ Theory of Quantum Computation, Communication, and Cryptography_van Dam_Kendon_Severini
-   │  ├─ Post-Quantum Cryptography_Ding_Tillich
-   │  ├─ Quantum Computing Architecture and Hardware for Engineers_Wong
-   │
-   ├─ Quantum Field Theory, Gauge Theory, and Strings (7 sources)
-   │  ├─ More On Gauge Theory And Geometric Langlands_Witten
-   │  ├─ Algebraic Structures and Differential Geometry in 2D String Theory_Witten_Zwiebach
-   │  ├─ Quantum Fields and Strings_Diligne et al.
-   │  ├─ The Black Book of Quantum Chromodynamics_Campbell_Huston_Krauss
-   │  ├─ Weak Interactions_Georgi
-   │  ├─ Quantum Theory from First Principles_D’Ariano_Chiribella_Perinotti
-   │  ├─ Quantum Transport_Nazarov_Blanter
-   │
-   ├─ Foundations (classical physics) (1 sources)
-   │  ├─ Fundamentals of Physics_Shankar
+Pattern Library Corpus (Onri) -- Classification Tree by Primary Use
+
+Root
+|
+|-- Mathematics, Geometry, and Algebra (coordinate-free) (11 sources)
+|   |-- A Covariant Approach to Geometry using Geometric Algebra_Lasenby_Lasenby_Wareham
+|   |-- Calculus on Manifolds_Spivak
+|   |-- Introduction to Differential Geometry_Robbin_Salamon
+|   |-- Abel's Theorem in Problems and Solutions_Arnold_Alekseev
+|   |-- Clifford Algebra, Geometric Algebra, and Applications_Lundholm_Svensson
+|   |-- Clifford Algebras and Spinors_Freedman_Van Proeyen
+|   |-- Geometric Algebra as a Unifying Language for Physics and Engineering_Lasenby
+|   |-- Geometric Algebra for Physicists_Lasenby
+|   |-- Geometric Algebra for Electrical and Electronic Engineers_Chappell et al.
+|   |-- Application of Geometric Algebra to Electromagnetic Scattering_Seagar
+|   |-- Applications of Conformal Geometric Algebra to Transmission Line Theory_Arsenovic
+|
+|-- Semiconductors and Solid-State Electronic Devices (7 sources)
+|   |-- Solid-State Devices_Streetman
+|   |-- Semiconductor Physics and Devices_Neaman
+|   |-- Semiconductor and Device Physics_Goldsman_Darmody
+|   |-- Semiconductor Devices_Fiore
+|   |-- Solid-State Physics_Epifanov
+|   |-- Electric Circuits, Volume III -- Semiconductors_Kuphaldt
+|   |-- Quantum Nanostructures_Kumar_Kumar_Mahesh
+|
+|-- Magnetism and Spintronics (9 sources)
+|   |-- Introduction to Magnetic Materials_Cullity
+|   |-- Modern Magnetic Materials_Principles and Applications_O'Handley
+|   |-- Handbook of Magnetism and Magnetic Materials_Parkin
+|   |-- Experimental Techniques in Magnetism and Magnetic Materials_Roy
+|   |-- Magnetic and Spin Devices_Sverdlov_Jutong
+|   |-- Brandon Zink PhD Thesis
+|   |-- Tom Peterson PhD Thesis
+|   |-- Yifei Yang PhD Thesis
+|   |-- Abhinav Kandala PhD Thesis
+|
+|-- Superconductivity, Cryogenics, and Superconducting Devices (9 sources)
+|   |-- Introduction to Superconductivity_Tinkham
+|   |-- Superconductor Electronics_Hinken
+|   |-- Cryogenic Engineering_Timmerhaus_Reed
+|   |-- Heleen Dausy PhD Thesis
+|   |-- Janka Biznarova PhD Thesis
+|   |-- Omid Noroozian PhD Thesis
+|   |-- Luca Planat PhD Thesis
+|   |-- Christopher Axline PhD Thesis
+|   |-- Jiansong Gao PhD Thesis
+|
+|-- Quantum Mechanics Core (textbooks + problem technique) (8 sources)
+|   |-- Quantum Mechanics (vol. I, II and III, 2nd ed.)_Cohen-Tannoudji_Diu_Laloe
+|   |-- Quantum Mechanics Concepts and Applications_Zettili
+|   |-- Quantum Mechanics for Scientists and Engineers_Miller
+|   |-- Quantum Mechanics Made Simple_Lecture Notes_Chew
+|   |-- Quantum Mechanics_An Introduction for Device Physicists and Electrical Engineers_Ferry
+|   |-- Quantum Mechanics_Shoshany
+|   |-- Problem Solving in Quantum Mechanics_From Basics to Real-World Applications_Cahay_Bandyopadhyay
+|   |-- Quantum Mechanical Phase and Time Operator_Susskind_Glogower
+|
+|-- Circuit Quantum Electrodynamics, Microwave Engineering, and Circuits (6 sources)
+|   |-- Circuit QED_Superconducting Qubits Coupled to Microwave Photons_Girvin
+|   |-- David Isaac Schuster PhD Thesis
+|   |-- Quantum Electrical Circuits_Lecture Notes_Ciani_DiVincenzo
+|   |-- Planar Microwave Engineering_Lee
+|   |-- Electric Circuits, Volume I -- DC_Kuphaldt
+|   |-- Electric Circuits, Volume II -- AC_Kuphaldt
+|
+|-- Quantum Measurement, Noise, Optomechanics, and Metrology (19 sources)
+|   |-- Measurements in Quantum Mechanics_Pahlavani
+|   |-- Quantum Measurement_Braginsky_Khalili
+|   |-- Quantum Measurement_Theory and Practice_Jordan_Siddiqi
+|   |-- Quantum Measurement Theory and its Applications_Jacobs
+|   |-- Introduction to Quantum Noise, Measurement, and Amplification_Clerk_Devoret_Girvin_Marquardt_Schoelkopf
+|   |-- Quantum Mechanical Noise in an Interferometer_Caves
+|   |-- Quantum Optomechanics_Bowen_Milburn
+|   |-- Quantum Noise in Mesoscopic Physics_Nazarov
+|   |-- Shiyuan Zhao PhD Thesis
+|   |-- Vivishek Sudhir PhD Thesis
+|   |-- Ronald Pagano PhD Thesis
+|   |-- Roman Schmeissner PhD Thesis
+|   |-- Applications and Metrology at Nanometer Scale 2_Dahoo_Pougnet_El Hami
+|   |-- Quantum Interferometry in Phase Space_Suda
+|   |-- Generalized Measure of Quantum Fisher Information_Sone_Cerezo_Beckey_Coles
+|   |-- Quantum Fisher Information and its Dynamical Nature_Scandi_Abiuso_Surace_De Santis
+|   |-- Introduction to Quantum Fisher Information_Petz_Ghinea
+|   |-- Sub-Quantum Fisher Information_Cerezo_Sone_Beckey_Coles
+|   |-- Quantum Optics in Phase Space_Schleich
+|
+|-- Quantum Information, Computation, and Cryptography (9 sources)
+|   |-- A Mini Introduction to Information Theory_Witten
+|   |-- A Group Theoretic Approach to Quantum Information_Hayashi
+|   |-- Quantum Information Theory_Wilde
+|   |-- Quantum Shannon Theory_Wilde
+|   |-- Quantum Information Processing_Bergou_Hillery_Saffman
+|   |-- Quantum Information Science_Manenti_Motta
+|   |-- Theory of Quantum Computation, Communication, and Cryptography_van Dam_Kendon_Severini
+|   |-- Post-Quantum Cryptography_Ding_Tillich
+|   |-- Quantum Computing Architecture and Hardware for Engineers_Wong
+|
+|-- Quantum Field Theory, Gauge Theory, and Strings (7 sources)
+|   |-- More On Gauge Theory And Geometric Langlands_Witten
+|   |-- Algebraic Structures and Differential Geometry in 2D String Theory_Witten_Zwiebach
+|   |-- Quantum Fields and Strings_Diligne et al.
+|   |-- The Black Book of Quantum Chromodynamics_Campbell_Huston_Krauss
+|   |-- Weak Interactions_Georgi
+|   |-- Quantum Theory from First Principles_D'Ariano_Chiribella_Perinotti
+|   |-- Quantum Transport_Nazarov_Blanter
+|
+|-- Foundations (classical physics) (1 source)
+|   |-- Fundamentals of Physics_Shankar
 ```
 
 ## Proof Emulation Cards 
