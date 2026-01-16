@@ -15,6 +15,10 @@ Stimulus <-- Latin stimulus (“goad, spur”). Response <-- Latin respondēre (
 
 --- 
 
+Click here to view Onri's Proof Emulation Handbook: <https://github.com/OJB-Quantum/Math-and-Physics-How-To/blob/main/Proof_Emulation_Knowledge_Library%20Plus%20Examples_LaTeX_2025.pdf>
+
+---
+
 ### Free Mathematics Textbooks Resources: 
 - [Mathematics Its Contents Methods And Meaning Vol 1, 2, & 3](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3/Mathematics-%20its%20contents%20methods%20and%20meaning%20Vol%201/page/n221/mode/2up)
 - [Mathematical Handbook - Higher Mathematics](https://archive.org/details/vygodsky-mathematical-handbook-higher-mathematics-mir/mode/2up)
