@@ -17,6 +17,10 @@ Stimulus <-- Latin stimulus (“goad, spur”). Response <-- Latin respondēre (
 
 Click here to view Onri's Proof Emulation Handbook: <https://github.com/OJB-Quantum/Math-and-Physics-How-To/blob/main/Proof_Emulation_Knowledge_Library%20Plus%20Examples_LaTeX_2025.pdf>
 
+Click here to view Onri's Table of Known Quantum Limits: <https://github.com/OJB-Quantum/Math-and-Physics-How-To/blob/main/Table_of_Known_Quantum_Limits_OJB_2025.pdf>
+
+Click here to view Onri's Treatise on Energy Diagrams and Hills: <https://github.com/OJB-Quantum/Math-and-Physics-How-To/blob/main/Treatise_on_Energy_Diagrams_and_Hills_OJB_(2025).pdf>
+
 ---
 
 ### Free Mathematics Textbooks Resources: 
