@@ -15,6 +15,10 @@ Stimulus <-- Latin stimulus (“goad, spur”). Response <-- Latin respondēre (
 
 --- 
 
+Click here to view Onri's Proof Emulation Handbook: <https://github.com/OJB-Quantum/Math-and-Physics-How-To/blob/main/Proof_Emulation_Knowledge_Library%20Plus%20Examples_LaTeX_2025.pdf>
+
+---
+
 ### Free Mathematics Textbooks Resources: 
 - [Mathematics Its Contents Methods And Meaning Vol 1, 2, & 3](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3/Mathematics-%20its%20contents%20methods%20and%20meaning%20Vol%201/page/n221/mode/2up)
 - [Mathematical Handbook - Higher Mathematics](https://archive.org/details/vygodsky-mathematical-handbook-higher-mathematics-mir/mode/2up)
@@ -602,10 +606,15 @@ Greek Letters
 
 ---
 
-### Hyperoperations & Tetrations
+### Hyperoperations, Zeration, & Tetrations
 
 ```
 Hyper-operations
+├─ Level 0: Zeration (Successor/ Increment)
+│   ├─ Visible (unary view): S(b) = b + 1
+│   ├─ Visible (hyperop view): H_0(a,b) = a[0]b = b + 1   (a is ignored)
+│   └─ Invisible “dummy base a”:
+│       • write it without the unused left operand: b + 1
 ├─ Level 1: Addition
 │   ├─ Visible: a + 0
 │   └─ Invisible "add 0": a
@@ -625,6 +634,7 @@ Hyper-operations
 
 | Level | Operation | Full form | Default parameter made invisible | Invisible form |
 | :--- | :--- | :--- | :--- | :--- |
+| 0 | Zeration (successor/increment) | ( $H_0(a,b)=a[0]b=b+1$ ) | Left operand $a$ (ignored / dummy base) | ( $b+1$ ) |
 | 1 | Addition | ( $a+b$ ) | Additive identity (0) | ( $a=a+0$ ) |
 | 2 | Multiplication | ( $a \cdot b$ ) | Multiplicative identity (1) | ( $a=a \cdot 1$ ) |
 | 3 | Exponentiation | ( $a^b$ ) | Exponent (1) | ( $a=a^1$ ) |
