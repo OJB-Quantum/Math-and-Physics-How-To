@@ -259,7 +259,7 @@ graph TD
 |-|-|
 | Substitute given variables with custom <br> or other existing variables (e.g., AbcdEfG) | Solve the equation using your own variables, then mirror the steps onto the original problem for proportional reasoning. A technique to solving a formula is to find a term that exists in a different equation, followed by solving for that desired term (isolating it to one side). |
 | Interpret the equal sign as <br> "converts to" | Thinking of "=" as "converts to" can facilitate substitutions & <br> manipulations in other mathematical expressions. |
-| Think of fractions in terms of ratios by <br> default | Viewing values as ratios can simplify problem-solving & conceptual understanding. You can also think of fractions as being "<numerator>" per "<denominator>". |
+| Think of fractions in terms of ratios by default | Viewing values as ratios can simplify problem-solving & conceptual understanding. You can also think of fractions as being "<numerator>" per "<denominator>". |
 | Understand the difference between analytical vs. numerical approaches| Exact solutions are often associated with analytical approaches while approximation or discretized solutions are often associated with numerical appoaches. | 
 | Isolating a term in a complex mathematical formula is like untangling a knot | Sometimes one needs to loosen things before making real progress, and every move must be made with careful consideration of how it affects the whole structure. Being well-organized & systematic can take one a very long way in problem solving. |
 | Use software tools for conversion <br> to markdown or LaTeX | Convert equations for better inspection & rendering, ensuring <br> accuracy. |
