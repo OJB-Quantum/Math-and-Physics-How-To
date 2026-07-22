@@ -374,6 +374,9 @@ Inspired by: Gisin, Indeterminism in Physics and Intuitionistic Mathematics, Syn
 ### Categories of Mathematical Spaces
 (Of which many carry direct physical interpretations)
 
+<img width="2784" height="auto" alt="Major Mathematical Spaces" src="https://github.com/user-attachments/assets/fabba48b-2cff-4162-92f7-93285a71d465" />
+
+
 | Category | Examples | Origin | Usage |
 |-|-|-|-|
 | Pure mathematical spaces                  | Hilbert, Banach, Sobolev, manifold  | Math only                  | Foundations, proofs, structures  |
