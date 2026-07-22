@@ -21,6 +21,8 @@ Click here to view Onri's Table of Known Quantum Limits: <https://github.com/OJB
 
 Click here to view Onri's Treatise on Energy Diagrams and Hills: <https://github.com/OJB-Quantum/Math-and-Physics-How-To/blob/main/Treatise_on_Energy_Diagrams_and_Hills_OJB_(2025).pdf>
 
+Click here to view Onri's Treatise on the Standard Quantum Limit in Measurement Physics: <https://github.com/OJB-Quantum/Math-and-Physics-How-To/blob/main/Treatise_on_The_Standard_Quantum_Limit_in_Measurement_Physics.pdf>
+
 ---
 
 ### Free Mathematics Textbooks Resources: 
